@@ -33,7 +33,7 @@ def parse_content(Url):
     opener.addheaders = [('User-agent', 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1')]
     html = opener.open(Url)
 
-    bsObj = BeautifulSoup(html)
+    bsObj = BeautifulSoup(html, "html.parser")
     contents = bsObj.findAll("div", {"class": "content b-txt1"}) + bsObj.findAll("div", {"class": "item_hide"})
     return contents
 
