@@ -1,0 +1,3740 @@
+
+时代の句变 151109 朝
+【事】David Cameron has given his strongest message yet that he willcampaign for Britain to leave the European Union if his demands forreform are not met.
+［王梓诚译］大卫•卡梅隆向欧盟发出迄今为止最强警告：如果不满足他对改革的要求，他将致力于让英国离开欧盟
+［朱绩崧译］英相大卫•卡梅隆向欧盟发出迄今最强警告：如不满足各项改革要求，他将引领英国退盟
+［源］YND
+【辞】campaign
+【义】vi. work in an organized and active way towards a particulargoal, typically a political or social one（尤指为达到政治或社会目的）参加运动
+【例】people who campaigned against child labour 参加反童工运动的人们
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151109 午
+【事】President Obama on Saturday announced new federal guidelinesthat would limit the percentage of class time taken up bystandardized testing and help local governments reevaluateindividual programs.
+［钱米青译］奥巴马总统于周六签署了一系列关于限制课堂时间用于标准化测试与旨在帮助各州政府教育部门对学生重新进行学业评价的联邦法案
+［朱绩崧译］美总统奥巴马周六签署多份联邦指南，限制用于标准化测试的课堂时间，并帮助各州政府重新评估本州教学项目
+［源］Christian Science Monitor
+【辞】reevaluate
+【义】to consider or examine something again in order to make changes orto form a new opinion about it；再评估，再评价
+【例】The plan will be re-evaluated annually to see what areas needattention. 这项计划每年会被重新评价以检查有哪些方面需要我们注意。
+［源］Cambridge Dicts. Online & ECD2
+钱米青敬制｜重光会 © 2015
+
+时代の句变 151109 暮1
+【事】Malcolm Turnbull plans to advise the Governor-General and theQueen to release correspondence between former governor-generalJohn Kerr and the palace leading to the dismissal of the Whitlamgovernment.
+【王娅妮译】澳总理马尔科姆•特恩布尔计划建议澳联邦总督和女王公布前总督约翰•克尔和皇室之间的通信，该通信曾导致惠特拉姆政府解散。
+【大学士译】澳总理马尔科姆•特恩布尔拟建议联邦总督与英女王公布前总督约翰•克尔与皇室之间的通信内容，此番通信导致惠特拉姆政府解散。
+[源] The Australian
+【辞】dismiss
+【义】vi. (of a group assembled under someone's authority)disperse解散
+【例】He told his company to dismiss.他让公司解散。
+［源］ODE2
+王娅妮敬制｜重光会 2015
+
+时代の句变 151109 暮2
+【事】Chinese and Russian spies have attempted to hack into the topsecrect details of Australia's future submarines, with both Beijingand Moscow believed to have mounted repeated cyber attacks inrecent months.
+【王娅妮译】中俄间谍试图非法闯入澳电脑系统窃取未来潜水艇顶级机密信息，据信两国政府近几个月来多次企图通过网络攻击来获取这些信息。
+【大学士译】中俄间谍试图闯入澳电脑系统窃取新型潜艇绝密资料，据信中俄官方近几月来多次发起对澳网络攻击。
+［源］The Australian
+【辞】hack into
+【义】gain unauthorized access to data in a system orcomputer非法获取系统（或电脑）中的数据，非法闯入系统
+【例】They hacked into the bank's computer.他们非法闯入这家银行的电脑。
+［源］ODE2
+王娅妮敬制｜重光会 2015
+1109王娅妮学习笔记
+1. plan to advise 拟建议(初译“计划建议”，“拟”字更正式更符合澳总理口气)
+2. the Governer-general联邦总督(前面已经说澳总理，所以这里不用'澳联邦总督'，直接为“联邦总督”)
+3. correspondence 通信内容(初翻“通信”加“内容”)
+4. ...leading to 此番通信(用“此番”来连接，此番比该更符合新闻文笔，而且一个番字突出重大性。
+5. future submarines新型潜艇（初译为“未来潜水艇”，对future理解不到位，实际为正在秘密研制的新型潜艇。初译“未来”尚且有种未开始未实现的迷幻感觉。换“潜水艇”为“潜艇”更正式，而且与“新型”搭配成四字词组。）
+6. top secrect details绝密资料（初译为“顶级机密信息”，翻译腔重，如果抛开原文，中文媒体似从未写过“顶级……信息。另，“绝密资料”中“绝”对top，“密”对secrect，“资料”对details，初details仅译为“信息”显单薄，“资料”体现出复数details,大量详细信息。
+7. Beijing and Moscow 中俄官方（初译为“两国政府”，改译为“官方”的好处本初译人员仍在思索中，感觉原文采用Beijing and Moscow 取代开头的 Chinese andRussian非常巧妙也很正式，但是初译人员目前仍在思索为何改译未采用“中俄政府”或者“中俄方面” --- 昨天有一个authorities处理为“方面”，感觉从改译的“官方”也能回到“authorities”）
+8. 【原文】： have mounted repeated cyber attacks in recent months
+【初译】：近几个月来多次企图通过网络攻击来获取这些信息
+【改译】：近几月来多次发起对澳网络攻击
+【更改点】：近几个月-近几月（更简洁）；
+　　　　　　网络-澳网络（严格定义攻击对象，提醒读者）
+Mounted……by cyber attacks 发起攻击（初译把mounted理解为企图多次做某事，跟 tried,attempted类似。改译处理为“发起攻击”，简洁，因前半句已交代要窃取资料，再“获取信息”啰嗦了。“发起”有种屡次集中力量冲击某事的即视感，初译人员理解为“试图”应该是理解正确了，却没能找到“发起”这个同时表达意图又直接身为动词的，简洁动词）
+
+时代の句变 151110 朝1
+【事】In unusually strong language, America’s secretary for defence,Ash Carter, criticised Russia’s treatment of its neighbours andnuclear braggadocio as a threat to world peace.美国防部长阿什·卡特用少见的强势口吻批评了俄罗斯对待邻邦的方式及其核武器的自夸自擂，认为这些对世界和平构成了威胁。
+［源］Eco. Esp.
+【辞】braggadocio
+【义】[mass noun] boastful or arrogant behaviour 自夸，吹牛
+【例】The overriding impression is one of mayhem, machismo, bluster,and braggadocio.
+［源］ODE2 & oxforddictionary.com
+王梓诚敬制｜重光会©2015
+
+时代の句变 151110 朝2
+【事】In unusually strong language, America’s secretary for defence,Ash Carter, criticised Russia’s treatment of its neighbours andnuclear braggadocio as a threat to world peace.
+王梓诚译：美国防部长阿什·卡特用少见的强势口吻批评了俄罗斯对待邻邦的方式及其核武器的自夸自擂，认为这些对世界和平构成了威胁。
+大学士译：美国防部长阿什·卡特用罕见的强硬口吻批评俄罗斯对其邻国不善并且总拿核武器耀武扬威，认为这些都威胁到了世界和平。
+［源］Eco. Esp.
+【辞】braggadocio
+【义】[mass noun] boastful or arrogant behaviour 自夸，吹牛
+【例】His braggadocio hid the fact that he felt personallyinadequate.
+他外表狂妄自大，掩盖了内心的怯怯乔乔。
+【源】personification of boasting in Faerie Queene by EdmundSpenser.
+［源］ODE2 & M-W
+王梓诚敬制｜重光会©2015
+
+时代の句变 151110 午
+【事】Opposition leader Aung San Suu Kyi's national league ofDemocracy party appeared headed for a landslide victory lateyesterday in historic elections in Myanmar.
+［王娅妮译］昨傍晚缅甸历史性大选中，由反对党领袖昂山素季领导的缅甸全国民主联盟以压倒性多数票胜利遥居首位。
+［朱绩崧改］昨傍晚，缅甸历史性大选中，反对党领袖昂山素季领导的全国民主联盟得票已显压倒性多数。
+［源］The Age of Australia
+【辞】landslide
+【义】 n. an overwhelming majority of votes for one party in anelection（选举中）压倒性多数票
+【例】winning the election by a landslide 以压倒性多数票赢得选举
+［源］ODE2
+【王娅妮总结】
+1. “昨傍晚”后加逗号(体现历史性时间)
+2. 去掉“由”，直接“（人物）领导的”
+3. 改“缅甸全国”为“全国”，去掉“缅甸”，重复。
+4. [原文]appeared headed for a landslide victory
+[王娅妮译]以压倒性多数票胜利遥居首位
+[大学士改]得票已显压倒性多数
+Head for: appear to be moving inevitably towards sth.(from ODE2 aswell)
+[王娅妮译]首先，没有译出 “appear”; 其次，“遥居首位”添加太多，原文没有首位的意思;再次，王译句子结构为“以胜利居首位”，有病句之嫌，首位通常是众多相比，另外胜利就是首位。最后“以压倒性多数票胜利遥居首位”中，“压倒”“胜利”“居首位”实为同一意思的表达，啰嗦重复。
+[大学士改] appear headed for译为“已显”，既译出“appear”也译出时态。“得票”的“得”字译出了投票结果的味道。整句“得票已显压倒性多数”中“压倒”已包含胜利“victory”的意思，简洁明确。
+[王娅妮心得]对于句子的主要动词的分析理解(如本句 appear headed for)
+需要更加仔细，对于常见词 head 不常见的搭配 head for需要更为细致地查询字典。整个译完后多读读看是否有添加过多和重复语义的问题。
+王娅妮敬制｜重光会©2015
+
+时代の句变 151110 暮
+【事】BHP Billiton shares have plunged to their lowest level since theheight of the financial crisis in the wake of the deadly collapseof dams at a mine in Brazil.
+［王娅妮译］澳必和必拓公司股票随着该公司巴西矿坝致命性溃堤，骤然猛跌至08年经济危机最惨烈以来的最低点。
+［王梓诚译］继澳必和必拓公司巴西的尾矿坝惨重决堤后，该公司股价骤跌至金融危机顶峰以来之历史最低。
+［朱绩崧译］澳必和必拓公司巴西矿坝溃堤致人死亡，股价遂暴跌至金融危机最深重时期以来之历史低点。
+［源］Herald Sun of Australia
+【辞】plunge
+【义】vt. suffer a rapid decrease in value （价值）猛跌
+【例】Shares in the company plunged 18p on news that profits hadfallen. 利润下降的消息传来，公司的股票便骤然猛跌了18便士。
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151111 朝
+【事】Having already spun off Messenger, its messaging service, intoits own app, this week Facebook is expected to launch Notify, abreaking-news app that will alert users when their favouritepublications publish new stories.
+［王梓诚译］继Facebook将其原有的短信服务Messenger单独分为一个app后，本周Facebook又将推出一实时新闻类app——Notify。当用户最喜欢的出版物发布新报道时，它可以提醒用户收看。
+［朱绩崧译］Facebook将原有短信服务Messenger独立为app后，本周有望推出实时要闻类app：Notify。当用户订阅的刊物发布新报道时，可提醒阅读。
+［源］Eco. Esp.
+【辞】spin off
+【义】(of a parent company) turn a subsidiary into a new and separatecompany （母公司）将子公司转为独立的新公司
+【例】The company spun off its computer division.
+那家公司将其计算机部门独立为一家新公司。
+［源］ODE2 & M-W
+王梓诚敬制｜重光会©2015
+
+时代の句变 151111 午
+【事】China’s young adults are expected to splash out more than $10billion today, Singles Day.
+［王梓诚译］中国年轻人有望在光棍节的今天“壕”掷不少于100亿美元。
+［朱绩崧译］今日光棍节，中国年轻消费者有望豪掷逾100亿美元。
+［源］Eco. Esp.
+【辞】splash out or splash (money) out
+【义】Brit. informal spend money freely <</span>英，非正式>大手大脚地花钱
+【例】She splashed out on a Mercedes. 她出手阔绰地买了一辆梅塞德斯牌汽车。
+［源］ODE2
+王梓诚敬制｜重光会©️2015
+From西敏寺的Monkey：ode2例句太长。“地”改成逗号，一辆的“一”、“牌”去掉，甚至“汽车”也可以去掉，至少字典里可以加上括号。
+
+时代の句变 151111 暮1
+【事】Russia's Prime Minister said yesterday a bomb may have downedthe passenger jet that crashed in Egypt, Moscow's strongestacknowledgement yet that it may have been a terrorist attack.
+［王娅妮译］俄总理昨日宣称于埃及坠毁的俄客机毁因疑似炸弹击落，这是俄官方迄今作出的关于该客机坠毁可能是恐怖分子袭击所致的最肯定确认。
+［朱绩崧译］俄总理昨称，俄客机疑因炸弹坠毁埃及，此系俄官方迄今就恐怖袭击论所发之最明确公告。
+[源] The Australian
+【辞】down
+【义】vt. knock or bring to the ground 击倒，击落
+【例】175 enemy aircraft had been downed. 175 架敌机被击落。
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151111 暮2
+【事】China Securities Journal, a semiofficial Chinese publication,said on Tuesday that public security agencies had frozen accountstotaling 4.3 billion renminbi, or about $675 million, that belongto a woman whom the Chinese news media have identified as Mr. Xu’smother.
+[钱米青译]援引具有官方背景的《中国证券报》周二消息称，公安部门已经冻结了约43亿人民币，折合6.75亿美元的证券账户。中国媒体称，这些账户被认为是徐翔母亲所控制的。
+[朱绩崧译]周二，据半官方的《中国证券报》，公安部门已冻结若干证券账户/〔粤语〕户口，市值43亿人民币，约合6.75亿美元。该国新闻称，这些账户据信为徐翔之母所持。
+[源] NYT
+【辞】semiofficial
+【义】a. having some, but not full, official authority or recognition半官方的
+【例】a semiofficial visit. 半官方访问。
+[源] ODE2
+钱米青敬制｜重光会 © 2015
+
+时代の句变 151112 朝
+【事】European Union leaders will ask 30 African countries today forhelp in curbing migration across the Mediterranean.
+［王梓诚译］今天，欧盟领导人将向30个非洲国家寻求帮助，以控制横跨地中海的非法移民。
+［朱绩崧译］欧盟领袖将于今日请求非洲卅国协助遏制跨地中海移民潮。
+［源］Eco. Esp.
+【辞】curb
+【义】vt. restrain or keep in check 抑制、控制、约束
+【例】She promised she would curb her temper. 她答应会控制自己的脾气。
+［源］ODE2
+王梓诚敬制｜重光会©2015
+From 群共同阅读：
+青鸟：继续支持王梓诚译文
+黄药师：我更喜欢大学士的翻译，curb这个词我也译成遏制。控制是主动的，遏制是被动的，面对移民潮，欧盟应该是被动的。
+青鸟：基本上我选择的标准就是新闻报导的惯用方式，大学士的译文确实言简意赅，不过新闻里比较少见这种方式。
+黄药师：大学士适合译经典
+青鸟：是的
+黄药师：很佩服大学士对每个字的拿捏，一点也不含糊。
+朱涛：但是现实中欧盟层面无“领袖”级的领导人…
+青鸟：绝大多数情况下都是说欧盟领导人，领袖极少用。实际中争没有定论会引起较大争议。
+
+时代の句变 151112 午
+【事】Malcolm Turnbull is positioned to reclaim Kevin Rudd's biggestregional diplomatic initiative at next week's East Asia Summit inMalaysia, which is preparing to assume more power to deal withproblems ranging from people smuggling to terrorism.
+［王娅妮译］澳总理马尔科姆·特恩布尔拟于下周马拉西亚东亚峰会上，重申前总理陆克文最重要的区域外交计划，该峰会准备吸纳更多力量来应对从人口走私到恐怖主义的诸多问题。
+［朱绩崧译］澳总理马尔科姆·特恩布尔拟于下周马拉西亚东亚峰会上，重拾前任陆克文治下规模最大之区域外交方案。峰会旨在聚力应对贩运人口、恐怖主义等问题。
+［源］Financial Review of Australia
+【辞】assume
+【义】vt. take or begin to have (power or responsibility) 承担（责任）;就（职）
+【例】He assumed full responsibility for all organizational work.他全权负责全部组织工作。
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151112 暮1
+【事】Russian President Vladimir Putin has ordered an investigationinto claims the country's athletes have been part of a systematicdoping programme.
+［朱绩崧译］近传俄政府组织运动员服用兴奋剂，总统普京已下令调查。
+［源］ BBC
+【辞】dope
+【义】vt. administer drugs to (a racehorse, greyhound, or athlete) inorder to inhibit or enhance sporting performance
+给（赛马、跑狗或运动员）服用兴奋剂（或抑制剂）
+【例】The horse was doped before the race. 那马在赛前服用了兴奋剂。
+［源］ODE2
+朱绩崧敬制｜重光会 © 2015
+
+时代の句变 151112暮 2
+【事】Sweden has announced the introduction of temporary border checksto control the flow of migrants into the country. Swedish InteriorMinister Anders Ygeman said the step had been decided because asurge in new arrivals posed a threat to public order.
+［王娅妮译］瑞典宣布采取临时边检来控制入境难民流。瑞典内政部长安德斯·于耶曼说新涌入难民对公共秩序造成威胁遂采取此举。
+［源］BBC
+【辞】pose
+【义】vt. present or constitute (a problem, danger or difficulty)形成，构成（危险，问题，困难）
+【例】The sheer number of visitors pose a threat to the area.仅观光者人数这一点就给该地区构成了威胁。
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151113 朝
+【事】Chile broke ground Wednesday on a massive telescope that is setto be the world's largest and will allow astronomers to look backto the earliest moment after the Big Bang.
+［王梓诚译］一巨型天文望远镜已于周三（当地时间）在智利动工。其将成为世界最大，并能让天文学家回溯到宇宙大爆炸后的最初时刻。
+［朱绩崧译］智利周三开建世界最大天文望远镜。建成后，研究者有望观测到大爆炸后的宇宙原初时刻。
+［源］YND
+【辞】break ground
+【义】NAmE. do preparatory digging or other work prior to building orplanting sth. 翻土，犁地；破土，动工
+【例】This tractor can break ground in the spring and throw snow inthe winter. 这个拖拉机可以春天犁地，冬天除雪。
+［源］ODE2 & oxforddictionary.com
+王梓诚敬制｜重光会©2015
+
+时代の句变 151113 午
+【事】At least 37 people have been killed and 181 wounded in twosuicide bomb attacks in a residential area of the Lebanese capital,Beirut, officials say.
+［王娅妮译］官方称，昨黎巴嫩首都贝鲁特居民区发生两起自杀式爆炸袭击事件，造成至少 37 人死亡，181人受伤。
+［朱绩崧译］黎巴嫩官方称，首都贝鲁特一居民区昨有两起自杀式炸弹袭击，至少 37 死，181伤。
+［源］BBC
+【辞】residential
+【义】adj. designed for people to live in 作住所用的
+【例】private residential and nursing homes 私人寄宿疗养院
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151113 暮1
+【事】A controversial Noah's Ark-themed amusement park is slated toopen in Kentucky on July 7, 2016.
+［王梓诚译］一饱受争议的诺亚方舟主题娱乐公园计划于明年七月七在美国肯德基州开幕。
+［源］YND
+【辞】be slated to do
+【义】chiefly NAmE schedule; plan 确定时间；计划
+【例】The former brickyard is slated to be renovated.
+计划对原砖厂进行修复。
+［源］ODE2
+王梓诚敬制｜重光会©2015
+
+时代の句变 151113 暮2
+【事】Jihadi John 'dead': Isil murderer known to have beheaded fiveWesterners 'eviscerated' in drone attack.
+［朱绩崧译］圣战分子约翰“伏诛”：该氏系伊斯兰国杀手，曾刈五西人首级，今为无人机射杀，“肝脑涂地”矣。
+［王梓诚译］圣战分子约翰“伏诛”：该伊斯兰国刽子手曾斩五名西人首级，臭名昭著，已于无人机射杀中死无全尸。
+［源］Daily Telegraph, UK
+【辞】eviscerate
+【义】fml. disembowel(a person or animal)〈正式〉取出（人或动物）的内脏
+【例】The goat had been skinned and neatly eviscerated.山羊被剥去了皮，内脏被干净利落地取了出来。
+［源］ODE2
+朱绩崧敬制｜重光会©2015
+
+时代の句变 151114 朝
+【事】With a brand new algorithm, Tinder, the dating app's hoping toboost people's success rates.
+［王梓诚译］手机约会软件Tinder使用全新算法，有望提高用户成功率。
+［朱绩崧译］手机约会应用Tinder采用全新算法，意在提升用户见成率。
+［源］BBC
+【辞】algorithm
+【义】a process or set of rules to be followed in calculations orother problem-solving operations, especially by a computer（尤指计算机）运算规则
+【例】a basic algorithm for division 除法基本法则
+［源］ODE2
+王梓诚敬制｜重光会©2015
+
+时代の句变 151114 午
+【事】France has declared a national state of emergency and has closedits borders after scores of people were killed in multiple gun andbomb attacks in Paris.
+［王娅妮译］巴黎昨夜多起枪弹袭击，死者众多（按：最新统计197人）。法国宣布进入紧急状态，关闭边界。
+［源］BBC
+【辞】scores of
+【义】a large amount or number of something 很多
+【例】He sent scores of enthusiastic letters to friends.他给朋友们寄去很多热情洋溢的信。
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151114 暮1
+【事】An additional 1,500 soldiers have been mobilized to guardParis's parliament buildings, religious sites, and touristattractions.
+［王娅妮译］法国动员1500名新增援士兵保卫巴黎全部议会大楼、宗教场所和旅游景点。
+［朱绩崧译］法国再动员1500名士兵，布防巴黎的国会楼宇、宗教场所、旅游景点。
+［源］BBC
+【辞】mobilize
+【义】vt. (of a country or its government) prepare and organize(troops) for active service（国家或政府）动员（部队）
+【例】mobilize the army/the masses/all reserve forces动员军队／群众／全部后备兵力
+［源］ODE2 & ECD2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151114 暮2
+【事】The Islamic State group has released a [sic] undated video wherea militant is heard saying France 'will not live in peace as longas bombing continues.'
+［王娅妮译］伊斯兰国家组织已发布一份时间不明录像，其上一名激进分子扬言：只要炸弹袭击持续，法国不会太平。
+［朱绩崧译］'伊斯兰国'组织发布了一分（原文如此）录制时间不明的影像，其中一名武装分子扬言：“只要爆炸不断”，法国“宁日永无”。
+［源］The Guardian, UK
+【辞】sic
+【义】adv. used in brackets after a copied or quoted word that appearsodd or erroneous to show that the word is quoted exactly as itstands in the original 原文如此（用在括号中，表示所抄录或引用的话虽然有疑问或错误，但是原文）
+【例】He want [sic] more money. 他腰（原文如此）更多的钱。
+［源］ODE2 & 朱绩崧
+王娅妮敬制｜重光会©2015
+
+时代の句变 151115 朝
+【事】A magnitude 7.0 earthquake has struck off Japan's south-westerncoast, triggering a small tsunami.
+［王梓诚译］日本西南海岸突发7.0级海底地震，并引发小型海啸。
+［朱绩崧译］日本西南海域7级地震，引发小规模海啸。
+［源］BBC
+【辞】strike
+【义】vi. (of a disaster, disease, or other unwelcome phenomenon)occur suddenly and have harmful or damaging effects（灾难、疾病等）突然降临，侵袭
+【例】Tragedy struck when Nick was killed in a car crash.尼克在车祸中丧生，悲剧降临了。
+［源］ODE2
+王梓诚敬制｜重光会©2015
+
+时代の句变 151115 午1
+【事】The Democratic presidential hopefuls have gathered in Iowa for atelevised debate, with national security looming large after theParis attacks.
+［王娅妮译］巴黎袭击事件后国家安全危机事态扩大，美国有望当选总统的民主党候选人聚集于爱荷华州举行电视辩论。
+［朱绩崧译］巴黎连环恐袭案后，国家安全问题凸显。美国民主党有望参选总统者齐聚爱荷华州，就此作电视辩论。
+［源］BBC
+【辞】hopeful
+【义】n. a person likely or hoping to succeed 可能（或希望）成功的人
+【例】promotion hopeful Huddersfield 有望晋升的人哈德斯菲尔德
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151115 午2
+【事】Isil have shown their mastery of the full spectrum of terrorism.In the space of 13 days, Isil destroyed a Russian airliner, bombedBeirut and brought carnage to Paris, inflicting a combination ofattacks unmatched by any terrorist group.
+［朱绩崧译］“伊斯兰国”集恐怖主义之大成。13天内，致俄航机坠毁，爆炸袭击贝鲁特，屠戮于巴黎。攻击招式之多，同侪无匹。
+［王娅妮译］“伊斯兰国”已然显示其在恐怖主义领域无所不能。整整十三天内，击落俄客机，轰炸贝鲁特，屠戮于巴黎。连锁袭击重施，任一恐怖主义组织同类都无能匹及。
+［源］Daily Telegraph, UK
+【辞】spectrum
+【义】n. used to classify something, or suggest that it can beclassified, in terms of its position on a scale between two extremeor opposite points 范围, esp. a wide range 大范围；大幅度
+【例】Self-help books are covering a broader and broader spectrum.指导自己动手的书籍涉及越来越广的范围。
+［源］ODE2
+王娅妮敬制｜重光会©2015
+
+时代の句变 151115 暮
+【事】French authorities Saturday named the first attacker as29-year-old Omar Ismail Mostefai, who was identified from a severedfinger found at Bataclan concert hall, scene of the worst of thebloodshed.
+［王娅妮译］法国官方周六已确认其中一恐袭者名为奥马尔·伊斯梅尔·穆斯塔，29岁。在屠戮现场残酷之最的巴塔克兰音乐厅，警方发现一枚截断手指，以此确认了身份。
+［朱绩崧译］法国官方周六公布第一名恐袭者为29岁的奥马尔·伊斯梅尔·穆斯塔法。在屠戮最惨烈的巴塔克兰音乐厅，发现一截断指，由此确认其身份。
+［源］Daily Telegraph, UK
+【辞】sever
+【义】vt. divide by cutting or slicing, esp. suddenly andforcibly（尤指突然或用力）切断／割
+【例】The head was severed from the body. 头从身体上被砍下。
+［源］ODE2
+［评］朱绩崧: 注意区别sever与severe。
+
+时代の句变 160425 朝
+【事】Opponents of a proposed transatlantic trade deal poured ontoGerman streets on the eve of a visit by Obama.
+［译］陈雪瑶：奥巴马造访前夕，德国大批人群涌上街头，反对一跨大西洋贸易协定提案。
+［译］王娅妮：奥巴马到访前日，德国大批反对者涌上街头，抗议拟定的跨大西洋贸易协议。
+［评］朱绩崧：两译各有千秋，不如取众长成一新译：奥巴马到访德国前夕，反对一项跨大西洋贸易协定提案的民众涌上街头。
+【辞】trans-〔前缀〕
+［义］表示“横穿／断”
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160425 暮
+【事】The White House will likely soon release a 28-page secretchapter from a congressional inquiry into 9/11.
+［译］陈雪瑶：白宫或将发布此前一份911事件国会调查报告中的机密内容，长28页。
+［译］王娅妮：美国或即将公开一份28页机密文件，其为国会对9·11事件调查报告中一章。
+［评］朱绩崧：严格说来，the WhiteHouse只代表美国政府的行政分支（另有立法、司法分支），故直译“白宫”为宜。王译的“其”、“中一章”似不合汉语习惯。
+【辞】congressional〔形〕
+［义］最高立法机关；议／国／代表大会
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160426 朝
+【事】Dalian Wanda Commercial Properties' shares were suspended asWang Jianlin plans to take the developer private.
+［译］金 怡：大连万达商业地产董事长王健林拟实施私有化计划，公司股票停牌。
+［译］王梓诚：王健林拟私有化大连万达商业地产，致股份短暂停牌。
+［评］朱绩崧：private是shares的补语。王译“短暂”不知何据。“停牌”的主语应是“股票”而非“股份”。
+【辞】developer〔名〕
+［义］开发者／商；发展者，推动发展的事物
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160426 暮
+【事】Ukraine has begun commemorations to mark the 30th anniversary ofthe nuclear disaster in Chernobyl.
+［译］金 怡：乌克兰举办切尔诺贝利核事故30周年纪念活动。
+［译］王梓诚：切尔诺贝利核灾难满三十年，乌克兰举办系列纪念活动。
+［评］朱绩崧：commemoration不可数是“纪／怀念”，可数是“纪／怀念仪式”。这里复数，显然是后一义。
+【辞】commemoration〔名〕
+［义］（尤其通过仪式表达的）纪念
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160427 朝
+【事】Einstein's theory of general relativity is to be put to the testby a newly launched satellite.
+［译］陆文悦：一枚新卫星发射升空，以检验爱因斯坦广义相对论。
+［译］潘腾飞：一新发射卫星将验证爱因斯坦广义相对论。
+［评］朱绩崧：satellite本义“仆人、侍者、随从”。“新发射的”有两种写法：① newly launched ②new-launched。
+【辞】relativity〔名〕
+［义］相对论
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160427 暮
+【事】Apple posted its first quarterly decline in revenue in 13years.
+［译］陆文悦：苹果公司公布季度业绩，13年来首次下滑。
+［译］潘腾飞：苹果发布13年来首次收入下滑季度财报。
+［评］朱绩崧：潘译可读性低。但因revenue要与profit区别，潘译以“收入”表明，此点甚佳。
+【辞】quarterly〔形〕
+［义］按／每季（度）
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160428 朝
+【事】Venezuela's government announced enforced leave for publicsector employees three workdays a week.
+［译］孙欣祺：委内瑞拉政府规定公务员每周只上两天班。
+［译］茆 霖：委内瑞拉政府宣布，公务人员将每周强制休假三天。
+［评］朱绩崧：孙译明确讲上班天数；茆译只说休假，但三天是否包括双休日呢？
+【辞】enforce〔及物〕
+［义］强制履行｛义务｝，执行／实施｛法律／规章｝
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160428 暮
+【事】Thirty thousand people attended a vigil in Liverpool in memoryof those who died in the Hillsborough disaster.
+［译］孙欣祺：三万民众在英国利物浦集体守夜，以此悼念希尔斯堡惨案遇难者。
+［译］茆 霖：三万民众聚集利物浦，守夜悼念希尔斯堡惨案遇难者。
+［评］朱绩崧：vigil衍生词有vigilant、vigilante（见义勇为者），与vigor(ous)同源。又，注意-borough读音。
+【辞】vigil〔名〕
+［义］守夜，夜间祷告；（常指夜间）监视，警戒
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160429 朝
+【事】Putin hails Russia's first rocket launch from its new Vostochnycosmodrome.
+［译］孙予聪：俄新建东方港航天场首次发射火箭，普京高度赞扬。
+［译］丁 烨：普京对俄罗斯新东方卫星发射场首次火箭发射表示赞扬。
+［评］朱绩崧：“新东方卫星发射场”——俞敏洪参股？“赞扬”就是赞扬，何需“表示”？孙译高明多矣。
+【辞】cosmodrome〔名〕
+［义］（前苏联）航天器发射场，航天中心
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160429 暮
+【事】Prince William married Catherine Middleton in a lavish ceremonythis day in 2011.
+［译］孙予聪：2011年的今日，威廉王子举办奢华婚礼，迎娶凯特·米德尔顿。
+［译］丁 烨：威廉王子与凯特王妃于2011年今日举行盛大婚礼。
+［评］朱绩崧：婚礼前，凯特不能称王妃，故孙译平实为宜。但“奢华”略含贬义，不如丁译“盛大”中性。
+【辞】lavish〔形〕
+［义］豪华，奢侈；精心制作
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160125 朝
+【事】The _Oxford Dictionary of English_ is accused of using untowardsexist definitions.
+［译］陈雪瑶：释义含性别偏见，《新牛津英语词典》被批欠妥。
+［译］王娅妮：《新牛津英语词典》被指释义中含有不当性别歧视。
+［评］朱绩崧：陈译“被批欠妥”译得灵活。王译既云“歧视”，则“不当”冗余。
+【辞】untoward〔形〕
+［义］不合宜／方便；麻烦；事与愿违
+［例］He had noticed nothing ~. 他没有注意到任何不利情况。
+【源】BuzzFeed; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160125 暮
+【事】Forty inmates escaped from jail in eastern Brazil after a bombblew a hole in an external wall.
+［译］陈雪瑶：巴西东部一监狱发生爆炸，外墙炸穿，四十名狱犯乘机逃跑。
+［译］王娅妮：巴西东部一监狱围墙遭炸弹炸出缺口，四十名囚犯趁机越狱。
+［评］朱绩崧：两译均未体现abomb仅“一枚炸弹”。王译“遭炸弹炸出缺口”啰嗦。拙译：“巴西东部某监狱外墙为一炸弹洞穿……”囹圄重围，中外如一，故externalwall宜作“外墙”而非“围墙”。又，inmate重音在前。
+【辞】inmate〔名〕
+［义］（机构）入住／居住者（如监狱犯人、医院病人）
+【源】BBC; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160126 朝
+【事】A tennis mixed doubles match at the Australian Open wassuspected to have been fixed.
+［译］金 怡：澳网公开赛一混双比赛结果疑遭操纵。
+［译］王梓诚：澳网一混合双打比赛疑遭操控。
+［评］朱绩崧：汉语“操纵”与“操控”（两者必有区别）哪个更好？值得玩味。英语suspected可否以doubted替代？亦当思之。
+【辞】fix〔及物〕
+［义］（非法／不正当地）操纵／干扰｛比赛、选举等｝的结果
+【源】Yahoo! News Digest; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160126 暮
+【事】Transgender athletes can now compete in the Olympics without sexreassignment surgery.
+［译］金 怡：变性运动员不做变性手术也可参加奥运。
+［译］王梓诚：变性运动员现无需变性手术，即可参加奥运会。
+［评］朱绩崧：王译“无需变性手术”建议改作“无需手术变性”。此例体现gender与sex的近义，但前者强调社会性，后者生理性。
+【辞】reassignment〔名〕
+［义］（工作／资源的）重新分配
+【源】BuzzFeed; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160127 朝
+【事】The CIA has released some formerly top-secret files and photosto prove extraterrestrials exist.
+［译］金 怡：美国中央情报局解密一批绝密档案和照片，证明外星生物存在。
+［译］陆文悦：中情局公开部分昔日绝密档案及影像资料，证实外星人存在。
+［评］朱绩崧：terrestrial表“地”，celestial表“天”（注意不是celest_r_ial）。extraterrestrial字面义“地外”。
+【辞】extraterrestrial〔名〕
+［义］（假想／虚构的）外星人，天外来客
+【源】Yahoo! News; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160127 暮
+【事】Washington called in a giant snow melter, aka the Snow Dragon,to help in its snow removal efforts.
+［译］金 怡：华府调来巨型融雪机“雪龙”加快积雪清理。
+［译］陆文悦： 巨型融雪机“雪龙号”支援华盛顿积雪清理。
+［评］朱绩崧：金译“华府”非大陆译法。陆译求变，以逻辑宾语为形式主语，颇佳。
+【辞】aka(.)〔缩〕
+［义］亦作／称，又名；〔全〕also known as
+【源】Yahoo! News Digest; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160128 朝
+【事】French Justice Minister has stepped down from her job amidterror row.
+［译］孙欣祺：在对待恐怖分子问题上法国多方争执不下，司法部长已主动辞职。
+［译］孙予聪：恐怖分子事宜引发法政界唇枪舌战，司法部长辞职。
+［评］朱绩崧：二孙之译皆未体现出一个her字。“辞职”前的“主动”大可不必。
+【辞】row〔名〕
+［义］吵架，争吵／论
+［例］The director is at the centre of a ~ over policy decisions.在决策问题上，主任处于争论的中心。
+【源】BBC; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160128 暮
+【事】An artificial intelligence system has defeated a professional Goplayer.
+［译］孙欣祺：人机对弈，一人工智能系统战胜一名职业选手。
+［译］孙予聪：一人工智能程序击败职业围棋选手。
+［评］朱绩崧：go之日文汉字作“碁”。《说文》：“弈，围棋也。”祺译先说“人机对弈”，再说“一人工智能系统”，稍嫌啰嗦。
+【辞】go〔名〕
+［义］围棋
+【源】LiveScience.com; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160129 朝
+【事】The casting of a white actor as Michael Jackson in a one-off TVcomedy adds fuel to the Hollywood race debate.
+［译］丁 烨：一位白人演员在一部电视单集喜剧中扮演迈克尔·杰克逊，此事为好莱坞种族歧视之争火上浇油。
+［译］茆 霖：白人演员在某电视单集喜剧中饰演迈克尔·杰克逊，好莱坞种族争议因此愈演愈烈。
+［评］朱绩崧：“一位”到底要不要？初觉可以不要，再思还是得要。英语冠词好不费思量也。
+【辞】one-off〔形〕
+［义］一次性；单独
+［例］~ payment 一次性付款，趸（dǔn）付
+【源】AP; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160129 暮
+【事】The Prohibition (Eighteenth) Amendment to the US Constitutionwas ratified this day in 1919.
+［译］丁 烨：美国宪法禁酒令（即第十八）修正案于1919年今日获批。
+［译］茆 霖：1919年今日，美国宪法禁酒法案（即第十八修正案）正式获批。
+［评］朱绩崧：逻辑宾语是宪法修正案（译文里是形式主语）的话，我会用动词“（在／获国会审议）通过”。
+【辞】ratify〔及物〕
+［义］签署，认可，正式批准
+【源】Encyc. Brit.; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 151130 朝
+【事】The carmaker Ford has opened a digital storefront where itoffers downloadable files for your 3D printer.
+［钱米青译］汽车制造商福特公司近日上线了一新的在线商城，该商城主营3D打印机的打印模型文档下载服务。
+［潘腾飞译］汽车厂商福特开了一家网店，供顾客下载3D打印文件。
+［孙欣祺译］汽车制造商福特公司推出在线商店，为用户3D打印提供文件下载服务。
+［源］BBC
+【辞】storefront
+【义】a room or set of rooms facing the street on the ground floor ofa commercial building, typically used as a shop（商业建筑底层临街的）店／铺面
+【例】a bright storefront eatery一家明亮的临街餐厅
+［评］朱绩崧: 宜改“明亮”为“敞亮”，以合“临街”之义。eatery为口语词，或粤人所谓“食肆”也。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151130 午
+【事】China’s efforts to make RMB an international currency on a parwith USD is [sic] to receive a fillip with the IMF, which is widelyexpected to add RMB to a special basket of global currencies.
+［王娅妮译］中国曾致力于推进人民币为国际货币，从而与美元平起平坐。今日有望一朝实现，圆梦者将是国际货币基金组织。据测人民币极有望获准加入该组织全球特别提款权篮子。
+［孙欣祺译］中国致力于将人民币推向世界，使其成为和美元齐名的国际货币，而今天就是突破口，业界普遍认为国际货币基金组织有意将人民币纳入特别提款权货币篮子。
+［徐英译］为使人民币成为与美元比肩的国际货币, 中国政府做出了相当大的努力。现今, 国际货币基金组织普遍预期将会把人民币纳入特殊的“一揽子全球货币”, 这无疑是给中国政府的努力锦上添花。
+［源］The Guardian, UK
+【辞】on a par with
+【义】equal in importance or quality to; on an equal level with与...平分秋色
+【例】This home cooking is on a par with the best in the world.这种自家的烹调和世界上最好的一样。｜［朱绩崧译］此家私房菜堪称天下至味也。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151130 暮
+【事】As the pre-Christmas shopping splurge gathers pace, the biggestprofits will flow not to retailers, but to criminals.
+［潘腾飞译］圣诞节前购物狂欢季愈发近了，最大受益人并非零售商，而会是经济罪犯。
+［孙欣祺译］圣诞节前消费狂潮来势汹汹，然而不法分子却暗流涌动，坐收“渔翁”之利。
+［源］Eco. Esp.
+【辞】splurge
+【义】n. informal an act of spending money freely or extravagantly〈非正式〉挥霍金钱
+【例】the annual pre-Christmas splurge 一年一度的圣诞节节前大采购
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151201 朝
+【事】Emissions in northern China soar over winter as urban heatingsystems are switched on and low wind speeds have meant thatpolluted air has not been dispersed.
+［王梓诚译］入冬后中国北方启动供暖，城市排放激增，又因风速低，污染空气未能消散。
+［潘腾飞译］中国北方城市开始冬季供暖，低风速导致污染空气未能消散，污染气体排放量飙升。
+［孙欣祺译］中国北方城市入冬后开始供暖，废气排放迅速飙升，加之风速低，污染空气不易流通扩散。
+［源］Yahoo! News Digest
+【辞】soar
+【义】vi. increase rapidly above the usual level 剧增
+【例】The cost of living continued to soar. 生活费用猛增。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151201 午
+【事】The IMF on Monday designated RMB as one of the world’s elitecurrencies, a major milestone that underscores China's risingfinancial and economic heft.
+［王梓诚译］周一，国际货币基金组织将人民币纳入世界精英货币，这一里程碑事件凸显了中国金融和经济的腾飞。
+［孙欣祺译］周一，国际货币基金组织宣布批准人民币加入世界顶级货币行列，此举具有里程碑式的意义，突出了中国与日俱增的经济、金融影响力。
+［陈雪瑶译］国际货币基金组织周一将人民币纳入最有实力的国际货币之一，这将是一个重要里程碑，突出标志着中国不断增长的金融经济影响力。
+［源］New York Times
+【辞】heft
+【义】n. the weight of sb. or sth.（人或物的）重量； ability orinfluence〈喻〉能力，影响
+【例】His colleagues wonder if he has the intellectual heft for hisnew job. 他的同事不知道他是否有足够的智力胜任他的新工作。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151201 暮
+【事】Scientists descend on Washington, DC, today to discuss thefuture of gene editing, a simple yet powerful new technology.
+［王梓诚译］基因编辑是一项简单而强大的技术。今天，科学家聚首华盛顿，商讨其未来。
+［金怡译］今天，大批科学家聚会华盛顿，探讨基因编辑技术的未来发展。这项新技术虽不复杂，但潜力巨大。
+［陈雪瑶译］今日，在华盛顿特区，众多科学家就基因剪辑技术的前景做出了讨论，这是一项操作简单但影响广泛的新技术。
+［源］Eco. Esp.
+【辞】descend (up)on
+【义】make an unexpected and typ. unwelcome visit to 突然来到，造访
+【例】Groups of visiting supporters descended on a local pub.一批批外来的支持者突然来到了当地一家酒吧。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151202 朝
+【事】China has ordered thousands of factories to shut as it grappleswith swathes of choking smog that were nearly 24 times safe levelson Tuesday.
+［王梓诚译］周二，中国出现大面积严重雾霾，达安全值24倍之多。政府遂命数千工厂停业，以解燃眉之急。
+［金怡译］中国雾霾成灾，已近安全水平的24倍。周二，中国政府遂下令关闭上千工厂，以应对糟糕的空气。
+［陈雪瑶译］中国政府已下令数千家工厂停工，以应对大面积蔓延的严重雾霾。周二，雾霾指数超标24倍。
+［朱绩崧译］中国政府急令数千工厂停产，因周二毒霾大作，已近安全值24倍。
+［源］Yahoo! News
+【辞】grapple
+【义】vi. struggle with or work hard to deal with or overcome (adifficulty or challenge) 对抗；努力工作以解决（或克服）（困难，挑战）
+【例】Other towns are still grappling with the problem.其他城镇还在努力解决这个问题。
+［源］ODE2
+孙欣祺敬制｜重光会©2015
+
+时代の句变 151202 午
+【事】Chicago's police chief was ousted on Tuesday after days ofprotest over a white officer's shooting of a black teenager 16times and the department's refusal to release a video of thekilling for more than a year.
+［金怡译］一年多前，芝加哥一白人警员朝一名黑人少年连开16枪，而警方始终拒绝公开射杀视频。近日，民众游行数日，抗议此举。周二，该警局局长被罢免。
+［陈雪瑶译］周二，芝加哥警察局长被免职。此前，群众已抗议数日，缘起一年前，一白人警官朝一黑人少年枪击16次，然而当局至今一直拒绝披露现场录像。
+［孙予聪译］一年多前，芝加哥白人警察向黑人少年连开16枪，而警方始终拒绝公开射杀现场视频，引发近日民众抗议。芝加哥警察局局长已于周二被免。
+［孙欣祺译］芝加哥警局局长于周二遭免，此前数日外界抗议不断，主要针对一名白人警察向一名黑人少年连开16枪，而警方一年多来始终拒绝公开射杀视频。
+［王梓诚译］一年多前，芝加哥一白人警员枪击一黑人少年16次，警方一直拒不公开视频，近来引数日游行。该警局局长已于周二被撤。
+［源］Reuters
+【辞】oust
+【义】vt. drive out/expel (sb.) from a position/place 撤职，驱逐
+【例】The reformists were ousted from power. 改革者被罢免。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151202 暮
+【事】Mark Zuckerberg, whose wife just gave birth to a baby girl,announced plans to give away 99 percent of his stock in Facebook toadvance philanthropic causes.
+［王梓诚译］马克·扎克伯格之妻刚诞下一女，他即宣布欲将所持脸书股票的99%捐出，以推动慈善事业。
+［金怡译］马克·扎克伯格宣布，计划将所持脸书股票的99%捐给慈善事业，以迎接刚出世的女儿。
+［陈雪瑶译］近日喜获一女之际，马克·扎克伯格宣布计划将自己99%的“脸书”股份投入慈善事业。
+［源］Yahoo! News Digest
+【辞】philan'thropic
+【义】(of a person/organization) seeking to promote the welfare ofothers; generous & benevolent （人，组织）慈善的；乐善好施的；仁慈的
+【例】They receive financial support from philanthropic bodies.他们从慈善团体获得经济援助。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151203 朝
+【事】Some of the Chinese capital's 22.5 million residents have turnedto gallows humor to cope with persistent toxic air that againsoared above hazardous levels on Tuesday.
+［孙予聪译］周二，北京空气中的有害物质再度突破警戒值，2250万首都人民深陷雾霾毒害，黑色幽默俨然成了有些人自谴自嘲的手段。
+［金怡译］周二，北京空气污染指数再逾危险值，2250万市民在持续毒霾中苦苦挣扎，一些人便以黑色幽默一吐无奈。
+［陈雪瑶译］中国首都的2250万居民在持续雾霾中挣扎，一些人无奈之下聊以黑色幽默自遣。周二，雾霾水平再次陡升至有害值。
+［源］Reuters
+【辞】gallows humor
+【义】grim and ironical humor in a desperate/hopeless situation面临大难时/愤世嫉俗的幽默
+【例】Kenny Lowe['s] gallows humor has endeared him to media all overthe country. 肯尼·洛维的黑色幽默让他成为全国媒体的宠儿。
+［源］ODE2 & Sydney Morning Herald
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151203 午
+【事】Brazil’s president Dilma Rousseff has begun the fight for herpolitical life after the first impeachment proceedings for morethan 20 years were launched against her in Congress.
+［金怡译］巴西众议院启动二十多年来首次总统弹劾程序，总统迪尔玛·罗赛夫奋起反击，挽救政治生涯。
+［郑旭初译］巴西国会在20多年里首次展开弹劾诉讼，总统迪尔玛·罗塞夫开始为政治生涯斗争。
+［源］The Guardian, UK
+【辞】impeach
+【义】vt. call into question the integrity/validity of (a practice)质疑（一种做法）的公正/有效 charge (the holder of a public office) withmisconduct 弹劾（官员）
+【例】The governor was impeached for using state fundsimproperly.｜［王娅妮译］该州长因挪用本州基金遭弹劾。
+［源］ODE2 & LDOCE
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151203 暮
+【事】Unesco announced the new additions to its Intangible CulturalHeritage list. They include the traditions of making North Koreankimchi and Arabic coffee.
+［王梓诚译］国际教科文组织公布了非物质文化遗产新增项，包括朝鲜泡菜、阿拉伯咖啡等。
+［金 怡译］联合国教科文组织公布非物质文化遗产名录新增项目，包括朝鲜泡菜制作传统和阿拉伯咖啡。
+［陈雪瑶译］联合国教科文组织非物质文化遗产名录再添新成员，包括朝鲜泡菜和阿拉伯咖啡。
+［源］BBC
+【辞】intangible
+【义】adj. (of an asset/benefit) not constituting/represented by aphysical object and of a value not precisely measurable（资产，利益）无形的
+【例】intangible business property like trademarks and patents商标和专利之类的无形商业资产
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151204 朝
+【事】Two Fifa vice-presidents have been arrested in a dawn raid at aSwiss hotel on suspicion of accepting millions of dollars ofbribes.
+［孙予聪译］国际足联两位副主席在瑞士一家酒店遭到突击搜查，因疑似接受了数百万美元的贿赂被捕。
+［金　怡译］当地凌晨，瑞士警方实施抓捕行动，两名涉嫌受贿百万美元的国际足联副主席在酒店内被捕。
+［朱绩崧译］国际足联两副主席疑受贿数百万美元，凌晨在瑞士一酒店被捕。
+［源］Reuters
+【辞】suspicion
+【义】n. a feeling or belief that sb. is guilty of an illegal,dishonest, or unpleasant action 怀疑
+【例】She had a sneaking suspicion that he was laughing at her.她内心里偷偷怀疑他正在嘲笑她。［朱绩崧译］女窃疑男正在笑话自己。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151204 午
+【事】Greece has asked for EU help in managing its borders, asthousands of migrants remain stuck on its northern frontier withMacedonia.
+［陈雪瑶译］希腊请求欧盟帮助裁定边界。目前，其北部与马其顿交界处有数千移民滞留。
+［孙予聪译］数千移民滞留在希腊与马其顿北方边境，无奈之下，希腊已向欧盟求助。
+［源］BBC
+【辞】frontier
+【义】n. a line or border separating two countries 边境，边界
+【配】~ with sp. 与某地交界处
+【例】a customs post on the frontier with Italy 与意大利交界的边境上的海关关卡
+［源］ODE2 & OALD8
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151204 暮
+【事】The husband and wife who killed 14 people and wounded 21 atCalifornia's social services centre had an arsenal of weaponry intheir home.
+［陈雪瑶译］凶手夫妇家藏大量武器。此二人在加州社会服务中心杀害14人，致伤21人。
+［茆 霖译］加州社会服务中心遭袭，致14人死亡，21人受伤。袭击者为一对夫妇，其家中有大量武器。
+［源］BBC
+【辞】weaponry
+【义】weapons regarded collectively {总称}兵器
+【例】high-tech weaponry 高科技武器；US weaponry 美国的军械
+［源］ODE2 & OALD8
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151205 朝
+【事】Floodwaters have started receding from parts of the southernIndian city of Chennai (Madras), hours after it experienced arespite from rain.
+［王梓诚译］暴雨暂息数小时后，印度南方城市金奈（旧称马德拉斯）部分地区的洪水渐渐退去。
+［陈雪瑶译］雨停数小时后，印度南部城市金奈（旧称马德拉斯）部分洪水开始退去。
+［孙予聪译］印度南部城市金奈（前称马德拉斯）因连续降雨遭受洪水侵袭，好在雨势暂停几小时之后，城市部分地区的水势就开始退去了。
+［源］BBC
+【辞】respite
+【义】a short period of rest or relief from sth. difficult orunpleasant 暂息
+【例】The refugee encampments will provide some respite from thesuffering. 难民宿营地将暂时缓解（难民的）痛苦。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151205 午
+【事】Olympic athlete Oscar Pistorius has been found guilty of murderafter a South African appeals court overturned an earliermanslaughter verdict.
+［ 茆霖 译］南非一上诉法庭推翻“过失杀人”裁决，判奥运运动员 奥斯卡 皮斯托瑞斯犯谋杀罪。
+［孙予聪译］有关奥林匹克运动员奥斯卡皮斯托瑞斯杀人案，南非上诉法院否决了之前过失杀人罪的裁决，宣告他犯谋杀罪。
+［陈雪瑶译］南非最高上诉法院推翻此前过失杀人裁决，奥林匹克运动员奥斯卡 皮斯托瑞斯定罪为谋杀。
+［源］BBC
+【辞】overturn
+【义】vt. reverse (a legal decision) 推翻（判决）
+【例】He fought for eight years to overturn a conviction for armedrobbery. 为了推翻持械抢劫的判决他奋斗了八年。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151205 暮
+【事】The EU has agreed on a system to share airline passenger detailsin a bid to improve counter-terrorism efforts.
+［王梓诚译］为加强反恐，欧盟同意建立系统，共享航空旅客信息。
+［王娅妮译］欧盟同意建立航班乘客信息共享系统，以加强反恐力度。
+［源］BBC
+【辞】counter-
+【义】prefix denoting opposition, retaliation, or rivalry表示“反对的；报复的；敌对的”
+【例】counterterrorism 反恐怖主义；counter-argument 对立的论点
+［源］ODE2 & OALD8
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151206 朝
+【事】Negotiators are edging towards a compromise on one of the mostdivisive issues between countries at the COP21 climate change talksin Paris.
+［孙予聪译］ 第21届联合国气候变化大会正在巴黎进行，针对会议中最具争议的议题之一，各协商国即将达成妥协。
+［陈雪瑶译］巴黎举行的第21届联合国气候变化大会上，各国正就一关键议题逐步达成谈判协议。
+［源］BBC
+【辞】edge
+【义】vi. move gradually, carefully, or furtively in a particulardirection 徐徐／悄悄移动；挤
+【例】① edge away from sb. 从某人身边溜走 ② edge through a crowd 挤过人群
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151206 午
+【事】The New Horizons probe has at last returned some of thesuper-sharp pictures it took of Pluto during its historic flyby inJuly.
+［孙予聪译］ 七月，“新视野”号探测器完成了定点飞越冥王星的历史性任务，当时拍摄到的一些超清图片近日终于传回地球。
+［王娅妮译］“新视野”号探测器终于传回部分冥王星超高清照片。今七月，“新视野”近距离掠过冥王星，史无前例。
+［王梓诚译］七月，“新视野”号探测器历史性地定点飞越冥王星，拍摄了超高清照片，最终传回了若干张。
+［源］BBC
+【辞】sharp
+【义】adj. distinct in outline or detail; clearly defined轮廓清晰的；细节清楚的；明确的
+【例】The scene was as sharp and clear in his mind as a film.这一幕就像电影一样，清晰地印在他的脑海里。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151206 暮
+【事】The wreck of a Spanish ship laden with treasure that was sunk bythe British more than 300 years ago has been found off theColombian coast.
+［孙予聪译］ 哥伦比亚海域发现一具装满金银财宝的西班牙海船残骸，该船于300多年前被英国击沉。
+［王梓诚译］三百多年前，一西班牙船只被英国人击沉。近来，残骸在哥伦比亚沿海被发现，其上满载珠宝。
+［陈雪瑶译］哥伦比亚附近海域发现沉船遗骸，这艘满载财宝的西班牙船300余年前被英国击沉。
+［源］BBC
+【辞】laden
+【义】adj. heavily loaded or weighed down 满载的，装载过重的
+【例】a tree laden with apples 果实累累的苹果树；the moisture-laden air潮湿的空气
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151214 朝
+【事】Talks are under way in Italy in the hope of getting Libya'srival factions to establish a unity government and bring a halt tomonths of chaos.
+［茆 霖译］意大利召开多方谈判，与会各方望利比亚敌对派系建立联合政府，以停止数月来的混乱。
+［陈雪瑶译］各方于意大利举行会谈，敦促利比亚敌对派系组成联合政府，结束数月以来混乱局面。
+［源］BBC
+【辞】faction
+【义】n. a small organized dissentient group within a larger one, esp.in poilitics（政治上持异见的）宗派，派别，小集团
+【例】the left-wing faction of the party 党内的左派
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151214 午
+【事】Russia on Sunday warned Turkey to stop staging what it calledprovocations against its forces in or near Syria.
+［孙欣祺译］周日，俄罗斯向土耳其发出警告，敦促其停止在叙利亚境内或边境附近对俄军队的“挑衅行为”。
+［金 怡译］周日，俄罗斯警告土耳其停止对叙利亚境内或附近俄部队的挑衅行为。
+［源］AP
+【辞】provocation
+【义】n. action or speech that makes sb. annoyed or angry, esp.deliberately（尤指蓄意的）挑衅；激怒，刺激
+【例】You should remain calm and not respond to provocation.你应该保持镇静，不要对挑衅作出反应。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151214 暮
+【事】China will loosen some restrictions on the free movement of workers withinthe country, which is long stymied by registration papers.
+［金 怡译］长期以来，户口登记阻碍工人在国内自由流动。为此，中国将放开部分限制。
+［茆 霖译］中国欲放宽国内工人流动限制，打破长久以来户籍登记造成的阻碍。
+［源］Yahoo! News
+【辞】stymie
+【义】vt. (informal) prevent or hinder the progress of（非正式）阻碍，阻拦
+【例】The changes must not be allowed to stymie new medicaltreatments. 就是有变化也绝不允许妨碍新的疗法。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+［评］朱绩崧: 外语学至高阶，应知打破外语、母语间的“一一对应”关系。以今暮之“句变”为例，worker应作“劳动者”、“就业者”，集合表达即theworkforce。此语境中，worker按中小学时代确立的“一一对应”关系，译作“工人”，则语义过狭，反致失准。
+孙欣祺敬制｜重光会 ©️ 2015
+
+时代の句变 151215 朝
+【事】 Droughts, erratic rains, and frosts brought by a super-chargedEl Nino are severely impacting the Pacific.
+［金 怡译］超强厄尔尼诺导致干旱、雨水不定和霜冻，太平洋地区受到严重影响。
+［陈雪瑶译］一轮超强的厄尔尼诺现象正剧烈影响太平洋地区，伴随有干旱、不规则降雨和霜冻。
+［源］Yahoo! News Digest
+【辞】erratic
+【义】adj. not even or regular in pattern or movement; unpredictable不稳定的；不规则的；无法预言的；变化无常的
+【例】Her breath was erratic. 她呼吸不均匀。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151215 午
+【事】US President Barack Obama voiced fresh determination to destroythe Islamic State on Monday.
+［王梓诚译］周一，美总统奥巴马再次表态，欲摧毁“伊斯兰国”。
+［金 怡译］周一，美国总统奥巴马再表决心，誓摧毁“伊斯兰国”。
+［源］AFP
+【辞】voice
+【义】vt. express (sth.) in words（用言语）表达
+【例】get teachers to voice their opinions on important subjects使教师表达他们对重要问题的看法
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151215 暮
+【事】The EU revived Turkey's membership bid and opened accessiontalks with Serbia.
+［王梓诚译］欧盟重启土耳其入盟申请，并与塞尔维亚展开入盟磋商。
+［陈雪瑶译］欧盟重启土耳其入盟谈判，并开始与塞尔维亚磋商入盟事宜。
+［源］Reuters
+【辞】revive
+【义】vt. to make sth. start being used or done again 重新使用，使重做
+【例】She has been trying to revive the debate over equal pay.她一直设法再次展开同工同酬的辩论。
+［源］OALD8
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151216 朝
+【事】The hotly anticipated latest addition in the Star Warsfranchise, _The Force Awakens_, has had its world premiere inLA.
+［王梓诚译］万众期待的星球大战系列新片《原力觉醒》已在洛杉矶全球首映。
+［孙予聪译］万众期待中，星球大战系列最新电影《原力觉醒》在洛杉矶首映。
+［源］BBC
+【辞】franchise
+【义】n. a general title or concept used for creating or marketing aseries of products, typ. films or televisionshows（制作或推广系列产品，尤其是系列影片或电视节目所用的）特许经营品牌（或创意）
+【例】the Harry Potter franchise 哈利·波特特许经营品牌
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151216 午
+【事】Morgan Stanley predicted a 6% drop in iPhone shipments inApple's 2016 fiscal year, which began in October.
+［王梓诚译］摩根·士丹利预测，今年十月起的2016财年，iPhone发货量将下滑6%。
+［陈雪瑶译］据摩根·士丹利预测，苹果2016财年（今年十月始）iPhone 货运量将下跌6%。
+［源］Business Insider
+【辞】shipment
+【义】n. a quantity of goods shipped; a consignment 装载的货物量；托运
+【例】a shipment of arms 运送的一批军火
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151216 暮
+【事】If all goes well, an experimental Hyperloop track will soon hissand fizz into life in North Las Vegas.
+［陈雪瑶译］若不出意外，超级高铁很快将呼啸在北拉斯维加斯的试验轨道上。
+［孙予聪译］若一切顺利，世界上第一条“超级高铁”试验轨道即将在拉斯维加斯北部投入运行。
+［源］Quartz
+【辞】hiss
+【义】vi. make a sharp sibilant sound as of the letter _s_ 咝咝作声
+【例】The escaping gas was now hissing. 泄漏的气体正咝咝响。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151217 朝
+【事】The Japanese Supreme Court has upheld a law that married couplesmust have the same surname.
+［王娅妮译］日本最高法院已裁定维持夫妇须同姓的规定。
+［孙予聪译］日本一法律规定已婚夫妻必须同姓，最高法院宣判维持此法。
+［朱绩崧译］日本最高裁判所裁定夫妇须同姓。
+［源］BBC
+【辞】uphold
+【义】vt. confirm or support (sth. which has been questioned)支持（受质疑的事），支撑
+【例】The court upheld his claim for damages. 法院支持他索要赔偿金。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151217 午
+【事】A 2-foot-long wall carving featuring the pharaoh Seti I is backin Egypt after being repatriated from the United Kingdom.
+［王娅妮译］绘有法老塞提一世像的两英尺长壁刻已从英国重返埃及。
+［孙予聪译］两英尺长的埃及法老塞提一世壁刻从英国重回故里。
+［源］LiveScience
+【辞】repatriate
+【义】vt. send (sb.) back to his or her own country 把…遣返回国
+【例】The government sought to repatriate thousands of refugees.政府试图把几千名难民遣返回国。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151217 暮
+【事】Researchers at the University of Tehran unveil Surena III, theirlatest and most advanced humanoid robot.
+［王娅妮译］德黑兰大学科研人员推出苏雷纳三代，这是其研发的类人型机器人中最高新的一款。
+［孙予聪译］德黑兰大学研究人员揭开了新一代人形机器人——苏瑞娜三号的面纱，其先进程度也堪称空前。
+［源］Reuters
+【辞】humanoid
+【义】a. having an appearance or character resembling that of a human类人的，具人的形状（或特征）的
+【例】The robot is humanoid in appearance. 这个机器人形似真人。
+［源］ODE2 & LDOCE5
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151218 朝
+【事】Cambodia's HIV-infected population increases owing to abuse ofinjections and intravenous drips.
+［王娅妮译］在柬埔寨，罹患艾滋病的人数不断上升，这是因为过度使用了针筒注射和静脉滴注。
+［丁 烨译］在柬埔寨，由于滥用注射和静脉滴注疗法，艾滋病人与日俱增。
+［源］BBC
+【辞】intravenous
+【义】adj. existing or taking place within, or administered into, avein or veins 静脉（内发生）的
+【例】an intravenous drug user 使用静脉注射的吸毒者
+［源］ODE2 & OALD8
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151218 午
+【事】Australian scientists have made a stellar discovery: The closesthabitable planet to Earth is located 14 light years away.
+［孙予聪译］澳大利亚科学家发现了一个星球秘密：离地球最近的适宜人类居住的星球仅离我们14光年。
+［丁 烨译］澳科学界发现最近宜居星球，离地仅14光年。
+［源］Yahoo! News
+【辞】habitable
+【义】adj. suitable or good enough to live in 适于居住的，可居住的
+【例】The house should be habitable by the new year.房子到新年时应该就可以住进去了。
+［源］ODE2 & OALD8
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151218 暮
+【事】The birds that helped Charles Darwin refine his theory ofevolution may succumb to a parasitic pest in 50 years.
+［王娅妮译］曾在达尔文进化论完善过程中起重要作用的鸟种，或因寄生虫侵害在未来50年灭绝。
+［丁 烨译］启发达尔文完善进化论的鸟类或于五十年内因寄生虫灭绝。
+［源］BBC
+【辞】parasitic
+【义】adj. (of an organism) living as a parasite（生物体）寄生的
+【例】mortality from parasitic diseases 寄生性病害的死亡率
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+［评］朱绩崧: 原句The birds that helped Charles Darwin refine his theory ofevolution may succumb to a parasitic pest in 50 years. 译者将in 50years误译为“五十年内”，应译为“五十年后”。“五十年内”是within 50 years。
+孙欣祺敬制｜重光会 ©️ 2015
+
+时代の句变 151219 朝
+【事】After the Tianjin port explosion, one insurance company turnedto drones to help analyse the rubble.
+［丁 烨译］天津港发生爆炸后，一保险公司利用无人机来协助分析残存的碎石瓦砾。
+［王娅妮译］天津港爆炸事故发生后，一保险公司借助无人机分析爆炸产生的瓦砾碎石。
+［源］Reuters
+【辞】rubble
+【义】mass n. waste or rough fragments of stone, brick, concrete,etc., esp. as the debris from the demolition ofbuildings（尤指拆除建筑物时的）瓦砾；碎石；碎砖
+【例】Two buildings collapsed, trapping scores of people in therubble. 两幢建筑物倒塌了，许多人被困在瓦砾中。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+［评］朱绩崧: 文贵精炼。“爆炸发生后”不如“爆炸后”。遇“进行”一词，亦当思其存废。能省则省，可删就删，否则必沦为某某日报体而文亡也。
+孙欣祺敬制｜重光会 ©️ 2015
+
+时代の句变 151219 午
+【事】Putin told reporters that the beleaguered FIFA president SeppBlatter should receive the Nobel Peace Prize.
+［丁 烨译］普京告诉记者，饱受困扰的国际足联主席塞普·布拉特应被授予诺贝尔和平奖。
+［茆 霖译］国际足联主席塞普·布拉特近来饱受非议，普京却向记者表示，其应得诺贝尔和平奖。
+［朱绩崧译］普京谕媒体，国际足协主席塞普·布拉特一时英雄落难，仍足当诺贝尔和平赏。
+［源］BuzzFeed
+【辞】beleaguer
+【义】vt. put in a very difficult situation 使处于困境，困扰
+【例】The board is supporting the beleaguered director amid calls forhis resignation. 正在这位董事被一片要求他辞职的呼声所困扰时，董事会却在支持他。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151219 暮
+【事】Taylor Swift and Apple have done a deal, involving exclusiverights to stream a film of her performing in Australia.
+［王梓诚译］泰勒·斯威夫特与苹果达成协议，包括苹果可独家流播放其在澳大利亚的演出。
+［茆 霖译］泰勒·斯威夫特与苹果公司达成协议，授权后者独播其澳大利亚巡演影片。
+［源］Eco. Esp.
+【辞】stream
+【义】vt. relay (data, esp. video and audio material) over theInternet as a steady, continuous flow 流播
+【例】AirPlay permits you to stream music and video files from aniPhone. AirPlay播放技术能让您在苹果手机上流播音乐和视频文件。
+［源］ODE2 & COCA
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151220 朝
+【事】Jose Mourinho will not be taking a break following his sackingby Chelsea on Thursday.
+［丁 烨译］何塞·穆里尼奥于周四被切尔西俱乐部解雇，但他不会就此暂别足坛。
+［茆 霖译］何塞·穆里尼奥于周四遭切尔西俱乐部解雇，却无后续休假打算。
+［源］BBC
+【辞】sack
+【义】vt. (informal) dismiss from employment（非正式）开除
+【例】Any official found to be involved would be sacked on the spot.如发现任何官员牵涉其中，将立即解职。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151220 午
+【事】China's tourism authority named and shamed another five touristsfor bad behavior.
+［丁 烨译］因游客不文明行为，中国旅游局再添五人入黑名单。
+［茆 霖译］又五名游客因行为恶劣被中国旅游局点名批评。
+［源］AP
+【辞】shame
+【义】vt. make (sb.) feel ashamed 使……蒙羞
+【例】I tried to shame him into giving some away.我试图让他觉得羞愧，从而放弃一些东西。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151220 暮
+【事】FDA proposed new rules that would prohibit people younger than18 from using tanning beds.
+［丁 烨译］美食品药品监管局颁布新条例，禁止18岁以下人群使用日光浴床。
+［茆 霖译］美国食品药物管理局出台新规，禁止18岁以下人群使用日晒床。
+［朱绩崧译］美药食管局拟禁未满18岁者使用日晒床。（防皮肤癌）
+［源］BuzzFeed
+【辞】tan
+【义】vt. (of the sun) cause (a pale-skinned person or their skin) tobecome brown or browner（太阳）使（肤色白皙者或其皮肤）变成棕褐色
+【例】He looked tanned and fit. 他看上去被晒得黑黝黝的，很健康。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变151123 朝
+【事】As the race to adapt to climate change quickens, a South Africanscientist is leading global research into developing crops thatmimic the extraordinary survival skills of 'resurrectionplants'.
+［王娅妮译］全球升温加快，对其适应的步伐也相应加速。目前，一南非籍科学家正组织一项全球范围研究，欲培育出与“复苏植物”相仿的农作物，并具备同样卓越的生存能力。
+［王梓诚译］适应气候变化愈发迫切。一南非科学家正引领全球研究，培育新型农作物，使其具备“还魂草”般强劲的生存本领。
+［源］YND
+【辞】mimic
+【义】(of an animal or plant) resemble or imitate (another animal orplant), esp. to deter predators or for camouflage（动物或植物）模拟（另一种动物或植物，尤指为了自身安全）
+【例】a fly whose size and colour mimics exactly that of a wasp一只苍蝇，其大小和颜色都模仿黄蜂［王梓诚译］
+［源］ODE2 & LDOCE
+王梓诚敬制｜重光会 © 2015
+［评］朱绩崧: 151123【辞】例句，王梓诚译作“一只苍蝇，其大小和颜色都模仿黄蜂”，遗漏exactly未译，“模仿”不妥，且有译短语如句的问题。拙译：大小、颜色绝类黄蜂的一只苍蝇。
+
+时代の句变 151123 午
+【事】An Iranian court has sentenced a _Washington Post_ reporter to aprison term, the state news agency said on Sunday quoting ajudiciary spokesman, a case that is a sensitive issue incontentious US-Iranian relations.
+［孙欣祺译］伊朗国家新闻机构援引司法部发言人的话称，一名在伊《华盛顿邮报》记者已被判监禁。美伊双方争议不断，该案显得尤为敏感。
+［朱绩崧译］伊朗国家新闻机构援引司法部门发言人称，一法庭已判《华府邮报》记者以徒刑。值美伊交恶，该案尤显刺目。
+［源］Reuters
+【辞】judiciary
+【义】n. （一般作the judiciary）the judicial authorities of a country;judges collectively 司法部；［总称］法官
+【例】the independence of the judiciary 司法独立［王娅妮译］
+［源］ODE2 & Ox. Dicts. Online
+王娅妮敬制｜重光会 © 2015
+
+时代の句变151123 暮1
+【事】Shares in Hong Kong brokerage firm Guotai Junan Internationalfell as much as 17% after the company announced its chairman YimFung had been unreachable since 18 November.
+［王娅妮译］香港券商国泰君安国际宣布其董事会主席阎峰自本月18号起失联至今，该公司股票随即大跌高达17%。
+［朱绩崧译］香港券商国泰君安国际宣布董事会主席阎峰本月18日起失联，其股价随即大跌17%。
+［源］BBC
+【辞】unreachable
+【义】adj. unable to be reached or contacted 不能达到的；无法联系上的。
+【例】The doctor had left the hospital and was unreachable.医生早已离开医院，联系不上。［王娅妮译］
+［源］ODE2 & Ox. Dicts. Online
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151123 暮2
+【事】The WHO should be stripped of its role in declaring diseaseoutbreaks to be an international emergency following thecatastrophic failure to warn the world of the dangers of Ebola inwest Africa last year, according to an independent panel ofexperts.
+［王梓诚译］一独立专家小组称，去年世界卫生组织未能预知西非埃博拉病毒将荼毒人间，因此不应再依赖世卫对疾病全球爆发的“权威”预警。
+［王娅妮译］某独立专家小组称，去年世界卫生组织向全球公告西非埃博拉病毒危急疫情上，存有重大致命性失误。因此，该小组认为今后应免去世卫宣布任何疾病爆发为国际紧急状况的职能。
+［朱绩崧译］去岁西非埃博拉爆发，世卫组织未克预警，致生灵凋毙。今有独立专家组称，应褫夺该组织号召国际社会紧急应对疫情暴发之职能。
+［源］The Guardian, UK
+【辞】strip sb. of sth.
+【义】deprive sb. of (rank, power, or property) 夺去，剥夺（地位、权力、财产）
+【例】He was disgraced and stripped of his title.他名誉扫地，头衔不保。［朱绩崧译］
+［源］ODE2 & OALD7
+朱绩崧敬制｜重光会 © 2015
+
+时代の句变 151124 朝1
+【事】China's stocks have lurched from bubble to bust to boom in thepast half-year.
+［王梓诚译］过去半年，中国股市大跌大涨。
+［朱绩崧译］过去半年里，中国A股由泡沫，到破灭，再蓬勃。［用三个p音开头的汉字对应三个b音开头的单词。］
+［源］Eco. Esp.
+【辞】lurch
+【义】[vi, with adverbial] make an abrupt, unsteady, uncontrolledmovement or series of movements; stagger 颠簸前进；蹒跚前行
+【例】He was lurching from one crisis to another.危机接二连三，他还未站稳脚跟，新的麻烦又向他袭来。〈喻〉
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151124 朝2
+【事】The UK government is to create a new £1bn fund aimed ateradicating malaria and other infectious diseases.
+［王梓诚译］英政府将投10亿，以根除疟疾等传染病。
+［朱绩崧译］联合王国政府将砸10亿英镑，誓要扫灭疟疾等传染病。
+［源］BBC
+【辞】eradicate
+【义】completely destroy; put an end to 根除，消灭
+【例】This disease has been eradicated from the world.这种疾病已在全世界消灭了。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+上海市疾控中心专家就今日句变“朝2”提出修改建议：eliminate 消除，eradicate 根除。
+
+时代の句变151124 午
+【事】A schoolgirl tried to murder a classmate by stabbing himrepeatedly in the chest in revenge for playground gossip about akiss, a court heard.
+［王娅妮译］法院称，一在校女生数次朝其同班男生胸部捅刀，试图复仇致其死亡，只因其在校内传她接吻行为的闲话。
+［潘腾飞译］法院称，因操场接吻流言，一在校女生捅同班一男生胸部多刀，杀人未遂。
+［朱绩崧译］英国一法庭聆讯，某校有女生于一男同学胸口连刺数刀，盖男生课后八卦此女与人接吻，雌心生恶，谋欲杀之云尔。
+［源］Daily Telegraph, UK
+【辞】revenge
+【义】n. the action of inflicting hurt or harm on sb. for an injury orwrong suffered at their hands 复仇，报复
+【例】Other spurned wives have taken public revenge on their husbands.其他被抛弃的妻子已公开向他们的丈夫报复。｜［朱绩崧译］余众弃妇已公开报复其夫。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151124 暮
+【事】Reminiscent of the unjust treatment of Japanese-Americans duringWorld War II, the recent wave of political opposition to acceptingSyrian refugees is not sitting well with the relatives of those whohad lived through internment camps.
+［王梓诚译］二战时，日裔美国人遭不公待遇。最近，拒绝叙利亚难民入境美国的政治浪潮，勾起这段伤心过往，捱过当年拘禁营的日裔之亲属不愿让悲剧再度上演。
+［朱绩崧译］二战，日裔在美遭遇不公。近期政坛波涌，排斥叙利亚难民，令当年拘留营羁客之子孙隐忧噩梦重袭。
+［源］YAHOO! News Digest
+【辞】reminiscent
+【义】tending to remind one of sth. 引起联想的，提示的
+【例】The sights were reminiscent of my childhood.这些景象勾起了我对童年的回忆。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151125 朝
+【事】A security hole that could allow attackers to access users'personal data was inadvertently placed on Dell computers, thecompany has admitted.
+［王梓诚译］戴尔公司承认，其计算机中不小心植入一安全漏洞，黑客可由此获取用户个人数据。
+［源］BBC
+【辞】inadvertent
+【义】not resulting from or achieved through deliberate planning无意的，非故意的，无心的
+【例】He was pardoned for inadvertent manslaughter. 他因非故意杀人受到宽恕。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151125 午
+【事】China’s economy is still showing a muted response to waves ofmonetary and fiscal easing as of the half-way mark for the lastquarter of the year, some of the earliest indicators suggest.
+［王娅妮译］一些早先指标指示，尽管第四季度两月中，中国已在财政和货币政策上放宽了很多，但是经济发展仍然非常缓慢。
+［孙欣祺译］一些早期指标显示，全年第四季度过半，中国货币政策和财政政策虽已释放多轮宽松信号，但是反响平平。
+［源］Bloomberg Business
+【辞】fiscal
+【义】adj. of or relating to government revenue, esp. taxes政府岁入的，财政（尤指税收）的
+【例】monetary and fiscal policy 货币与财政政策
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151125 暮
+【事】New Shepard, a reusable rocket owned by Blue Origin, a firmheaded by Jeff Bezos, boss of Amazon, landed safely on its secondflight.
+［潘腾飞译］蓝源公司的可回收火箭“新谢帕德”号第二次飞行成功着陆。该公司由亚马逊老总杰夫•贝佐斯领导。
+［王娅妮译］蓝源公司研发的可回收火箭“新谢帕德”第二次试航安全着陆。该公司的创立人杰夫·贝索斯，也是亚马逊老板。
+［源］Eco. Esp.
+【辞】head
+【义】vt. be in the leading position on 率领，领导
+【例】The St. George's Day procession was headed by the mayor.圣乔治日游行由市长带领。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151126 朝
+【事】Bill Murray film Rock The Kasbah has topped Forbes' list of thebiggest film flops of 2015.
+［王梓诚译］比尔·默瑞主演的《摇滚卡斯巴》高居福布斯2015年度最烂影片榜首。
+［潘腾飞译］比尔•默瑞主演的电影《摇滚卡巴斯》‘登顶’2015福布斯最烂电影榜单。
+［源］Yahoo! News Digest
+【辞】flop
+【义】informal a total failure 〈非正式〉彻底失败
+【例】The play had been a flop. 这出戏全砸了。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151126 午
+【事】 Accusations of corruption involving a park built to honorThailand's revered monarchy are threatening to damage an anti-graftdrive by the ruling junta, which seized power last year vowing toclean up government and protect royal prestige.
+［王娅妮译］泰国反腐指控，涉及为表达对崇高皇室之敬仰而大建公园。指控恐将威胁当权军政府反腐行动。该军政府去年刚刚掌权，曾发誓净化政府，保护皇家威严。
+［王梓诚译］泰国建皇家公园，纪念尊崇的君主制。去年军方掌权，誓要净化政府，保护皇家威严。近来腐败指控，不一而足，威胁军方反腐。
+［朱绩崧译］去岁，暹罗武夫夺权，誓清君侧。后为褒崇皇室，建一公园，近涉多项贪污指控，令军政府反腐行动蒙羞。
+［源］Reuters
+【辞】revere
+【义】vt.（常作be revered）feel deep respect or admiration for (sth.)崇敬；仰慕
+【例】Cézanne's still lives were revered by his contemporaries.塞尚的静物画受到同时代人的景仰。｜［朱绩崧译］塞尚画静物，为时人所重。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151126 暮
+【事】Airports were bustling today as travelers flying to meetfamilies and friends braved long lines and fears over heightenedrisk of terrorism.
+［王梓诚译］探亲访友的旅客，不怕队伍长，不畏激增空袭险，致今天各大机场人潮涌动。
+［潘腾飞译］今日各大机场熙熙攘攘，欲访亲朋之旅客无惧恐袭风险激增，排起长龙。
+［孙欣祺译］今天各大机场人流熙攘，虽然航班线路长，恐怖主义威胁陡增，但这没有吓跑走亲访友的乘客们。
+［源］Yahoo! News Digest
+【辞】brave
+【义】vt. endure or face (unpleasant conditions or behaviour) withoutshowing fear 勇敢面对
+【例】He pulled on his coat ready to brave the elements.他穿好大衣准备面对恶劣的天气。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151127 朝
+【事】Negotiations for a world pact to curb global warming will startin Paris Sunday, a day ahead of schedule, the UN said Wednesday asa report warned 2015 could become the hottest year on record.
+［王梓诚译］一报告称，2015或将成为有记录以来最热的一年。周三，联合国表示，周日将在巴黎商议世界协议，以控制全球变暖。这比原计划提前了一天。
+［钱米青译］针对抑制气候变暖议题的全球性磋商将于本周日在巴黎举行，与原定磋商计划提前了一天。本周三，联合国表示：根据一份报告，今年可能会是有记载以来最热的一年。
+［潘腾飞译］一份报告指出2015有可能成为有记录以来最热的一年。联合国周三宣布将提前一天于周日在巴黎举行会议，协商制定抑制全球变暖的世界公约。
+［源］Yahoo! News Digest
+【辞】curb
+【义】vt. restrain or keep in check 抑／控制，约束
+【例】She promised she would curb her temper.她答应会控制自己的脾气。｜［朱绩崧译］她保证，会按怒不发。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151127 午
+【事】Oil prices fell on Thursday after six days of gains, as concernsthat escalating tension in the Middle East could disrupt supplyfaded, and the focus returned to a persistent market glut.
+［王娅妮译］原油市场经历六天获益后，周四油价下跌。原因在于，消费者近来对中东日益激化的形势会影响原油供给一直存忧，然较前六天而言，周四起忧虑有所消减。消费者希望市场能够返回到持续供大于求状态(按：油价下跌核心条件之一)。
+［潘腾飞译］中东局势升级可能会破坏供应的担忧逐渐消弥，市场持续供应过量问题成为焦点，油价在持续上升六天后于周四下跌。
+［源］Reuters
+【辞】glut
+【义】n. an excessively abundant supply of sth. 大量；供大于求
+【例】There is a glut of cars on the market. 市场上汽车供大于求。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151127 暮
+【事】America’s most intrepid shoppers will rush to stores thismorning, hunting for bargains. But Black Friday, long the busiestshopping day of the year, is losing its buzz.
+［王梓诚译］今早，全美最强剁手党将冲向商店，到处网罗廉价货。但黑五这一长久以来最大的消费盛筵，正渐失热度。
+［王娅妮译］美国当地时间今晨，最勇猛的购物者将蜂拥冲入商铺，四处寻伺廉价货品。然而“黑色星期五”，美国长久以来全年最热闹的购物日，正日渐失其热度。
+［孙欣祺译］今天上午，美国“扫货敢死队”将倾巢出动，攻城拔寨。然而，“黑色星期五”虽然始终雄踞年度消费榜首，却已逐渐不复往昔之“闹”。
+［源］Eco. Esp.
+【辞】intrepid
+【义】adj. fearless; adventurous (often used for rhetorical orhumorous effect) （常为修辞或幽默效果而用）勇猛的，勇敢的；无畏的；喜欢冒险的
+【例】our intrepid reporter 我们的大无畏记者
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151128 朝1
+【事】Adele has announced a European tour for next spring, hot on theheels of the success of her new album, “25”.
+［王梓诚译］阿黛尔新专辑《25》大卖，趁热她宣布了明春的欧洲巡演计划。
+［王娅妮译］英歌手阿黛尔值新专辑《25》大卖，遂宣布明春将前往欧洲巡演。
+［潘腾飞译］在新专辑“25”大卖后，阿黛尔随即宣布了明春欧洲巡演计划。
+［钱米青译］阿黛尔方昭来春欧洲巡唱之旅，为其新专辑《25》的成功趁热打铁。
+［源］Yahoo! News Digest
+【辞】hot on the heels of
+【义】following closely 紧随
+【例】Critique followed hot on the heels of this pioneering work.这项开拓性的工作刚开始，相关的批评就紧随而至。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151128 朝2
+【事】Wounded survivors of Paris terror attacks gather at aremembrance ceremony where Hollande vows to ‘defeat this enemy’,telling traumatised nation: ‘They have a cult of death, but we havea love of life.’
+［王梓诚译］巴黎恐袭伤员中的幸存者，集会于一追悼仪式。会上，法总统奥朗德发誓要“战胜敌人”，并告诉人们：“他们以死亡为信仰，我们视生命为所爱。”
+［朱绩崧译］幸存伤员集会悼念巴黎连环恐袭罹难者。会上，法总统奥朗德誓“败此敌”，并谕劫后万众国民：“彼等之教立乎死，吾辈所爱在于生。”
+［源］The Guardian, UK
+【辞】traumatize
+【义】vt. subject to lasting shock as a result of emotionallydisturbing experience or physical injury 使受创伤／痛
+【例】The children were traumatized by separation from theirfamilies.［朱绩崧译］这些儿童因与家人隔绝，造成心理创伤。
+［源］ODE2 & Ox. Dicts. Online
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151128 午
+【事】The U.S. National Security Agency will end its daily vacuumingof millions of Americans' phone records by Sunday and replace thepractice with more tightly targeted surveillance methods, the Obamaadministration said on Friday.
+［王娅妮译］周五奥巴马政府称，国家安全局将于本周日结束每日搜集数以百万国内电话记录的作法，取而代之的是更为牢固锁定目标的监视办法。
+［孙欣祺译］奥巴马政府周五表示，美国国安局自周日起将不再大规模截取百姓日常通话记录，取而代之的是一系列更具针对性的监控措施。
+［潘腾飞译］奥巴马政府周五宣布，国安局将于周日结束其每日对数百万通话记录的筛查，取而代之采用针对性更强的监控手段。
+［源］Reuters
+【辞】surveillance
+【义】n. close observation, especially of a suspected spy or criminal监视；看守（间谍嫌疑人或疑犯）
+【例】He found himself put under surveillance by British militaryintelligence. 他发现自己处于英国军事情报机构的监视之下。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+［评］朱绩崧: 151128午“句变”中，①及物动词vacuum可作如是解：如真空吸尘器吸灰尘般短时间内大量强行获取｛数据、信息｝。然汉语尚无此词级概念。②严格说来，theObamaadministration译作“奥巴马政府”不确切，盖美国政府三权分立，作“美国政府在奥巴马领导下的行政分支”更好，只是此说法非但啰嗦且不通俗，唯深习英文者不可不察焉。
+
+时代の句变 151128 暮
+【事】Six years after a fiasco in Copenhagen and a year before heleaves office, President Obama heads to a terror-scared ParisSunday night to tackle climate change.
+［王梓诚译］美总统奥巴马六年前在哥本哈根提议未准，明年又将卸任。周日晚他将前往遍布恐袭疮痍的巴黎，再议气候变化难题。
+［王娅妮译］哥本哈根气候大会重挫后六年，八年任职将终前一年，奥巴马总统周日将往被恐怖浸染的巴黎，再商全球气候变暖难题。
+［潘腾飞译］哥本哈根峰会无疾而终已六年，还有一年即将卸任的美国总统奥巴马于周日晚前往恐袭阴霾下的巴黎，商讨如何应对气候变化。
+［朱绩崧译］甫遭恐袭，巴黎惊魂未定。周日晚，美总统奥巴马将来此磋商气候变化对策。六年前，哥本哈根气候大会，奥氏主张无人买账，今距其届满卸任仅一年矣。
+［源］Yahoo! News Digest
+【辞】fi'asco［注意重音位置］
+【义】n. a complete failure, esp. in a ludicrous and humiliating way大／惨败
+【例】His plan turned into a fiasco.他的计划一败涂地。｜［朱绩崧译］他的计划付诸实施，只换得一败涂地。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151129 朝
+【事】Einstein published his general theory of relativity a centuryago this week. Yet the devilishly complex theory lay largely fallowuntil astronomers started discovering odd cosmic radio beaconscalled quasars.
+［王梓诚译］一世纪前的这一周，爱因斯坦发表广义相对论。但直到宇航员发现一种名叫类星射电源的特殊宇宙射线，这一恶魔般复杂的理论一直默默无闻。
+［王娅妮译］一个世纪前的这一周，爱因斯坦发表广义相对论。然而起初该理论因坚深难懂而无人问津，直到天文学家着手探索异常的宇宙无线电信标即类星体时，才始得青睐。
+［源］Eco. Esp.
+【辞】fallow
+【义】(of farmland) ploughed or harrowed but left unsown for a periodin order to restore its fertility as part of a crop rotation or toavoid surplus production （农田）休闲／耕的
+【例】long fallow periods when nothing seems to happen似乎什么事也不会发生的漫长的萧条期
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151129 午
+【事】The suspect in a shooting rampage at a Planned Parenthood clinicin Colorado has a history of brushes with the law, including a'peeping Tom' complaint in South Carolina.
+［王娅妮译］美国科罗拉多州计生协会诊所枪击扫射一案中，嫌犯过去屡次触犯过法律，包括在南卡罗来纳州曾被指控为“偷窥狂”。
+［孙欣祺译］科罗拉多州计划生育诊所日前发生枪击案，嫌犯在诊所内乱枪射击。此人有多次犯罪前科，曾在南卡罗来纳州受到偷窥指控。
+［源］Reuters
+【辞】brush
+【义】n. a brief and typically unpleasant or unwelcome encounter withsb. or sth. 短暂的遭遇；不愉快（或不受欢迎）的接触；小冲突，小争吵
+【例】a brush with death 与死神擦肩而过
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151129 暮
+【事】Masses of people joined a worldwide wave of marches, demandingthat leaders craft a pact to avert a climate catastrophe when theygather in Paris.
+［王梓诚译］大量民众加入全球游行浪潮，要求各国领导务必在巴黎达成共识，以避免气候灾难。
+［王娅妮译］大批群众已聚于巴黎，投身全球游行热潮，呼吁各国领导共同起草公约，抵制天气灾害。
+［源］Yahoo! News Digest
+【辞】avert
+【义】vt. prevent or ward off (an undesirable occurrence)防止；避免（麻烦事发生）
+【例】Talks failed to avert a rail strike. 会谈未能避免一场铁路罢工。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 160104 朝
+【事】UK soldiers could face war crimes prosecution for their actionsduring the Iraq War.
+［译］陈雪瑶：英国士兵或将因伊战中行为面临战争罪起诉。
+［译］王娅妮：英国士兵或遭战争罪指控，只因其在伊拉克战争中的作为。
+［评］朱绩崧：名词词组复数warcrimes作定语，修饰prosecution。勿混淆prosecution与persecution（迫害）。
+【辞】prosecution〔名〕
+［义］（就刑事指控的）起诉；告发，检举
+［例］bring a private ~ against sb. 对某人提起自诉
+【源】BuzzFeed; NOECD2, OALD8, & Dr. Jason Chu
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160104 暮
+【事】A Belgian architect has come up with designs of underwaterskyscrapers.
+［译］陈雪瑶：比利时一建筑师设计出水下摩天大厦。
+［译］王娅妮：比利时建筑师发布水下摩天大楼设计。
+［评］朱绩崧：陈译“一建筑师”，突出人数，更对应原文，盖汉语无冠词也。王译胜在“发布”。又，“水下摩天大楼”是否可作“摩（没）顶大楼”？哈哈。
+【辞】underwater〔形〕
+［义］水下（生长／操作）的
+［例］~ volcanoes 水下火山
+【源】BGR News; NOECD2, & Dr. Jason Chu
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160105 朝
+【事】Four new elements have been added to the periodic table.
+［译］金 怡：元素周期表新增四位成员。
+［译］王梓诚：元素周期表新增四种元素。
+［评］朱绩崧：金译“成员”有暗喻之意，略生动，而王译平实。
+【辞】periodic〔形〕
+［义］元素周期表的；（周期表中）元素化学性能变化周期的
+［例］the ~ law 周期律
+【源】BBC; NOECD2, & Dr. Jason Chu
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160105 暮
+【事】Chinese shares recovered early losses after rout.
+［译］金 怡：中国股市暴跌后收回“失地”。
+［译］王梓诚：中国股价大跌后重拾部分损失。
+［评］朱绩崧：王译“重拾部分损失”，吾颇不解。“部分”何来？“重拾损失”，则得盈耶亏耶？
+【辞】rout〔名〕
+［义］溃退／败
+［例］The retreat degenerated into a ~. 撤退溃不成军。
+【源】Yahoo! News; NOECD2, & Dr. Jason Chu
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160106 朝
+【事】Obama moves to require background checks for more gunsales.
+［译］金 怡：奥巴马采取行动，欲扩大枪支销售背景审查范围。
+［译］陈雪瑶：奥巴马就枪支出售定新规，扩大背景检查范围。
+［评］朱绩崧：陈译较金译灵活，化去move。“背景”宜用“审查”。又，“背景”前可补出“购买者”。
+【辞】move〔不及物〕
+［义］开展行动
+［例］The police ~d quickly to dispel the rumours. 警方迅速采取行动消除谣言。
+【源】AP; NOECD2, OALD8, & Dr. Jason Chu
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160106 暮
+【事】Twitter may no longer be wedded to the 140-characterlimit.
+［译］金 怡：“推特”或将解除140个字符输入限制。
+［译］陈雪瑶：“推特”或将取消140字符之限。
+【辞】be wedded to〔动词组〕
+［义］专心于（活动／信仰／制度）
+［例］The government was ~ded to budgetary orthodoxy.政府坚持使用正统的预算方法。
+【源】BuzzFeed; NOECD2, & Dr. Jason Chu
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+［评］朱绩崧译：“推特”或将打破单条140字符之输入上限。
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160107 朝
+【事】Iran warned Saudi to stop adding fuel to [sic] fire as theirdiplomatic crisis intensified.
+［译］孙欣祺：伊朗警告沙特不要在外交关系愈发紧张时火上浇油。
+［译］孙予聪：伊朗警告沙特勿让两国加剧的外交危机雪上加霜。
+［评］朱绩崧：考虑到两国产油，“火上浇油”优于“雪上加霜”。
+【辞】add fuel to the fire〔词组〕
+［义］（尤指以挑衅性言论）火上浇油
+［按］fire前有the。
+【源】Yahoo! News; NOECD2, & Dr. Jason Chu
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160107 暮
+【事】The 'circuit breaker' rule was triggered in the first 30 minutesof trading on Chinese stock markets.
+［译］孙欣祺：中国沪深股市开盘三十分钟即触发“熔断机制”。
+［译］孙予聪：中国股市开盘30分钟后就被迫收市，强行掐断暴跌。
+［评］朱绩崧：聪译不见“熔断”，可惜。
+【辞】circuit breaker〔名词组〕
+［义］断路器／开关
+【源】BBC; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160108 朝
+【事】The US doubts North Korea's H-bomb claim, but the UN stillreadies new sanctions.
+［译］丁 烨：美国称朝鲜氢弹试验声明存疑，但联合国仍准备实施新制裁。
+［译］茆 霖：朝鲜氢弹一说遭美质疑，联合国仍准备对其进行新轮制裁。
+［评］朱绩崧：丁译“美国称”后漏“对”。两译皆应点明朝鲜此前称成功引爆氢弹。
+【辞】ready〔及物〕
+［义］准备好
+［例］The spare transformer was readied for shipment.备用变压器做好了装运准备。
+【源】BuzzFeed; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160108 暮
+【事】Charles de Gaulle was inaugurated as president of France's FifthRepublic this day in 1959.
+［译］丁 烨：戴高乐于1959年今日就职法兰西第五共和国总统。
+［译］茆 霖：1959年今日，查尔斯·戴高乐正式就职法兰西第五共和国总统。
+［评］朱绩崧：“就职总统”不如“就任总统”。
+【辞】inaugurate〔及物〕
+［义］为...举行就职典礼
+【源】Encyc. Brit.; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+［评］杨树锋按：戴高乐名Charles当从定译“夏尔”。
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160222 朝
+【事】Thousands of people gathered near the courthouse where PeterLiang was convicted.
+［译］陈雪瑶：数千名群众聚集在梁彼得定罪的法院大楼旁。
+［译］王娅妮：美数千民众集于法院大楼附近，警员梁彼得定罪于此。
+［评］朱绩崧：陈译“群众”具有浓重的中国大陆政治意味，陈译又恰恰没补出“美”——王译则是“美数千民众”。
+【辞】courthouse〔名〕
+［义］法院大楼；（美）县政府大楼
+【源】New York Times
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160222 暮
+【事】Beijing is to raise the thresholds for issuing its highest airpollution warnings.
+［译］陈雪瑶：北京将提高空气污染红色预警发布门槛。
+［译］王娅妮：北京欲提高最重度空气污染预警发布门槛。
+［评］朱绩崧：英文惯以首都代指政府。陈译“红色”，是结合实际情况，超出文本翻译了。王译“欲”，陈译“将”，毕竟不同，be to dosth.此处显然“将”多于“欲”。
+【辞】threshold〔名〕
+［义］临界点，阈值
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160223 朝
+【事】Samsung has revealed the latest incarnation of its waterproofGalaxy S7.
+［译］金 怡：三星新一代防水手机Galaxy S7揭开面纱。
+［译］王梓诚：三星揭秘防水的全新Galaxy S7。
+［评］朱绩崧：“揭秘”、“揭开面纱”（unveil）似与商业行为距离较远，不如往“发布”、“披露”、“展示”方向考虑用词。另，区别incarnation与reincarnation。
+【辞】incarnation〔名〕
+［义］实体化
+【源】Sky News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160223 暮
+【事】Indonesia sank 27 impounded foreign boats to stop illegalfishing.
+［译］金 怡：为取缔非法捕鱼，印尼炸沉扣押的27艘外国渔船。
+［译］王梓诚：印尼炸沉27艘扣留的外国渔船，以打击非法捕鱼。
+［评］朱绩崧：stop不是“打击”，王译想当然了。法律上用“扣押”还是“扣留”，要慎重择取。
+【辞】impound〔及物〕
+［义］没收，扣留｛车辆／货物／文件｝
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160224 朝
+【事】NASA releases the recording of the eerie 'space music' heard byApollo 10 astronauts.
+［译］陆文悦：美国宇航局公开“阿波罗10号”宇航员曾听到的神秘“太空音乐”录音。
+［译］金 怡：NASA公开阿波罗10号神秘录音，宇航员或闻“太空音乐”。
+［评］朱绩崧：汉译最好彻底，勿留NASA、WHO之类。金译“或闻”亦不知何据。较诸两译，拙译求变其序：阿波罗10号众宇航员曾闻神秘“太空乐”，美国宇航局今公开录音。
+【辞】eerie〔形〕
+［义］怪异；令人害怕／恐惧
+【源】The Telegraph
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160224 暮
+【事】Bolivians have narrowly rejected a fourth term forMorales.
+［译］陆文悦：玻利维亚民众否决总统连任，莫拉莱斯勉强无缘第四任期。
+［译］金 怡：玻利维亚公投反对方略占优，莫拉莱斯连任四届无望。
+［评］朱绩崧：陆译“勉强无缘”不如改为“惜与⋯无缘”。金译“反对方”不如“在野党”。
+【辞】narrowly〔副〕
+［义］刚好，勉强，险
+［例］The party was ~ defeated in the elections. 该党在选举中以微弱劣势败北。
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160225 朝
+【事】Bill Gates hedges on FBI's demand for the iPhone access.
+［译］孙欣祺：联邦调查局要求破解苹果手机，比尔·盖茨对此事表态暧昧。
+［译］茆 霖：FBI要求“解锁”iPhone, 比尔·盖茨对此闪烁其词。
+［评］朱绩崧：此苹果手机非泛指，乃一杀手遗物，故FBI方有兴趣。
+【辞】hedge〔不及物〕
+［义］含糊其辞，避免作明确承诺／决定
+【源】CNET
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160225 暮
+【事】Beijing overtakes New York City as 'Billionaire Capital of theWorld.'
+［译］孙欣祺：北京超越纽约，荣升“全球壕都”。
+［译］茆 霖：北京赶超纽约，成为全球亿万富豪之都。
+［评］朱绩崧：capital此处为引申义：与⋯有关联的城市，非指首都也。汉字“都”古有“汇集”之义，如曹子桓《与吴质书》：“顷撰其遗文，～为一集。”
+【辞】overtake〔及物〕
+［义］赶上，超越／过
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160226 朝
+【事】An Australian icebreaker has run aground in Antarctica.
+［译］丁 烨：一艘澳大利亚破冰船在南极遭浮冰围困。
+［译］孙予聪：澳大利亚一破冰船于南极搁浅。
+［评］朱绩崧：译如求简，则“澳一破冰船搁浅南极”足矣。汉语称“南极”、“北极”，英语则以北为正，惟“北极”与“反北极”（ant[i]+arctica）。
+【辞】icebreaker〔名〕
+［义］破冰船
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160226 暮
+【事】The US and China have agreed on a new UN resolution to imposestrict sanctions on North Korea.
+［译］丁 烨：美中就联合国新决议达成一致，严厉制裁朝鲜。
+［译］孙予聪：中美就联合国关于严厉制裁北朝鲜的新决议达成共识。
+［评］朱绩崧：拙译：联合国新决议拟严厉制裁朝鲜，中（汉译可考虑尊崇本邦，故置前）美就此达成一致／共识。
+【辞】sanction〔名〕
+［义］（国家之间实施的）制裁，处罚
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 151207 朝
+【事】Myanmar's former military ruler sees erstwhile foe Aung San SuuKyi as the country's 'future leader' and has pledged support forher in a secret meeting.
+［陈雪瑶译］前缅甸军方首领视昂山素季为未来的国家领导人，并在秘密会议上许诺支持这位昔日之敌。
+［王娅妮译］在一次秘密会晤中，缅甸前军政府最高领导人承认宿敌昂山素季为国家“新领袖”，并承诺会给予支持。
+［源］BBC
+【辞】erstwhile
+【义】attrib. former 以前的，从前的
+【例】the erstwhile president of the company 公司的前任总裁
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151207 午
+【事】A spacecraft carrying much-needed US supplies blasted off towardthe International Space Station for the first time in months onSunday.
+［孙予聪译］经过数月的停滞，一艘飞船于周日荷载美宇航员急需物资，首次向国际空间站发射。
+［陈雪瑶译］航天器数月来首次前往国际空间站，于周日满载美国宇航员的急需物资发射升空。
+［王梓诚译］周日，美国一宇宙飞船升空，携带急需物资，飞向国际空间站。这是数月来的第一次。
+［源］BBC
+【辞】blast off
+【义】(of spacecraft) to leave the ground （宇宙飞船）发射升空
+【例】Columbia is set to blast off at 1:20 am.“哥伦比亚”号预计于凌晨1点20分发射。
+［源］ODE2 & Dictionary. com
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151207 暮
+【事】Tunis was rocked last month bya suicide bomber who targeted a bus that transports thepresidential guard - 12 people died and another 20 wereinjured.
+［王梓诚译］上月，突尼斯举国震惊。一“人体炸弹”袭击了一辆总统卫队运送车，致12人死，20人伤。
+［王娅妮译］上月突尼斯全国震惊，一自杀式爆炸恐袭者选定一辆载有总统警卫队成员的客车引爆，致12人亡，20人伤。
+［丁 烨译］上月，一乘坐有总统护卫的大巴遭受自杀式炸弹袭击，死亡12人，受伤20人。此举使突尼斯举国震惊。
+［源］BBC
+【辞】rock
+【义】vt. cause great shock or distress to (sb. or sth.), esp. so asto weaken or destabilize （尤指为削弱某人或某物的力量或破坏其稳定）使震惊；使苦恼；使不安
+【例】diplomatic upheavals that rocked the British Empire扰得大英帝国惊魂不定的外交大动荡
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151208 朝
+【事】Chinese authorities have said an attack on a remote checkpointin Inner Mongolia was due to a 'provincial border dispute.'
+［孙欣祺译］内蒙古一边检站遭袭，中国当局界定为一次“省界纠纷”。
+［金 怡译］官方称内蒙古检查站袭击事件系由“省界争端”引发。
+［陈雪瑶译］内蒙古边境检查站遭遇袭击，有关当局称缘起“省界争端”。
+［源］BBC
+【辞】checkpoint
+【义】n. a barrier or manned entrance, typ. at a border, wheresecurity checks are carried out on travellers（尤指边境）检查站
+【例】They had to cross five military checkpoints. 他们必须穿过五道军事关卡。
+［源］ODE2 & LDOCE5
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151208 午
+【事】Donald Trump has called for a 'total and complete' halt toMuslims entering the US, in the wake of the deadly Californiashootings.
+［王梓诚译］加州枪击惨案后，唐纳德·特朗普呼吁，全面禁止穆斯林进入美国。
+［王娅妮译］加州致命枪案发生后，唐纳德·特朗普强烈呼吁要“完全彻底”地禁止穆斯林踏入美国一步。
+［丁 烨译］加州枪击案发生之后，唐纳德特朗普呼吁应“全面而彻底”禁止穆斯林入美。
+［源］BBC
+【辞】halt
+【义】n. a suspension of movement or activity, typ. a temporary one暂停，停止，中止
+【例】A bus screeched to a halt. 公共汽车嘎的一声停住了。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151208 暮
+【事】A mother, arrested in connection with the baby found buriedalive last week beneath a Southern California bike path, is beingheld in lieu of $500,000 bail.
+［陈雪瑶译］上周，南加州一处自行车道下发现活埋弃婴。涉案母亲遭逮捕，目前尚在拘留，保释金高达50万美元。
+［王娅妮译］上周，南加州自行车道下发现一遭活埋的婴儿。警方已将嫌犯母亲逮捕，因其未支付五十万美元保释金，所以暂时拘留待审。
+［王梓诚译］上周，南加州自行车道下发现一遭活埋的婴儿。涉案母亲已被逮捕，目前尚处拘留，保释金达50万美元。
+［源］BBC
+【辞】in lieu
+【义】instead 替代
+【例】The company issued additional shares to shareholders in lieu ofa cash dividend. 公司给股东送股，而不是现金分红。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151209 朝
+【事】Saudi Arabia has agreed to reopen the case of a Sri Lankan maidsentenced to death for adultery, Sri Lanka's deputy foreignminister said.
+［金 怡译］斯里兰卡外交部副部长称，沙特阿拉伯已同意重审斯里兰卡已婚女佣通奸被判死刑一案。
+［陈雪瑶译］一斯里兰卡籍女佣因在沙特通奸被判死刑。斯里兰卡副外长称沙特现已同意重审此案。
+［源］BBC
+【辞】adultery
+【义】mass n. voluntary sexual intercourse between a married personand a person who is not his or her spouse 通奸
+【例】She was committing adultery with a much younger man.她和一个比她年轻得多的男人私通。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151209 午
+【事】Greek police tried to capture the suspected ringleader of theParis terror attacks in January, but the operation failed.
+［陈雪瑶译］希腊警方在一月试图抓捕巴黎恐怖袭击的嫌疑头目，但行动失败。
+［潘腾飞译］希腊警方一月试图逮捕巴黎恐袭嫌疑头目未果。
+［王娅妮译］早在一月，希腊警方就准备抓捕涉巴黎恐袭案的嫌疑头目，然行动终败。
+［源］BBC
+【辞】ringleader
+【义】n. a person who initiates or leads an illicit or illegalactivity（不正当或非法活动的）头目，首恶
+【例】the ringleader of a new international drugs ring一个新跨国贩毒团伙的首领
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151209 暮
+【事】Two Maasai herdsmen have been charged after allegedly poisoninga famous pride of lions in Narok, south-west Kenya.
+［王娅妮译］肯尼亚西南部纳罗克一远近闻名的狮群遭投毒，两名马萨伊牧民涉案，现已遭指控。
+［孙予聪译］据称，两个马赛族牧人涉嫌给肯尼亚西南部纳罗克一著名狮群下毒而被指控。
+［源］BBC
+【辞】pride
+【义】n. a group of lions forming a social unit 狮群
+【例】A young lion had strayed some distance from the pride.一头年轻狮子已离群甚远。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151210 朝
+【事】The US has imposed new sanctions on North Korea over its allegedweapons proliferation activities.
+［王梓诚译］朝鲜被指开展武器扩散，美国已对其实施新的制裁。
+［孙予聪译］北朝鲜被指增加军备，美国已对其开始新一轮制裁。
+［源］BBC
+【辞】proliferation
+【义】n. rapid increase in numbers 激增，扩散
+【例】a continuing threat of nuclear proliferation 核扩散的持续威胁
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151210 午
+【事】Dozens of people have been killed in a Taliban attack on aheavily fortified civilian and military airfield in the southernAfghan city of Kandahar.
+［王娅妮译］阿富汗南部城市坎大哈军民两用机场戒备森严，却遭塔利班武装分子袭击，数十名百姓丧生。
+［孙予聪译］阿富汗南部城市坎大哈一防御严备的军民两用机场遭塔利班袭击，数十人遇难。
+［源］BBC
+【辞】fortify
+【义】vt. strengthen (a place) with defensive works so as to protectit against attack 筑防御工事于，设防于
+【例】The whole town was heavily fortified. 全城严密设防。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151210 暮
+【事】The world's first IVF (in-vitro fertilization) puppies have beenborn after years of attempts, say scientists in the US.
+［王梓诚译］美科学家宣布，经多年努力，世界首批“试管狗”诞生。
+［孙予聪译］美国科学家称，经多年努力，世上首批试管受精小狗诞生。
+［源］BBC
+【辞】in vitro
+【义】adj./adv. (of processes or reactions) taking place in a testtube, culture dish, or elsewhere outside a livingorganism（指过程或反应）体外（的），离体（的），用试管进行的
+【例】an egg fertilized in vitro 体外受精卵
+【反】in vivo
+［源］ODE2 & OALD8
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151211 朝
+【事】Hospitals in England are facing record levels of delaysdischarging patients, which is caused by a lack of communityservices.
+［王娅妮译］在英格兰各家医院，出院延迟天数已创历史新高，原因则是社区服务不够完善。
+［孙予聪译］由于社区医疗服务不到位，英格兰各医院的出院延迟创下历史之最。
+［源］BBC
+【辞】discharge
+【义】vt. send (a patient) out of hospital because they are judged fitto go home 让（病人）出院
+【例】He has a broken nose but may be discharged today.他虽然鼻梁骨折，但也许今天就能出院了。
+［源］ODE2 & Dictionary. com
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151211 午
+【事】A Boston subway train that left its station without a driver andtravelled to four other stations was tampered with, sayofficials.
+［丁 烨译］波士顿一地铁无人驾驶离站，驶经四个站台，官方称此为蓄意破坏引起。
+［孙予聪译］一列波士顿地铁在无人驾驶的情况下驶离站台，并驶经四站，官方表示这班列车被人做了手脚。
+［源］BBC
+【辞】tamper with
+【义】interfere with (sth.) in order to cause damage or makeunauthorized alterations 破坏
+【例】Someone tampered with the brakes of my car.有人在我汽车的刹车上做了手脚。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151211 暮
+【事】The White House poured cold water on leader Kim Jong-Un'ssuggestion today that North Korea has developed a hydrogenbomb.
+［王娅妮译］北朝鲜领导人金正恩暗示已成功研发氢弹，美国方面冷眼相向。
+［丁 烨译］朝鲜最高领导人金正恩于今日暗示，朝鲜已成功研发氢弹，白宫方面漠然回应。
+［源］Yahoo! News
+【辞】pour/throw cold water on
+【义】be discouraging or negative about 对...持批评（或不支持）态度；对...泼冷水
+【例】He threw cold water on our hopes. 他一盆冷水浇灭了我们的希望。
+［源］ODE2 & Merriam Webster
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151212 朝
+【事】Efforts to craft a global accord to combat climate changestumbled on Friday with many nations refusing to yieldground.
+［丁 烨译］国际社会煞费苦心，试图制定协议以应对气候变化，但由于许多国家拒绝妥协，这一进程于周五陷入僵局。
+［茆 霖译］为应对气候变化，各国协力制定全球协议，不料周五遭遇不顺，只因多国拒绝让步。
+［源］Reuters
+【辞】craft
+【义】vt. exercise skill in making (sth.) 精心制作
+【例】He crafted the chair lovingly. 他煞费苦心地制作了这把椅子。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151212 午
+【事】China's central bank on Friday cut the yuan's value against thegreenback to its lowest in more than four years.
+［王娅妮译］周五，中国央行首次将人民币兑换美元汇率降至四年多以来最低。
+［丁 烨译］中国央行于周五调降人民币对美元汇率，创四年多来新低。
+［源］AFP
+【辞】greenback
+【义】n. (US, informal) a dollar bill; a dollar（美，非正式）一元美钞；一美元
+【例】purchased with our last greenback 花了我们最后一美元买到的
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151212 暮
+【事】The melting of glaciers caused by the world's risingtemperatures appears to be causing a slight slowing of the Earth'srotation.
+［王娅妮译］由于全球升温，冰川融化似乎正引发地球转动的细微减速。
+［茆 霖译］全球气温上升，导致冰川融化，地球自转似乎正因此轻微放缓。
+［源］Reuters
+【辞】rotation
+【义】n. the action of rotating about an axis or centre 旋转，转动
+【例】The moon moves in the same direction as the Earth's rotation.月球与地球旋转的方向一致；several solar rotations 绕太阳转几圈
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151213 朝
+【事】Saudi Arabia is going to the polls in unprecedented municipalelections in which women can cast a ballot for the firsttime.
+［丁 烨译］沙特阿拉伯即将举行市政选举，女性首次有权进行投票。
+［金 怡译］沙特阿拉伯将举行市政选举，女性首次有权投票。
+［源］BBC
+【辞】ballot
+【义】n. a procedure by which people vote secretly on a particularissue（无记名）投票表决
+【例】The commissioners were elected by ballot. 委员是无记名投票选出来的。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151213 午
+【事】In New York, Santas came by the thousands, reindeer formed akick line and oversized elves cavorted with saucy Mrs.Clauses.
+［茆 霖译］数千“圣诞老人”到访纽约，“驯鹿”踢起脚站成一排，“大精灵”与“圣诞老婆婆”一同欢呼雀跃。
+［金 怡译］千余“圣诞老人”汇聚纽约，驯鹿成排而列，“圣诞奶奶”们活泼轻佻，与大精灵们嬉戏雀跃。
+［源］AP
+【辞】cavort
+【义】vi. jump or dance around excitedly 跳跃，欢腾
+【例】The players cavorted about the pitch. 运动员们为这一投球欢呼雀跃。
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151213 暮
+【事】China's navy has in recent days carried out more exercises inthe disputed South China Sea, calling them routine drills.
+［丁 烨译］南海地区争议尚未尘埃落定，中国海军近日已加强此地区的演练，并声称为常规军演。
+［茆 霖译］近日，中国舰队于南海争端海域开展多次演习。中方表示，此为例行军演。
+［源］Reuters
+【辞】drill
+【义】n. a rehearsal of the procedure to be followed in an emergency演习
+【例】air-raid drills 防空演习
+［源］ODE2
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 160509 朝
+【事】Eight plainclothes policemen in Egypt have been shot dead on theoutskirts of Cairo.
+［译］郑巨源：八名埃及便衣警察被枪杀于开罗郊区。
+［译］吴超然：埃及八名便衣警察在开罗市郊遭枪杀。
+［评］重光会：plainclothes名词作定语。另，outskirt常以复数形式出现，搭配介词on。
+【辞】plainclothes〔名〕
+［义］便衣
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160509 暮
+【事】Millions of voters in the Philippines braved stifling hotweather to vote for a new president.
+［译］郑巨源：数百万菲律宾选民不顾高温参与总统大选投票。
+［译］吴超然：数百万菲律宾选民顶着酷热投票选举新总统。
+［评］重光会：the Philippines注意定冠词和复数。stifling hot也可作stiflingly hot。
+【辞】stifling〔副〕
+［义］令人窒息
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160510 朝
+【事】Astronomers and casual stargazers witnessed the transit ofMercury for the first time in a decade.
+［译］郑巨源：时隔十载，天文学家和业余天文爱好者再次观测到水星凌日。
+［译］吴超然：天文学家及业余观星者十年来首次观测到水星凌日。
+［评］重光会：“凌”义为“越过”，“凌日”即（暗星体）越过太阳”。另，astronomy与astrology本义同，今有所分别。
+【辞】stargazer〔名〕
+［义］凝望星辰／观察天体者（如天文／占星学家）
+【源】Hindustan Times
+岁次｜唐明宇敬制＊重光会联袂丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160510 暮
+【事】Austria's chancellor steps down as the migrant crisis roilsEuropean politics.
+［译］郑巨源：移民危机搅乱欧洲政局，奥地利总理因此辞职。
+［译］吴超然：受移民危机搅混欧洲政局之影响，奥地利总理宣布辞职。
+［评］重光会：chancellor在不同国家含义不同：在德国、奥地利义为“总理”，在英国义为“大臣，司法官”，在美国义为“大学校长”。
+【辞】roil〔及物〕
+［义］搅浑／乱
+【源】Wall Street Journal
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160511 朝
+【事】Maverick candidate Rodrigo Duterte has won the Philippinepresidential election.
+［译］郑巨源：特立独行的菲律宾总统候选人罗德里戈·杜特尔特赢得了大选。
+［译］吴超然：菲律宾总统候选人罗德里戈·杜特尔特从大选中脱颖而出，其人特立独行。
+［评］重光会：maverick源自人名，本义为“无主人标记的小牛”。另，Philippine是形容词。
+【辞】maverick〔形〕
+［义］行为不合常规，持异见
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160511 暮
+【事】Obama will become the first incumbent American president tovisit Hiroshima.
+［译］郑巨源：奥巴马将成为首位于任期内访问广岛的美国总统。
+［译］吴超然：奥巴马将访问广岛，系首位到访的在任美国总统。
+［评］重光会：incumbent源于拉丁动词cubare，本义为lying upon，同源词decumbent (lyingdown)，recumbent (lying back)。
+【辞】incumbent〔形〕
+［义］在职／任
+【源】Washington Post
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160512 朝
+【事】NASA's Kepler mission has discovered 1,284 planets, the mostexoplanets announced at one time.
+［译］郑巨源：NASA开普勒任务一次性发现1284颗系外行星，创历史新高。
+［译］吴超然：NASA开普勒望远镜新发现1284颗行星，系单次宣布系外行星数量之最。
+［评］重光会：exoplanet又作extrasolarplanet。前缀exo-义为“（从）外部”，源于希腊语，本义与拉丁语源前缀extra-相近。
+【辞】exoplanet〔名〕
+［义］（太阳）系外行星
+【源】CNN
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160512 暮
+【事】Nine Nepalis became the first climbers to scale Mount Everest intwo years from the Nepali side.
+［译］郑巨源：九名尼泊尔人于两年来首次从尼泊尔一侧登顶珠峰。
+［译］吴超然：九名尼泊尔人成为两年来首次从尼泊尔一侧登顶珠峰之人。
+［评］重光会：郑译有歧义。mount义为mountain，多用于地名，且不加定冠词the。西方多用MountEverest称呼Mount Qomolangma。
+【辞】scale〔及物〕
+［义］攀登；翻越；到达⋯的顶点
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160513 朝
+【事】Brazil's Senate voted to remove the leftist president from powerand subject her to an impeachment trial.
+［译］郑巨源：巴西参议院决议罢免左翼总统，并使之接受弹劾审讯。
+［译］吴超然：巴西国会表决赞成免除左翼总统职务，迫使其接受弹劾审讯。
+［评］重光会：吴译有误，senate在巴西应为参议院。leftist亦可作left-wing。
+【辞】subject〔及物〕
+［义］使经／遭受
+【源】Los Angeles Times
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160513 暮
+【事】The US Congress approved overwhelmingly a declaration of waragainst Mexico on this day in 1846.
+［译］郑巨源：美国国会于1846年今日以压倒性多数通过对墨西哥宣战的决议。
+［译］吴超然：1846年的今天，美国国会以压倒性多数批准对墨西哥宣战。
+［评］重光会：Congress表示“美国国会”，单独使用时常不加冠词。但前有US时，需加the；approve表“批准”时及物，表“赞成”时不及物。
+【辞】overwhelmingly〔副〕
+［义］压倒性多数
+【源】Encyc. Brit.
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160314 朝
+【事】The robots sent into the remains of the Fukushima nuclear powerplant have perished.
+［译］陈雪瑶：福岛核电站机器人不幸报废，此前被送入废墟工作。
+［译］王娅妮：日本送入福岛第一核电站残骸中的机器人全军覆没。
+［评］朱绩崧：王译“头重”，“机器人”定语颇长。陈译拆句，此偏遂得以纠。
+【辞】perish〔不及物〕
+［义］消亡，毁灭，被摧毁
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160314 暮
+【事】Bank of Japan officials scurry to commercial banks to explainand apologize for adopting negative interest rates.
+［译］陈雪瑶：日本银行官员奔波于各商业银行，解释负利率政策并为此道歉。
+［译］王娅妮：日本央行高管匆忙赶往各商业银行，为启用负利率解释致歉。
+［评］朱绩崧：“日本央行”较“日本银行”好，因汉语中，“中国央行”非“中国银行”。“高管”亦较“官员”好。scurry用于日本人，非常生动形象。explain与apologizefor共用adopting [...] rates作宾语。
+【辞】scurry〔不及物〕
+［义］｛人、动物｝小步快跑
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160315 朝
+【事】Europe and Russia launched an unmanned spacecraft to smell Mars’atmosphere for evidence of life.
+［译］金 怡：欧、俄发射一无人探测器，用于嗅探火星大气层，寻找生命迹象。
+［译］王梓诚：为找寻火星上的生命迹象，欧、俄发射一无人探测器以窥其大气。
+［评］朱绩崧：二人皆译“欧、俄”，便是不动脑筋——不定冠词an的存在，说明“欧俄联合”，用顿号，仿佛各发各的。
+【辞】smell〔及物〕
+［义］嗅；〔喻〕探查
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160315 暮
+【事】Putin ordered the start of Russian forces’ withdrawal fromSyria.
+［译］金 怡：普金命令俄部队开始从叙利亚撤军。
+［译］王梓诚：普京下令开始从叙利亚撤军。
+［评］朱绩崧：“开始”不译出也可，“下令”（较“命令”更好）即意味着开始。
+【辞】force〔名〕
+［义］部／军队，兵力
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160316 朝
+【事】Myanmar’s Parliament elected U Htin Kyaw, a confidant of AungSan Suu Kyi, as president.
+［译］陆文悦：缅甸议会总统选举，昂山素季亲信吴廷觉获选。
+［译］潘腾飞：缅甸议会推选出新总统，为昂山素季亲信吴廷觉。
+［评］朱绩崧：传缅甸无姓，名前“吴”字，尊称也。陆译“获选”不如“当选”。拙译：缅甸议会选举吴廷觉为总统，系昂山素季亲信。
+【辞】confidant〔名〕
+［义］（可透露个人秘密、私事的）密友，知己
+【源】New York Times
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160316 暮
+【事】China will release water from a dam in Yunnan to help alleviatea drought in Southeast Asia.
+［译］陆文悦：中国将开闸一云南水库，援助东南亚缓解旱情。
+［译］潘腾飞：为帮助缓解东南亚旱灾，中国云南一水坝将开闸放水。
+［评］朱绩崧：拙译：为助东南亚抗旱，中国云南某坝将开闸放水。注意drought读音。
+【辞】alleviate〔及物〕
+［义］减轻，缓解
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160317 朝
+【事】Trump swept three states and drove Rubio out of the White Houserace.
+［译］孙欣祺：美国大选，川普再赢三州，卢比奥正式出局。
+［译］茆 霖：特朗普赢下三州，鲁比奥无奈退选。
+［评］朱绩崧：The White House译作“白宫”，但做汉译英的生手，往往一见“宫”，心里只有个palace。
+【辞】sweep〔及物〕
+［义］在……中屡战屡胜／一举获胜
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160317 暮
+【事】Scientists suggested that deep-ocean craters might be the causeof the Bermuda Triangle mystery.
+［译］孙欣祺：科学家暗示，百慕大三角之谜可能与深海坑洞有关。
+［译］茆 霖：科学家指出，深海坑穴或为百慕大三角谜团成因。
+［评］朱绩崧：suggest此处作“指出”更好，而其“暗示”之义用“或”足矣。故茆译为胜。
+【辞】crater〔名〕
+［义］坑（如陨石坑、弹坑等）
+【源】Mic
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160318 朝
+【事】An analysis of scans of King Tut's burial chamber revealed twohidden rooms.
+［译］丁 烨：一图坦卡蒙王墓室扫描分析揭露两间密室。
+［译］孙予聪：图坦卡蒙法老的墓室经多次扫描分析，新现两间密室。
+［评］朱绩崧：两译似乎都未体现“多次扫描结果的一次分析”。
+【辞】burial chamber〔名词组〕
+［义］墓室
+【源】ABC News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160318 暮
+【事】China has established formal diplomatic ties with Gambia.
+［译］丁 烨：中国正式与冈比亚建立外交关系。
+［译］孙予聪：中国与冈比亚正式建交。
+［评］朱绩崧：Gambia有河流the Gambia，但有时国名也写作the Gambia。
+【辞】diplomatic〔形〕
+［义］外交｛活动、手腕｝
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160215 朝
+【事】A full-size replica of the ill-fated Titanic will set sail in2018.
+［译］陈雪瑶：遭罹厄运的泰坦尼克号将迎来原版复制，预计2018年下水首航。
+［译］王娅妮：泰坦尼克号罹难似是命中注定，而其原尺寸仿制品将于2018年再次出航。
+［评］朱绩崧：set sail本义“扬帆”，转指“起航”，主语可以是船只、乘客。注意：sail不用复数，亦无冠词。
+【辞】replica〔名〕
+［义］（尤指比原物小的）复制品，仿样；摹本
+［例］a ~ of the Empire State Building 帝国大厦模型
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160215 暮
+【事】Australia's government rejects calls to let an asylum seekerbaby stay.
+［译］陈雪瑶：面对呼声，澳政府仍拒绝收留一难民婴儿。
+［译］王娅妮：虽然外界呼吁澳大利亚对一名避难婴儿网开一面，但澳政府未予同意。
+［评］朱绩崧：陈译“面对”不如“罔顾”。王译“网开一面”难以对应stay。
+【辞】asylum seeker〔名词组〕
+［义］难民，寻求庇护者
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160216 朝
+【事】HSBC has decided not to shift its center of gravity to Hong Kongfrom Britain.
+［译］金 怡：汇丰银行决定放弃迁都香港，保留英国总部。
+［译］王梓诚：汇丰银行决定将总部留在英国，而不迁至香港。
+［评］朱绩崧：金译“迁都”不妥，“英国总部”有歧义。
+【辞】center of gravity〔名词组〕
+［义］（物体的）重心；〔喻〕重／核心，中枢机构
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160216 暮
+【事】Obama has started to name a Supreme Court justice nominee toreplace the late Justice Antonin Scalia.
+［译］金 怡：奥巴马着手提名最高法院大法官，填补已故大法官安东宁·斯卡利亚空缺。
+［译］王梓诚：奥巴马启动下一任最高法院大法官的提名工作，以接替已故的安东宁·斯卡利亚。
+［评］朱绩崧：大法官称justice，而非judge。a Supreme Court justicenominee有四层结构：名词组Supreme Court justice修饰名词nominee；名词组SupremeCourt修饰名词justice；形容词Supreme修饰名词Court。
+【辞】late〔形〕
+［义］（人）最近故去的
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160217 朝
+【事】Russia and Saudi Arabia agreed to freeze output levels to tacklethe growing oversupply of crude oil.
+［译］陆文悦：俄罗斯与沙特达成原油限产共识，应对愈演愈烈的供应过剩。
+［译］金 怡：俄罗斯和沙特商定冻结原油产量，应对供过于求愈演愈烈之局。
+［评］朱绩崧：growing可译作“（原油供过于求之势）日炽”，盖油可燃也。“炽”又与“冻结（freeze）”相对。
+【辞】freeze〔及物〕
+［义］冻结，一段时间内使...固定于某水平／状态
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160217 暮
+【事】Former UN secretary-general Boutros Boutros-Ghali died at93.
+［译］陆文悦：联合国前秘书长布特罗斯·布特罗斯·加利逝世，享年93岁。
+［译］金 怡：布特罗斯·布特罗斯·加利逝世，享年93岁，曾任联合国秘书长。
+［评］朱绩崧：93岁者，属nonagenarian，古人所谓“耄”也。又，secretary general是秘书长，generalsecretary是总书记。
+【辞】Secretary General〔名词组〕
+［义］秘书／干事长
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160218 朝
+【事】A massive, 404-carat diamond was found in Angola.
+［译］孙欣祺：安哥拉出土一颗404克拉巨钻。
+［译］茆 霖：安哥拉发现一枚巨钻，重达404克拉。
+［评］朱绩崧：孙译用词不慎，如钻石出自山石中，则何言“出土”？茆译既云“巨钻”，则“重达”多余。又，carat与carrot（胡萝卜）同音。
+【辞】carat〔名〕
+［义］克拉（宝石、珍珠重量单位，1克拉现等于200毫克）
+【源】Good Morning America
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160218 暮
+【事】Apple launched its mobile payments service Apple Pay in China,pitting itself against strong domestic players.
+［译］孙欣祺：苹果在中国推出移动支付服务Apple Pay，与国内巨头们正面交锋。
+［译］茆 霖：苹果移动支付服务Apple Pay今日入华，与国内“劲敌”展开对抗。
+［评］朱绩崧：domestic此处作“国内”不妥，盖AFP非中国新闻机构，建议作“本土”。players当指支付宝、微信支付、百度钱包等。
+【辞】pit oneself against sb.〔词组〕
+［义］与某人为敌／对抗／竞争／角逐
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160219 朝
+【事】Nike has terminated its relationship with Manny Pacquiao afterhis gay slur.
+［译］丁 烨：因曼尼·帕奎奥发表侮辱同性恋言论，耐克终止与其合作关系。
+［译］孙予聪：曼尼·帕奎奥出言侮辱同志，耐克遂与之断交。
+［评］朱绩崧：孙译“同志”宜加引号；“出言侮辱”较丁译简洁；“断交”则太笼统，此处丁译为胜。
+【辞】slur〔名〕
+［义］诽谤
+［例］The comment was a ~ on the staff of the hospital.该言论是对该院医护人员的诽谤。
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160219 暮
+【事】Deng Xiaoping, who introduced economic reforms to China in 1978,died this day in 1997.
+［译］丁 烨：1978年中国经济改革推行者邓小平于1997年今日逝世。
+［译］孙予聪：1997的今日，1978年中国经济改革的引导者邓小平与世长辞。
+［评］朱绩崧：拙译：“1978年，仰赖邓小平之功，中国各项（照应复数的reforms）经济改革肇始。1997年之今日，邓公辞世。”汉语无从句，且似不易接受过长的前置定语，故拙译求变，异于丁、孙二氏。
+【辞】introduce〔及物〕
+［义］（首次）推行；采用，采取｛产品／措施／概念｝
+［例］Various new taxes were ~d. 开征多种新税。
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160321 朝
+【事】Turkish and EU leaders agreed a 'historic' deal for curbing theinflux of migrants.
+［译］陈雪瑶：土耳其与众欧盟领导人达成“历史性”协议，旨在控制移民涌入。
+［译］王娅妮：土耳其和欧洲领导人已达成具有历史意义的协议，共同遏制大批移民的涌入。
+［评］朱绩崧：EU是“欧盟”，不是“欧洲”，故王译有误，“大批”亦可省去。陈译“众欧盟领导人”中，“众”于原文无征，不应出现。
+【辞】influx〔名〕
+［义］涌进，流入，汇集
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160321 暮
+【事】Obama becomes the first sitting US president to visit Cuba in 88years.
+［译］陈雪瑶：在任美国总统访问古巴，奥巴马成为88年以来第一位。
+［译］王娅妮：奥巴马成为近八十八年以来，首位在任期间访问古巴的美国总统。
+［评］朱绩崧：拙译：奥巴马将访古巴。八十八年来，于美国在任总统未之有也。
+【辞】sitting〔形〕
+［义］｛领导人、议员等｝在任期内的，现任的
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160322 朝
+【事】The black box from a passenger plane that crashed in southernRussia has been found.
+［译］金 怡：在俄罗斯南部坠毁的客机黑匣子已找到。
+［译］王梓诚：一客机在俄罗斯南部坠毁，已找到其黑匣子。
+［评］朱绩崧：两译体现了拆句与不拆句的差别，很典型。我倾向拆句。拙译：俄南部日前一客机坠毁，其黑匣子今已寻获。
+【辞】black box〔名词组〕
+［义］（飞机）黑匣子
+［释］飞机专用电子记录设备，包括驾驶舱话音记录器（cockpit voice recorder, CVR）和飞行数据记录器（flight data recorder, FDR），能记录飞机失事坠毁前两小时驾驶舱内声音以及各类飞行参数。
+【源】International Business Times; Wikipedia
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160322 暮
+【事】Apple unveiled a robotic system called Liam to rip apart junkediPhones for recycling.
+［译］金 怡：苹果推出Liam机器人，可拆解旧iPhone以回收利用。
+［译］王梓诚：苹果推出一机器人系统“利亚姆”，以拆解废弃iPhone，供回收之用。
+［评］朱绩崧：相比金译，王译前用“利亚姆”，后用iPhone，汉化不彻底。但“废弃”对应junked，较笼统的“旧”为胜。
+【辞】rip sth apart〔词组〕
+［义］撕破；使开／分裂
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160323 朝
+【事】Attacks on Brussels airport and metro station have claimed 34lives.
+［译］陆文悦：布鲁塞尔机场及地铁站遭袭，已致34人死亡。
+［译］潘腾飞：已有34人死于布鲁塞尔机场和地铁站发生的恐袭。
+［评］朱绩崧：此语境中，“罹难”好过“死亡”。
+【辞】claim〔及物〕
+［义］导致⋯（的）死亡／损失
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160323 暮
+【事】FIFA opened an ethics probe into the bidding for the 2006Germany World Cup.
+［译］陆文悦：2006年德国世界杯申办有贿选嫌疑，国际足联就其规范介入调查。
+［译］潘腾飞：国际足联开始调查2006年德国世界杯申办问题。
+［评］朱绩崧：潘译ethics漏译，属于重要信息缺失。
+【辞】bidding〔名〕
+［义］投／竞标
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160324 朝
+【事】European monuments were lit up in tribute to victims in theBrussels attacks.
+［译］孙欣祺：欧洲地标齐亮灯，悼念布鲁塞尔恐袭遇害者。
+［译］茆 霖：欧洲各国点亮地标，悼念布鲁塞尔恐袭罹难者。
+［评］朱绩崧：light作动词，有两过去分词：lit和lighted，但过去式多用lit一式。
+【辞】tribute〔名〕
+［义］（尤指对死者的）致敬／哀，颂词，悼念，吊唁
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160324 暮
+【事】The US and Argentina sealed a major trade deal on the first dayof Obama's visit.
+［译］孙欣祺：奥巴马访阿第一天，两国即签订一重要贸易协议。
+［译］丁 烨：美国与阿根廷于奥巴马访阿首日达成一重要贸易协议。
+［评］朱绩崧：国事访问，“首日”比“第一天”更符合语境。
+【辞】seal〔及物〕
+［义］（以盖章等正式方式）保证；确认，批准；使｛交易、契约｝定局
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160325 朝
+【事】Netherlands legendary forward Johan Cruyff died at the age of68.
+［译］茆 霖：荷兰足球传奇前锋约翰·克鲁伊夫逝世，享年68岁。
+［译］孙予聪：前荷兰传奇前锋约翰·克鲁伊夫逝世，享年68岁。
+［评］朱绩崧：“享年⋯岁”中，“年”、“岁”同义，建议留“年”去“岁”。孙译“前荷兰”中，“前”也不必留。
+【辞】forward〔名〕
+［义］（足球等）前锋
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160325 暮
+【事】Former Bosnian Serb leader Radovan Karadzic was convicted ofgenocide.
+［译］丁 烨：前波黑塞族领导人拉多万·卡拉季奇被判种族灭绝罪。
+［译］孙予聪：前波黑塞族领导人卡拉季奇被定罪为种族屠杀。
+［评］朱绩崧：-cide后缀有不少词，如suicide, regicide, infanticide,insecticide。
+【辞】genocide〔名〕
+［义］大屠杀（尤指种族灭绝）
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160328 朝
+【事】Pope Francis preached an Easter message of hope after a grimweek in Europe.
+［译］陈雪瑶：欧洲度过阴沉一周，教皇方济各于复活节之际宣扬希望。
+［译］王娅妮：过去的一周里欧洲笼罩在阴云之下，天主教教宗方济各发表复活节讲话，传递希望。
+［评］朱绩崧：“教皇”是通俗叫法，天主教会称“教宗”。陈译未有message对应词，不妥。
+【辞】preach〔及物〕
+［义］公开宣讲｛教义、信仰｝
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160328 暮
+【事】Two Japanese opposition parties merged to form a new grouping toput pressure on Shinzo Abe.
+［译］陈雪瑶：日本两反对党合并为一新政党，意在向安倍施压。
+［译］王娅妮：日本在野两党并为一新党，施压于安倍内阁。
+［评］朱绩崧：日文姓名必须查考，不可用拼音。英语中，一般先名后姓，Shinzo Abe字面即“晋三安倍”。
+【辞】grouping〔名〕
+［义］（尤指大团体中的）派；集团
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160329 朝
+【事】A breakaway Pakistani Taliban faction claims the bombing thatkills 70 in Lahore.
+［译］金 怡：拉合尔爆炸致70人死亡，一巴基斯坦塔利班分支宣布对此负责。
+［译］王梓诚：巴基斯坦拉哈尔市发生爆炸，致70人死亡。塔利班一分支宣称对其负责。
+［评］朱绩崧：王译补充了地理信息，有利阅读，毕竟拉合尔并不著名。但“巴基斯坦”是“塔利班分支”的重要定语，不该省去。
+【辞】breakaway〔名词定语〕
+［义］（从组织中）分／脱离
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+【补充】今早句变翻译中未将breakaway一词含义明确点出。该组织实为“先脱离再加入巴基斯坦塔利班的极端组织”。
+
+
+时代の句变 160329 暮
+【事】The FBI successfully used a mysterious technique to crack theiPhone of a gunman.
+［译］金 怡：美联调局以神秘技术成功破解枪击案凶手的苹果手机。
+［译］王梓诚：联邦调查局借助一神秘技术，成功破解了某枪手的“爱疯”手机。
+［评］朱绩崧：crack用在iPhone上，可译作“解锁”。
+【辞】crack〔及物〕
+［义］破译；解决／释
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160330 朝
+【事】Maserati recalls nearly 21,000 cars in China over a defect thatcould increase the risk of a collision.
+［译］陆文悦：因存一处可能增加碰撞风险的隐患，玛莎拉蒂在华召回约2.1万辆问题车。
+［译］潘腾飞：因一个可能增加撞车风险的缺陷，玛莎拉蒂在中国召回近21000辆车。
+［评］朱绩崧：over在此，相当于because of。又，前半句建议拆开：因一处缺陷或提升撞车风险，……
+【辞】collision〔名〕
+［义］（猛烈）碰撞
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160330 暮
+【事】China has appointed its first special envoy to Syria.
+［译］陆文悦：中国首次任命叙利亚特使。
+［译］潘腾飞：中国任命第一位叙利亚特使。
+［评］朱绩崧：envoy来自法语envoyé，过去分词，表示sent。英语中还有同源词envoi。
+【辞】envoy〔名〕
+［义］使者，代表（尤指外交使节）
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160331 朝
+【事】Foxconn sealed a takeover of Japanese electronics maker Sharpfor $3.5 billion.
+［译］孙欣祺：富士康以35亿美元完成收购日本电器制造商夏普。
+［译］茆 霖：富士康确定将以35亿美元收购日本电子制造商夏普。
+［评］朱绩崧：“电子制造商”不如“电器制造商”，盖electronics此指devices that operate usingsmall electrical parts。但“完成收购”与“确定收购”是两码事，我倾向后者。
+【辞】electronics〔名〕
+［义］电子器件／电路
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160331 暮
+【事】Yao Ming was elected for enshrinement into the Naismith MemorialBasketball Hall of Fame.
+［译］孙欣祺：姚明正式入选奈史密斯NBA名人堂。
+［译］茆 霖：姚明入选NBA奈史密斯篮球名人堂，为后辈敬仰。
+［评］朱绩崧：我会译作“荣登⋯名人堂”。孙译过简，茆译略繁。
+【辞】enshrinement〔名〕
+［义］奉为神圣；庄严记载
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160401 朝
+【事】Nobel literature laureate Imre Kertesz dies at 86.
+［译］丁 烨：凯尔泰斯·伊姆雷过世，享年86岁，曾获诺贝尔文学奖。
+［译］孙予聪：诺贝尔文学奖得主凯尔泰斯·伊姆雷逝世，享年86。
+［评］朱绩崧：laurea是拉丁文“桂冠”（laurel wreath）之义。laureate即获得桂冠者，poetlaureate为“桂冠诗人”。
+【辞】laureate〔名〕
+［义］（荣誉）获得者
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160401 暮
+【事】Zaha Hadid, architect famed for futuristic curves, dies aged65.
+［译］丁 烨：因前卫曲线设计而闻名的建筑师扎哈·哈迪德逝世，享年65岁。
+［译］孙予聪：未来主义曲线建筑大师扎哈·哈迪德逝世，享年65。
+［评］朱绩崧：dies aged 65也可作dies at (the age of)65。architecture实为建筑之学问、技术、风格，不可指具体之建筑物。
+【辞】futuristic〔形〕
+［义］（技术、设计）极现代化
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160523 朝
+【事】An Indonesian volcano erupted, spewing hot clouds of ash,killing at least seven.
+［译］郑巨源：印尼一火山爆发，火山灰喷涌而出，至少已有7人遇难。
+［译］吴超然：印尼一座火山爆发，喷涌而出的炙热火山灰造成至少7人死亡。
+［评］重光会：volcano源于罗马神话火神Vulcan。死／休眠／活火山，extinct/dormant/activevolcano。
+【辞】spew〔及物〕
+［义］（大量）喷出；（快速）放／涌出
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160523 暮
+【事】India successfully tested its first-ever indigenous spaceshuttle, joining the race to develop reusable spacecraft.
+［译］郑巨源：印度成功试射首架国产航天飞机，加入可回收空间运载器的研发竞赛。
+［译］吴超然：印度成功试射首架自制航天飞机，从此加入可重复使用航天器研发的竞赛阵营。
+［评］重光会：indigenous与native近义，且均搭配介词to。indigenous更强调“源自当地”，native则更强调“非外来”。
+【辞】indigenous〔形〕
+［义］当地，本土；固有
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160524 朝
+【事】President Obama announced the lifting of a long-standing armsembargo on Vietnam in Hanoi.
+［译］郑巨源：奥巴马总统在河内宣布解除存在已久的对越武器禁运。
+［译］吴超然：奥巴马到访河内期间宣布解除长久以来的对越武器禁运。
+［评］重光会：lift在此义为“解除”。arms以复数形式出现，义为“武器”。embargo多搭配介词on/against。
+【辞】long-standing〔形〕
+［义］长期存在／持续
+【源】NBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160524 暮
+【事】Coca-Cola has been forced to stop production in Venezuela due toan escalating food and energy shortage.
+［译］郑巨源：因食物和能源短缺情况加剧，可口可乐公司在委内瑞拉停产。
+［译］吴超然：由于委内瑞拉食品及能源短缺加剧，可口可乐公司被迫停产。
+［评］重光会：郑译、吴译均有歧义。可作：因当地食品和能源短缺情况加剧，可口可乐公司被迫在委内瑞拉停产。另，escalate与escalade同源，后者为军事用词，专指用云梯攀登城垣。
+【辞】escalate〔不及物〕
+［义］变得严重／升级
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+时代の句变 160418 朝
+【事】Myanmar's new president has pardoned 83 prisoners held forpolitical crimes.
+［译］陈雪瑶：缅甸新总统宣布赦免83名政治罪囚犯。
+［译］王娅妮：缅甸新任总统特赦，83名狱中政治犯获释。
+［评］朱绩崧：缅甸今称Myanmar，英治时代称Burma。
+【辞】pardon〔及物〕
+［义］赦免
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160418 暮
+【事】Brazil’s lower house of Congress voted in favor of impeachingpresident Rousseff.
+［译］陈雪瑶：巴西众议院投票通过总统罗塞夫弹劾案。
+［译］王娅妮：巴西国会下议院投票表决，已通过针对总统罗塞夫的弹劾。
+［评］朱绩崧：巴西到底称“下议院”还是“众议院”，虽无对错之别，但应从新华社惯例。
+【辞】lower house〔名词组〕
+［义］众议院；（英国）下（议）院
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160419 朝
+【事】A tiny sculpture artist created a microscopic Shakespeare tomark the 400th anniversary of the Bard's death.
+［译］金 怡：为纪念莎士比亚逝世400周年，一艺术家创作莎翁微雕。
+［译］王梓诚：莎翁逝世400周年，某小型雕塑家作一微型雕像，以为纪念。
+［评］朱绩崧：“小型雕塑家”拗口，artist也未必非要“艺术家”。拙译：一微雕能手为莎翁造像，纪念其逝世四百年。
+【辞】bard〔名〕
+［义］（吟游／流浪）诗人；（the B~）诗圣（特指莎士比亚）
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+时代の句变 160419 暮
+【事】AP won the Pulitzer Prize for public service for documenting theuse of slave labor in Southeast Asia.
+［译］金 怡：美联社对东南亚奴役劳工的报道获普利策公共服务奖。
+［译］王梓诚：因报道东南亚奴役劳工，美联社获普利策公共服务奖。
+［评］朱绩崧：document与docile（驯服的）同源于拉丁动词docēre（教）。
+【辞】document〔及物〕
+［义］用记实材料构成｛影片／小说｝；记实性地描述
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160420 朝
+【事】Delhi has banned chewing tobacco to lower the high incidence ofmouth and throat cancers.
+［译］陆文悦：德里已禁售咀嚼烟草，遏制口腔癌和咽喉癌的高发病率。
+［译］潘腾飞：为降低口腔癌和咽喉癌高发病率，德里禁止咀嚼烟草。
+［评］朱绩崧：chewing是动名词，还是动词现在分词，直接影响翻译用词。陆译以为后者，潘译以为前者。
+【辞】incidence〔名〕
+［义］发生率
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160420 暮
+【事】Trump won the Republican presidential primary in New York whileHillary Clinton triumphed in the Democratic race.
+［译］陆文悦：纽约州两党初选，特朗普、希拉里双双获胜。
+［译］潘腾飞：特朗普和希拉里分别赢得纽约州共和党和民主党总统初选。
+［评］朱绩崧：古罗马凯旋式，武将有大功则举行triumph，战功略小则举行ovation。
+【辞】primary〔名〕
+［义］候选人选拔会；初选
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160421 朝
+【事】Mitsubishi Motors admitted it falsified fuel economy test datato make emissions levels look more favorable.
+［译］孙欣祺：三菱汽车承认篡改燃油经济性测试结果，美化排放数据。
+［译］茆 霖：三菱汽车承认伪造油耗试验数据以迎合排放标准。
+［评］朱绩崧：emissions是复数，本例中作levels的名词定语。
+【辞】economy〔名〕
+［义］节约／俭／省（措施）；充分利用
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160421 暮
+【事】Britain celebrates Queen Elizabeth II's 90th birthday, withDavid Cameron leading a parliamentary homage.
+［译］孙欣祺：伊丽莎白二世九十大寿，英国举国欢庆，卡梅伦率国会致意。
+［译］茆 霖：英国庆伊丽莎白女王90寿辰，卡梅伦领国会呈其敬祝。
+［评］朱绩崧：homage本义为“（领主治下仆）人之身份”（参考HomoSapiens），转义为“崇敬”，o读如box之o。又，九旬之人为nonagenarian。
+【辞】homage〔名〕
+［义］尊／崇敬，敬意
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160422 朝
+【事】Anti-slavery activist Harriet Tubman will be the first woman toappear on a US banknote for more than a century.
+［译］孙予聪：废奴活动家哈丽特·塔布曼将被印上美国纸币，成为一百多年来首位女性。
+［译］丁 烨：废奴活动家哈丽特·塔布曼将成为一个多世纪以来首位登上美元纸币的女性。
+［评］朱绩崧：就钞票、纸币而言，“登上”不如“印上”，而某人“将被印上”不如某人的肖／头像“将（被）印上”。activist建议改作“运动领袖／倡导者”。
+【辞】banknote〔名〕
+［义］（尤指中央银行发行的）钞票
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160422 暮
+【事】German philosopher Kant, who argued that reason is the source ofmorality, was born this day in 1724.
+［译］孙予聪：1724年的今日，康德诞生。这位德国哲学家生前提出理性是道德之本。
+［译］丁 烨：德国哲学家康德于1724年今日诞生，他主张理性为道德之源。
+［评］朱绩崧：注意区别moral (adj.), moral (n.), morale, morals,morality。
+【辞】morality〔名〕
+［义］道德（性／规范／观）
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160503 朝
+【事】An Australian entrepreneur has identified himself as thepseudonymous creator of bitcoin.
+［译］郑巨源：澳洲一企业家自称以假名创造了比特币。
+［译］吴超然：一澳大利亚企业家已对外承认自己用化名创造了比特币。
+［评］重光会：identify义为indicate who sb. is or what sth.is，译为“指认”更恰当，故郑译“自称”优于吴译。另，前缀pseudo-表示“伪”、“假”，注意p不发音且重音位于第二音节。
+【辞】pseudonymous〔形〕
+［义］用假／化名；署笔名
+【源】The Guardian
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160503 暮
+【事】Underdog Leicester City have won the English Premier Leaguetitle for the first time.
+［译］孙欣祺：英超鱼腩莱斯特城逆袭摘首冠。
+［译］吴超然：屡被看低的莱斯特城首次赢得英超冠军头衔。
+［评］重光会：球队名以单数形式出现，相关代词及谓语动词单复数皆可。
+【辞】underdog〔名〕
+［义］（斗／竞争中）失败／处于劣势的一方／人
+【源】CNN
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160505 朝
+【事】A 10-year-old Finnish hacker has received $10,000 fromFacebook’s bug bounty program for hacking into Instagram.
+［译］郑巨源：一芬兰十岁黑客因骇入Instagram而获得脸书有奖查漏计划的一万美元。
+［译］吴超然：芬兰一名十岁儿童获得脸书授予的一万美元“漏洞赏金”，以奖励其黑入Instagram。
+［评］重光会：hack及物、不及物均可。另，Finnish音同finish，但有两个n。
+【辞】bounty〔名〕
+［义］奖／赏金
+【源】Sydney Morning Herald
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160505 暮
+【事】The ECB will stop issuing 500 euro banknotes on concerns itcould facilitate illicit activities.
+［译］郑巨源：因其可能助长不法行为，欧洲央行将停发500欧元纸币。
+［译］吴超然：由于500欧元面额纸币可能给不法行为带来便利，欧洲央行将终止其发行。
+［评］重光会：吴译啰嗦，不如作：恐500元钞助长不法行为，欧洲央行将予停发。facilitate源自形容词facile，同源的还有名词facility。另，区分illicit，illegal和unlawful。
+【辞】illicit〔形〕
+［义］非法，违规／禁，伤风败俗
+【源】Reuters
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160506 朝
+【事】Turkey's prime minister resigns following failed talks withErdogan aimed at healing a rift between the pair.
+［译］郑巨源：在意欲与埃尔多安弥合分歧的谈判失败后，土耳其总理宣布辞职。
+［译］吴超然：土耳其总理宣布辞职，因其与总统埃尔多安无法通过谈判消除分歧。
+［评］重光会：吴译增添“总统”更清晰；郑译“弥合”更贴切。另，区分failed和failing。
+【辞】rift〔名〕
+［义］裂缝／口；〔喻〕（友好关系的）裂痕
+【源】Financial Times
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160506 暮
+【事】Kim Jong-un seeks to cement power at the first North KoreanCongress in 36 years.
+［译］郑巨源：朝时隔36年重开党代会，金正恩欲借机巩固政权。
+［译］吴超然：金正恩欲借朝鲜36年来首次召开的全国代表大会巩固政权。
+［评］重光会：原句无“党”，郑译补充信息，更准确。
+【辞】cement〔及物〕
+［义］用水泥加固；巩固
+【源】New York Times
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160405 朝
+【事】The Russian unmanned cargo ship Progress successfully dockedwith the International Space Station.
+［译］金 怡：俄罗斯“进步”号无人货运飞船与国际空间站成功对接。
+［译］王梓诚：俄罗斯发射的“进步”号无人货运飞船，已成功对接国际空间站。
+［评］朱绩崧：“载人的”是manned，双写n，不是maned。maned是“有鬃毛的”。
+【辞】dock〔不及物〕
+［义］（宇宙飞行器）在外层空间对接
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160405 暮
+【事】A massive logistical operation was launched to ship refugeesfrom Greece back to Turkey.
+［译］金 怡：大规模遣返行动展开，将难民从希腊运送回土耳其。
+［译］王梓诚：希腊展开大规模后勤工作，将难民遣返土耳其。
+［评］朱绩崧：本句之ship，义乃send sb. to a place that is usually faraway，但未必用ship这一交通工具。
+【辞】logistical〔形〕
+［义］后勤（学）
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160406 朝
+【事】China banned imports of gold and rare earths from NorthKorea.
+［译］陆文悦：中国禁止自朝鲜进口金矿及稀土矿物。
+［译］潘腾飞：中国禁止自朝进口黄金和稀土。
+［评］朱绩崧：陆译“金矿”不确，gold只是“黄金”。可联想记忆auriferous（含金的）。
+【辞】rare earth〔词组〕
+［义］稀土（元素）
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160406 暮
+【事】Construction workers in Gaza discovered ancient ruins that maybe part of a Byzantine church.
+［译］陆文悦：加沙地带建筑工人发现一片古迹，疑似拜占庭时期的一座教堂遗迹。
+［译］潘腾飞：加沙建筑工人发现古代遗迹，疑为一拜占庭时期教堂。
+［评］朱绩崧：陆译出了part of，潘译则无。Byzantine读音勿受“拜占庭”影响。
+【辞】Byzantine〔形〕
+［义］（与）拜占庭帝国（有关）
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160407 朝
+【事】Cruz invigorates the anti-Trump camp with his primary win inWisconsin.
+［译］孙欣祺：美国大选初选，克鲁兹赢得威斯康星州，为反川普阵营注入强心剂。
+［译］茆 霖：克鲁兹获胜威斯康星初选，反特朗普阵营大受鼓舞。
+［评］朱绩崧：拙译：威斯康星初选，克鲁兹获胜，反特朗普阵营士气为之一振。
+【辞】invigorate〔及物〕
+［义］使生气勃勃／精力充沛／健壮／活跃；激励，鼓舞
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160407 暮
+【事】WHO reports that diabetes cases have quadrupled over the pastquarter century.
+［译］孙欣祺：世卫组织报告称，糖尿病患者已较二十五年前增长三倍。
+［译］茆 霖：世界卫生组织报告显示，过去25年间糖尿病患者数已翻两番。
+［评］朱绩崧：diabetes源自希腊语，经拉丁语，进入英语。字面义为siphon（虹吸管）。汉语旧称“消渴症”，著名病人有西汉司马相如。
+【辞】quadruple〔不及物〕
+［义］变为四倍，翻两番
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160408 朝
+【事】A chair that JK Rowling sat on while writing Harry Potter bookswas sold at a New York auction for $400,000.
+［译］丁 烨：一纽约拍卖会上，JK罗琳写哈利波特系列时所用座椅以40万美金价格拍出。
+［译］孙予聪：纽约一拍卖中，JK罗琳的一把椅子以40万美元成交，她曾在这把椅子上写作《哈利·波特》。
+［评］朱绩崧：孙译有误，此椅女作家坐过，但未必是属于女作家的。“在椅子上写作”亦有歧义。
+【辞】auction〔名〕
+［义］拍卖（会／活动）
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160408 暮
+【事】Spanish expatriate painter Pablo Picasso died this day in1973.
+［译］王梓诚：1973年的今天，西班牙侨民画家帕布罗·毕加索逝世。
+［译］孙欣祺：西班牙画家巴勃罗·毕加索于1973年今日逝世，生前曾旅居海外。
+［评］朱绩崧：expatriate可与diaspora, refugee, asylum(application)一同记忆。
+【辞】expatriate〔形〕
+［义］移居国／海外；遭流放／放逐
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160516 朝
+【事】French actress Madeleine LeBeau, the last surviving cast memberof _Casablanca_ has died at 92.
+［译］郑巨源：参演《卡萨布兰卡》的法国女星玛德琳·勒博去世，享年92岁，至此该片所有演员均已离世。
+［译］吴超然：法国女演员玛德琳·勒博去世，享寿92岁。至此，《北非谍影》演员已全部谢世。
+［评］重光会：Casablanca源自西班牙语，义为“白色的房子”。
+【辞】cast〔名〕
+［义］（戏剧、电影等）一组演员
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160516 暮
+【事】Norway's sovereign wealth fund plans legal action againstVolkswagen over emissions scandal.
+［译］郑巨源：挪威主权财富基金意图就“排放门”对大众汽车发起诉讼。
+［译］吴超然：挪威主权财富基金计划对大众汽车发起诉讼，以追究其在排放丑闻中的责任。
+［评］重光会：Volkswagen为德语，本义为“人的车”。sovereign wealthfund，简称SWF，中文通称“主权基金”。
+【辞】sovereign wealth fund〔名词组〕
+［义］主权财富基金
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160517 朝
+【事】Google is to phase out full support for Flash on Chrome browserby the end of 2016.
+［译］郑巨源：谷歌将于2016年底取消Chrome浏览器对Flash的全面支持。
+［译］吴超然：谷歌Chrome浏览器将在2016年底前停止对flash插件的全面支持。
+［评］重光会：phase in/out义为“分阶段引进／退出”，“分阶段”呼应by the end of2016。另，西人常将faze误作phase，阅读时当注意。
+【辞】browser〔名〕
+［义］浏览器
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160517 暮
+【事】South Korean author's _The Vegetarian_ won the Man BookerInternational Prize for fiction.
+［译］郑巨源：韩小说家凭《素食主义者》一书摘得布克奖。
+［译］吴超然：韩国作家凭借小说《素食主义者》获国际布克奖。
+［评］重光会：fiction指一切虚构文学，novel多指长篇小说，novella特指中篇小说。另，fiction不可数，后两者可数。
+【辞】vegetarian〔名〕
+［义］素食主义者
+【源】ABC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160518 朝
+【事】Metro construction in Rome has unearthed a huge Roman barracksfrom the 2nd Century AD.
+［译］郑巨源：施工中的罗马地铁发掘出公元2世纪的古罗马大型兵营。
+［译］吴超然：罗马修建地铁意外发掘公元2世纪古罗马大型兵营。
+［评］重光会：barracks以复数形式出现，冠词及相关谓语动词用单数。另，表示“公元前／后具体年份”时，如年份用数字表示，BC应后置，AD反之；如年份拼写完整，两者皆后置。
+【辞】unearth〔及物〕
+［义］挖掘；掘出
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160518 暮
+【事】The US has raised its import duties on Chinese steelmakers bymore than five-fold.
+［译］郑巨源：美国将中国钢材进口税率提高到五倍以上。
+［译］吴超然：美国将中国制钢关税提高逾5倍。
+［评］重光会：tax泛指一切税，tariff特指关税，duty多指对货物、商品征收的税，如importduty（进口关税）。
+【辞】-fold〔词缀〕
+［义］倍，重（chóng）
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160519 朝
+【事】Japan's economy returned to growth in the first quarter of 2016,expanding by an annualized pace of 1.7%.
+［译］郑巨源：日本经济于今年一季度回暖，年化增长率为1.7%。
+［译］吴超然：2016年第一季度日本经济恢复增长势头，折合年增长率为1.7%。
+［评］重光会：区分annual和annal，两者均源于拉丁语单词annus，表示“年”。
+【辞】annualized〔形〕
+［义］按一年计算，折合成年度
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160519 暮
+【事】An EgyptAir flight bound for Cairo from Paris with 66 people onboard has disappeared from the radar.
+［译］郑巨源：埃及航空一由巴黎飞往开罗的航班从雷达上消失，机上总有66人。
+［译］吴超然：埃及航空一架载有66人的客机在从巴黎飞往开罗途中从雷达上消失。
+［评］重光会：radar为radio detection and ranging缩写。
+【辞】bound〔形〕
+［义］正要／准备到…去
+【源】Washington Post
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160520 朝
+【事】Drug and chemicals giant Bayer has made an unsolicited takeoveroffer for agrochemicals behemoth Monsanto.
+［译］郑巨源：医药巨头拜耳向大型农化企业孟山都发起主动性收购要约。
+［译］吴超然：医药大公司拜耳主动向农用化学品巨头孟山都提出收购。
+［评］重光会：郑译“要（yāo）约”，准确。agro-义为“农业”，源于希腊语词agros，本义为field。
+【辞】unsolicited〔形〕
+［义］主动提供；未经请求
+【源】BBC
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160520 暮
+【事】Levi Strauss received the patent for blue jeans with copperrivets this day in 1873.
+［译］郑巨源：1873年的今天，李维·斯特劳斯获得了铜钉蓝色牛仔裤专利。
+［译］吴超然：1873年今日，Levi's创始人李维·斯特劳斯凭借铜铆钉蓝色牛仔裤获得专利。
+［评］重光会：吴译补充人物信息，更清晰。patent作形容词时读音有别于名词、动词，作名词时搭配介词for，作动词时及物。
+【辞】rivet〔名〕
+［义］铆钉
+【源】History.com
+岁次｜唐明宇敬制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 151105 暮
+【事】A panel of American senators began an investigation of drugprices, in the wake of several media reports about suddenincreases.
+［王梓诚译］继几家媒体报道药价之骤涨后，参议员委员会着手调查。
+［源］Eco. Esp.
+【辞】in the wake of
+【义】if sth., esp. sth. bad, happens in the wake of an event, ithappens afterwards and usually as a result of it
+【例】Famine happened in the wake of the drought.
+［源］LDOCE5
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151106 朝
+【事】The bank of Britain is in a sticky spot.
+［王梓诚译］英国银行处境艰难。
+［源］Eco. Esp.
+【辞】in a sticky spot
+【义】{in a spot} (informal) in a difficult situation<非正式>在困境当中
+{sticky} (informal) involving problems; difficult or awkward
+<非正式> 卷入麻烦的；困难的；难对付的
+［源］新牛津英汉双解大词典
+【例】the relationship is going through a sticky patch.
+那段关系正在经历一段困难时期。
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151106 午
+【事】Sales of Volkswagen brands including VW, Seat, and Skoda allfell last month in the UKamid the carmaker's emissions scandal.
+［王梓诚译］上月，在大众汽车的排放丑闻中，其旗下VW、Seat、Skoda等在英国的销量均下滑。
+［源］BBC
+【辞】amid
+【义】in an atmosphere or against the background of
+【例】talks broke down amid accusation of a hostile takeoverbid.
+谈判在一片恶意收购的指责声中破裂了。
+［源］新牛津英汉双解大词典
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151106 暮
+【事】The global steel industry is buckling.
+［源］Eco. Esp.
+【辞】buckle
+【义】fugitive (of a person) suffer a psychological collapse as aresult of enormous stress or pressure （人）精神崩溃
+【例】A weaker person might have buckled under the strain.一个软弱一点的人在这样的压力下可能就垮了。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151107 朝
+【事】Canada's new prime minister vowed to make good campaign promisesto resettle 25, 000 Syrian refugees.
+［王梓诚译］加国新总理发誓将履行诺言，安置好25, 000名叙利亚难民。
+［源］YND
+【辞】make sth. good
+【义】fulfill a promise or claim
+履行诺言，实现主张
+【例】I challenged him to make good his boast.
+我给他出了个难题，让他兑现自己夸下的海口。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151107 午
+【事】 Volkswagen's woes worsened.
+［王梓诚译］大众汽车雪上加霜
+［源］Eco. Esp.
+【辞】woe
+【义】(woes) things that cause sorrow or distress 困难，灾难，不幸
+【例】to add to his woes, customers have been spending less.
+另他更苦恼的是，顾客消费越来越少了。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151107 暮
+【事】The economy added 271,000 jobs in October, well aboveeconomists’ expectation.
+［王梓诚译］十月新增271, 000个新工作，远超经济学家预期。
+［源］Eco. Esp.
+【辞】well
+【义】to a great extent or degree (often used for emphasis)
+［常用于强调］十分，很，大大地
+【例】The visit had been planned well in advance.
+那次访问早就计划好了。
+［源］ODE2
+王梓诚敬制｜重光会 © 2015
+
+时代の句变 151108 朝
+【事】Polls have opened in Myanmar's general election - the firstopenly contested poll in 25 years after decades of militaryrule.
+［朱绩崧译］缅甸大选投票开始。该国在长达数十载的军政府统治之下，历经25年才首度迎来公开竞选。
+［源］BBC
+【辞】con'test
+【义】vt. take part in (a competition or election)参加（竞选，选举）
+【例】A coalition was formed to contest the presidentialelections.组成联盟以参加总统选举。
+［源］ODE2
+朱绩崧敬制｜重光会 © 2015
+
+时代の句变 151108 午
+【事】A Texas judge is in a local hospital after being shot overnightoutside her Austin home. Her injury is 'extremely serious' but not'life threatening.' Authorities haven't detailed a motive or asuspect.
+［王娅妮译］一名德克萨斯州法官，夜间在其位于奥斯丁的家门外被枪击后住进当地医院。该法官伤势“极其严重”但无“生命威胁”。当权机构尚未详述任何缘由或推测。
+［朱绩崧译］美国得州一名女法官昨夜在奥斯丁家门外遭枪击后住院，伤势“极重”但无“性命之虞”。有关方面尚未详述袭击动机及疑犯情况。
+［源］CNN
+【辞】detail
+【义】vt. describe item by item; give the full particulars of列举，详细描述
+【例】The report details the environmental and health costs of thecar.
+报告详细列举了汽车的环境代价和健康代价。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+
+时代の句变 151108 暮
+【事】Cooking with vegetable oils releases toxic cancer-causingchemicals. Scientists warn against the dangers of frying food insunflower oil and corn oil. Instead, butter and lard aresafer.
+［王娅妮译］使用菜籽油烹调的过程会产生有毒致癌物质。科学家提醒用葵花籽油和玉米籽油煎炒食物风险重重。黄油和猪油代之更为安全。
+［朱绩崧译］烹调植物油产生有毒致癌物质。科学家提醒，用葵花籽油、玉米油煎炒食物风险重重。黄油、猪油更安全。
+［源］Telegraph of UK
+【辞】toxic
+【义】adj. poisonous有毒的
+【例】Alcohol is toxic to the ovaries.酒精对卵巢有害。
+［源］ODE2
+王娅妮敬制｜重光会 © 2015
+第一周测试题
+1.The economy added 271,000 jobs in October, __ above economists’expectation.
+2.Volkswagen’s __ worsened.
+3.The visit had been planned __ in advance.
+4.To __ his woes, customers have been spending less.
+5.Famine happened in the __ of the drought.
+6.Canada's new prime minister vowed to make __ campaign promises to__ 25, 000 Syrian refugees.
+7.The global steel industry is __.
+8.The bank of Britain is in a sticky __.
+9.I challenged him to make good his __.
+10.A weaker person might have __ under the strain.
+11.Sales of Volkswagen brands including VW, Seat, and Skoda allfell last month in the UK __ the carmaker's __ scandal.
+12.Talks broke down amid accusation of a __ takeover bid.
+13.The relationship is going through a sticky __.
+14.A __ of American senators began an investigation of drug prices,in the __ of several media reports about sudden increases.
+答案：
+1. well 2. woes 3. well 4. add to 5. wake 6. good, resettle 7.buckling 8. spot 9. boast 10. buckled 11. amid, emissions 12.hostile 13. patch 14. panel, wake
+时代の句变 160307 朝
+【事】The head of China's state planning agency said that the economyis not heading for hard landing.
+［译］陈雪瑶：国家发改委负责人表示，中国经济并未滑向硬着陆。
+［译］王娅妮：中国国家发改委主任称，中国经济不会走向硬着陆。
+［评］朱绩崧：拙译not heading for hard landing为“并无硬着陆之虞／忧”。
+【辞】hard landing〔词组〕
+［义］（飞机）硬着陆；〔喻〕短期牺牲国民收入以平复通胀
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160307 暮
+【事】Former US First Lady Nancy Reagan died at home in California atthe age of 94.
+［译］陈雪瑶：美前第一夫人南希·里根于加州家中去世，享年94岁。
+［译］王娅妮：美国前总统夫人南希·里根在加州家中辞世，享年94岁。
+［评］朱绩崧：94岁去世，也可称“享寿百龄欠六”。注意Reagan中ea的读音。
+【辞】First Lady〔名词组〕
+［义］第一夫人（国家元首夫人）；（活动、职业中的）女性领导者，大姐大
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160308 朝
+【事】Raymond Tomlinson, the 'Godfather' of the email and selector ofthe '@' symbol, has died.
+［译］金 怡：电子邮件之父雷蒙德·汤姆林森去世，正是他选择在邮件地址中使用“@”符号。
+［译］王梓诚：雷蒙德·汤姆林森去世，其为电子邮件及邮件“@”符号之父。
+［评］朱绩崧：Tomlinson重音在第一音节。王译漏selector，符号@应非此公发明。
+【辞】godfather〔名〕
+［义］教父；〔喻〕发起／开拓者
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160308 暮
+【事】Malaysia's parliament will observe a solemn moment of silence tomark two years since MH370's disappearance.
+［译］金 怡：马航MH370失联两周年之际，马来西亚国会将庄严默哀。
+［译］王梓诚：MH370失联今满两年，马来西亚国会将为其庄严默哀。
+［评］朱绩崧：“庄严默哀”啰嗦。正常“默哀”，哪有嘻嘻哈哈的？知取舍，翻译之大道也。
+【辞】observe〔及物〕
+［义］静默（以示尊敬）；默哀
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160309 朝
+【事】Netanyahu nixed his trip to Washington and declined an offer tomeet Obama.
+［译］陆文悦：内塔尼亚胡取消华盛顿访问，婉拒与奥巴马的会面邀请。
+［译］潘腾飞：内塔尼亚胡取消对美访问，并婉拒奥巴马之约。
+［评］朱绩崧：潘译“对美访问”范围远超Washington，故有误。nix是口语用词，源自德语nichts。
+【辞】nix〔及物〕
+［义］结束；取消
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160309 暮
+【事】Tourists flock to Indonesia to see the rare total solareclipse.
+［译］陆文悦：印尼现日全食奇观，引游客蜂拥观赏。
+［译］潘腾飞：大批游客涌至印尼，观看罕见日全食。
+［评］朱绩崧：陆以“奇观”对rare，颇佳，但一句用两“观”字。潘译四平八稳。
+【辞】eclipse〔名〕
+［义］（天体的）食
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160310 朝
+【事】Google's AI system AlphaGo won the first Go match out of fivewith Lee Se-dol.
+［译］孙欣祺：谷歌人工智能系统AlphaGo在与李世石五盘对弈中取得开门红。
+［译］茆 霖：谷歌人工智能系统AlphaGo对弈（韩国棋王）李世石，获五轮战首场胜利。
+［评］朱绩崧：茆译平顺。孙译两个问题：一、围棋比赛数量多用“局”（日本用“番”），而一局之过程多用“盘”（如“盘中投子认输”、“复盘”）。二、黑白博弈，哪来“开门红”？
+【辞】artificial intelligence〔名词组〕
+［义］人工智能
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160310 暮
+【事】North Korea vowed to 'liquidate' all remaining South Koreanassets at former cooperative projects.
+［译］孙欣祺：朝鲜方面宣布，将“清算”以往南北合作项目中所有韩方资产。
+［译］茆 霖：朝鲜宣布将全面“清算”此前朝韩合作项目中的韩方资产。
+［评］朱绩崧：此处，liquidate字面义为“还原⋯的流通性”，本质即变卖。“清算”还有其他对应词，如国际“清算”银行是theBank of International Settlements；在基督教里有the day ofreckoning，此“清算”则为比喻义。
+【辞】liquidate〔及物〕
+［义］清算｛公司债务、资产｝
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160311 朝
+【事】ECB cut its benchmark interest rate to 0% from 0.05% to boostthe flagging eurozone economy.
+［译］丁 烨：欧洲央行将其基准利率从0.05%下调至0%，以促进欧元区低迷经济增长。
+［译］孙予聪：为刺激欧元区疲软的经济，欧洲央行下调基准利率五个基点至零。
+［评］朱绩崧：拙译：为振兴欧元区衰颓的经济，欧洲央行将0.05%的基准利率归零。
+【辞】flag〔不及物〕
+［义］每况愈下，｛质量｝衰颓，｛活跃度｝低靡
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160311 暮
+【事】Gorbachev succeeded Chernenko as leader of the Soviet Union thisday in 1985.
+［译］丁 烨：戈尔巴乔夫于1985年今日接替契尔年科，成为苏联最高领导人。
+［译］孙予聪：1985年的今日，戈尔巴乔夫继契尔年科成为前苏联领袖。
+［评］朱绩崧：leader宜译作“最高领导人／领袖”，因前无the，表示独一之职位，万人之上。注意Soviet中o的读音。
+【辞】succeed〔及物〕
+［义］接替／任；继承
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160229 朝
+【事】China will put a second space laboratory in orbit in the thirdquarter of this year.
+［译］陈雪瑶：中国第二个空间实验室预计于今年第三季度入轨运行。
+［译］王娅妮：今年第三季度，中国将发送第二个太空实验室入轨。
+［评］朱绩崧：in orbit乃词组，无冠词，指循轨道运行。陈译有“运行”二字，更准确。
+【辞】orbit〔名〕
+［义］（天体等运行的）轨道
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160229 暮
+【事】Leonardo DiCaprio won the best actor Academy Award for hisperformance in 'The Revenant.'
+［译］陈雪瑶：小李子凭《荒野猎人》终捕获小金人。
+［译］王娅妮：莱昂纳多·迪卡普里奥凭借《荒野猎人》中的表现，荣膺奥斯卡最佳男主角奖。
+［评］朱绩崧：王译平实，但“表现”不如“演技”。陈译时髦，非年轻人不易懂也。
+【辞】revenant〔名〕
+［义］归来的人（尤指回人世的亡魂）
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160301 朝
+【事】Three Japanese executives got charged with negligence over thedisaster at the Fukushima nuclear plant.
+［译］金 怡：三名日本高管因福岛核电站事故被控过失罪。
+［译］王梓诚：日本三名高管因于福岛核电站惨剧玩忽职守，已遭起诉。
+［评］朱绩崧：“玩忽职守”亦作neglect [n.] ofduty。“高管”哪家单位的？两译似均未交待。又，注意区别ignore与neglect。
+【辞】negligence〔名〕
+［义］玩忽职守
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160301 暮
+【事】China's navy has launched its first self-propelled floatingdock.
+［译］金 怡：中国海军首艘自航式浮船坞下水。
+［译］王梓诚：中国海军推出其第一个自航式浮船坞。
+［评］朱绩崧：金译“下水”较王译“推出”更符合语境。dock宜与quay（读音特别）、wharf、pier、jetty、marina合记，可网搜图片以区别。
+【辞】dock〔名〕
+［义］船坞
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160302 朝
+【事】It is for the first time evidenced that Zika virus might cause asevere neurological disorder.
+［译］陆文悦：研究首次证明寨卡病毒可致严重的神经紊乱。
+［译］潘腾飞：寨卡病毒首次被证实可能引起一种严重的神经系统疾病。
+［评］朱绩崧：陆译去“的”则完美。潘译disorder既作“疾病”，如disease何？
+【辞】neurological〔形〕
+［义］神经病学
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160302 暮
+【事】Oil prices fell in the wake of industry data that showed a hugebuild in the US crude stocks.
+［译］陆文悦：行业数据显示，美原油库存猛增，油价应声下跌。
+［译］潘腾飞：行业数据显示美国原油库存大幅增加，油价随即下跌。
+［评］朱绩崧：stocks此乃“存货”，非“股票”。陆译“应声”乃金融文本常见之语。
+【辞】build〔名〕
+［义］（人、动物的）体格，形体；〔喻〕（存货的）体量
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160303 朝
+【事】Democrat Clinton and Republican Trump each racked up the mostwins on 'Super Tuesday.'
+［译］孙欣祺：“超级星期二”当天，民主党议员希拉里·克林顿与共和党议员特朗普成为各自阵营最大赢家。
+［译］茆 霖：美总统初选于“超级星期二”落幕，民主党希拉里及共和党普朗特成最大赢家。
+［评］朱绩崧：茆译“及”有所轻重，不如孙译“与”中正。茆漏译each。孙译补“希拉里”，高明。
+【辞】rack up〔动词组〕
+［义］累积／计；聚集
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160303 暮
+【事】The UN Security Council voted unanimously to impose toughsanctions on North Korea.
+［译］孙欣祺：联合国安理会全票通过对朝严厉制裁决议。
+［译］茆 霖：联合国安理会全票通过涉朝决议，将对其实施严厉制裁。
+［评］朱绩崧：茆译显长，且“涉朝”与“对朝”毕竟不同，语义有差。孙译可变作“联合国安理会全票通过决议，严厉制裁朝鲜”。
+【辞】unanimously〔副〕
+［义］（对决定、意见）一致同意，无异议
+【源】Wall Street Journal
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160304 朝
+【事】An asteroid about the size of a basketball court will pass byEarth on March 8.
+［译］丁 烨：一篮球场大小的小行星将于3月8日飞掠地球。
+［译］孙予聪：3月8日，一尺寸接近篮球场的小行星将与地球“擦肩而过”。
+［评］朱绩崧：asteroid又称minorplanet或planetoid。注意词形和读音与astroid（【数学】星形线）区别。
+【辞】asteroid〔名〕
+［义］小行星
+【源】Mashable
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160304 暮
+【事】The US Constitution went into effect as the governing law of theUS this day in 1789.
+［译］丁 烨：美国宪法于1789年今日作为美管辖法律开始生效。
+［译］孙予聪：1789的今日，美国宪法正式生效，管辖全美。
+［评］朱绩崧：丁译“美管辖法律”稍显拗口。go into effect内无冠词，表示瞬间完成“生效”动作。the governinglaw之the表示唯一。
+【辞】governing〔形〕
+［义］控制；管／治理
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160118 朝
+【事】Tsai Ing-wen, leader of the Democratic Progressive Party, waselected Taiwan's first female president.
+［译］陈雪瑶：民进党主席蔡英文当选为台湾地区首位女性领导人。
+［译］王娅妮：民进党主席蔡英文当选，成为台湾地区首位女领导人。
+［评］朱绩崧：另一种翻译可能：民进党魁蔡英文当选台湾首位女（伪）“总统'。（纯属技术探讨，不含政治态度。）
+【辞】progressive〔形〕
+［义］进步；逐步，渐进
+［例］a ~ decline in popularity 逐渐下降的名望
+【源】BBC; NOECD2 & Dr. Jason Chu
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160118 暮
+【事】Bitcoin's lead developer ended his involvement with thecryptocurrency because it had “failed.”
+［译］陈雪瑶：自认比特币败局已定，开发骨干从加密货币中收手身退。
+［译］王娅妮：比特币一开发主管因该密算货币已难挽颓势，故不再参与开发。
+［评］朱绩崧：翻译中应体现the lead developer of Bitcoin的独一地位（“一开发主管”则误矣），应体现hadfailed发生在ended之前（“败局已定”、“难挽颓势”恰相反）。汉语无冠词，无时态，故英译汉尤须注意冠词与时态。
+【辞】cryptocurrency〔名〕
+［义］加密货币
+【源】Yahoo! News Digest; Wikipedia
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160119 朝
+【事】China has published its first list of 'authentic livingbuddhas.'
+［译］金 怡：中国公布首份“真活佛”名单。
+［译］王梓诚：中国政府公布首批“真活佛”。
+［评］朱绩崧：考虑到“活佛”是宗教概念，“真”也可改为“正宗”。
+【辞】authentic〔形〕
+［义］真正；可靠／信
+［例］an ~ depiction of the situation 对情况的如实描述
+【源】The Economic Times; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160119 暮
+【事】Toshiba unveiled a robot that helps clean up theradiation-filled Fukushima power plant.
+［译］金 怡：东芝推出一款自动控制装置，协助清理充满辐射的福岛核电站。
+［译］王梓诚：东芝推出一款机器人，可帮助清理辐射弥漫的福岛核电站。
+［评］朱绩崧：“自动控制装置”译法有趣，不循常例。原文helps而非canhelp，则王译“可”宜删。“弥漫”好于“充满”。
+【辞】radiation〔名〕
+［义］辐射（能）；放射线／物；核离子
+【源】The Verge; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+
+时代の句变 160120 朝
+【事】Donald Trump misquoted the Bible during a convocation at aChristian school in Virginia.
+［译］金 怡：唐纳德·川普在弗吉尼亚一所基督教学校发表演讲，却在引用《圣经》时犯了错误。
+［译］陈雪瑶：弗吉尼亚州一教会学校集会演讲上，唐纳德·川普引用圣经闹乌龙。
+［评］朱绩崧：“闹乌龙”虽动听，但语焉不详，未必是misquote。
+【辞】convocation〔名〕
+［义］大型正式集会；神职人员代表会议；（大学正式的）授奖典礼／仪式
+【源】BuzzFeed; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160120 暮
+【事】The US Supreme Court agreed to decide the legality of shieldingmore than 4 million immigrants.
+［译］金 怡：美国最高法院将裁定保护逾四百万移民之令是否合法。
+［译］陈雪瑶：美最高法院同意审理移民保护计划合法性，事关四百万余移民去留。
+［评］朱绩崧：decide the legality应为“审查是否合宪”，因为美国最高法院裁定政府决策是否符合宪法。
+【辞】legality〔名〕
+［义］合法地位；法律性
+［例］documentation testifying to the ~ of the arms sale证明军售合法的所有文件
+【源】Reuters; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160121 朝
+【事】The oldest Christian monastery in Iraq has been razed byIS.
+［译］孙欣祺：“伊斯兰国”拆毁了伊拉克最古老的耶教修道院。
+［译］孙予聪：伊拉克最古老的基督教修道院被IS摧毁。
+［评］朱绩崧：此语境下，“被拆毁”宜作“惨遭拆毁”。raze，古文“隳”（音：灰）也。贾长沙《过秦论》：“一夫作难而七庙隳。”
+【辞】raze〔及物〕
+［义］拆毁｛建筑｝，夷平｛城镇｝
+【源】Yahoo! News Digest; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160121 暮
+【事】New evidence points to the 9th planet in the solar system, whichis 5,000 times bigger than the outcast Pluto.
+［译］茆 霖：新证据表明，太阳系存在第九大行星，其体积超过被逐出行星之列的冥王星5000倍。
+［译］孙予聪：新迹象揭露太阳系第九颗行星，比降级“弃儿”冥王星大5000倍。
+【辞】outcast〔形〕
+［义］被抛弃／逐出
+【源】Reuters; NOECD2
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160122 朝
+【事】The founder of Wikileaks is to be quizzed over allegations ofsexual assault.
+［译］丁 烨：维基解密创始人将就性骚扰指控受讯。
+［译］孙欣祺：维基解密之父将因性侵指控接受问讯。
+［评］朱绩崧：sexual assault（性侵）程度比sexual harassment（性骚扰）严重。
+【辞】allegation〔名〕
+［义］假说；（尤指无证据的）宣称，指控
+［例］He made ~s of corruption against the administration.他指控行政管理部门腐败。
+【源】Daily Mail; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160122 暮
+【事】British statesman and philosopher Francis Bacon was born inLondon this day in 1561.
+［译］丁 烨：1561年的今天，英政治家、哲学家弗朗西斯·培根出生于伦敦。
+［译］茆 霖：英国政治家、哲学家弗朗西斯·培根于1561年今日在伦敦出生。
+【辞】statesman〔名〕
+［义］政治家；治国之才
+［例］the party's elder ~ 该党元老
+【源】Encyc. Brit.; NOECD2
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160111 朝
+【事】A US B-52 bomber swooped over a South Korea air base close tothe North-South border.
+［译］陈雪瑶：美军一B-52轰炸机突访韩空军基地，紧邻朝鲜边境低空飞行。
+［译］王娅妮：一架美国B-52轰炸机俯冲飞过南韩空军基地上空，该基地近两韩交界。
+［评］朱绩崧：陈译“紧邻”之语义关系错误。王译“两韩”颇怪。两译均应译出此空军基地为韩国某一空军基地。
+【辞】swoop〔不及物〕
+［义］（尤指鸟）俯冲
+［例］The barn owl can ~ down on a mouse in total darkness.仓鸮在漆黑的夜里能对准老鼠猛扑下来。
+【源】BBC; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160111 暮
+【事】Mexico wants to quiz Sean Penn over his interview withGuzman.
+［译］陈雪瑶：墨西哥警方试图审问肖恩·潘，了解其与古兹曼会面细节。
+［译］王娅妮：墨西哥当局希望查问肖恩·潘，获知其与古兹曼访谈细节。
+［评］孙欣祺：原句中并无“警方”，“访谈”比“会面”更贴切。
+【辞】quiz〔及物〕
+［义］询／盘问
+［例］Four men have been ~zed about the murder. 四名男子已就该谋杀案接受审问。
+【源】Yahoo! News Digest; NOECD2
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160112 朝
+【事】Music icon David Bowie succumbs to cancer at the age of69.
+［译］金 怡：音乐偶像大卫·鲍伊不敌癌症逝世，享年69岁。
+［译］王梓诚：音乐偶像大卫·鲍威因癌症逝世，享年69岁。
+［评］朱绩崧：王译平实。金译“不敌癌症”不如生动到底，作“不敌癌魔”。
+【辞】succumbto sth.〔词组〕
+［义］死于伤／病
+【源】CBS News; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160112 暮
+【事】Apple is ramping up its medical tech workforce.
+［译］金 怡：苹果正增加医疗科技员工。
+［译］王梓诚：苹果正广纳医疗科技人才。
+【辞】ramp sth. up〔词组〕
+［义］使…（的数量）增加
+［例］Producers can quickly ramp up production. 生产者们可以快速增产。
+【源】BuzzFeed; OALD8, LDOCE5
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160113 朝
+【事】A 5,300 year-old mummy offers new clues about a stomachinfection.
+［译］金 怡：5300年木乃伊为一种胃部感染研究提供新线索。
+［译］陈雪瑶：5300岁木乃伊为胃部感染研究提供新线索。
+［评］朱绩崧：陈译“岁”更佳，金译“一种”准确。
+【辞】infection〔名〕
+［义］（身体某部位的）感染；传染病
+【源】Reuters; NOECD2, OALD8
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160113 暮
+【事】Romania is amending a law that enabled prisoners to cutsentences by writing books.
+［译］金 怡：罗马尼亚着手修订囚犯“出书减刑”法。
+［译］陈雪瑶：罗马尼亚正着手修法，囚犯或无法再通过著书减刑。
+［评］朱绩崧：金译只说“修订”，不谈结果，陈译显然更佳。
+【辞】sentence〔名〕
+［义］徒刑
+［例］Slander of an official carried an eight-year prison ~.诽谤官员过去要处以八年徒刑。
+【源】BBC; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160114 朝
+【事】The hunt for missing MH370 has uncovered a shipwreck deepunderwater.
+［译］孙欣祺：失踪航班MH370的搜寻人员在深海发现一具船骸。
+［译］孙予聪：MH370机体仍下落不明，大海捞针时却捞到一具深海船骸。
+【辞】uncover〔及物〕
+［义］发现；揭露（秘密／不为人知之物）
+［例］Further evidence has been uncovered. 已发现新证据。
+【源】AFP; NOECD2
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160114 暮
+【事】Asian shares tumbled lower after a heavy sell-off on WallStreet.
+［译］孙欣祺：华尔街投资者大幅抛售股票，亚洲股市应声再跌。
+［译］孙予聪：华尔街一场巨额抛售导致亚洲股份进一步走低。
+［评］朱绩崧：“抛售”前，用“巨额”、“大幅”还是“大量”？聪译“股份”恐误。
+【辞】sell-off〔名〕
+［义］（尤指导致价格下跌的股票／债券／商品的）抛售
+【源】Yahoo! News; NOECD2
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160115 朝
+【事】British icon of stage and screen Alan Rickman has died at69.
+［译］丁 烨：英国舞台剧、影视剧代表演员艾伦·里克曼逝世，享年69岁。
+［译］茆 霖：英国舞台、荧幕之星艾伦·瑞克曼逝世，享年69。
+【辞】screen〔名〕
+［义］影视；电影业
+［例］He has adapted the play for the ~. 他把那部剧改编成了电影。
+【源】The Hollywood Reporter; NOECD2
+岁次｜孙欣祺敬制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160115 暮
+【事】Wikipedia, a free Internet-based encyclopedia, debuted this dayin 2001.
+［译］丁 烨：免费网络百科全书维基百科于2001年今日正式上线。
+［译］茆 霖：自由网络百科全书维基百科于2001年今日首次上线。
+［评］朱绩崧：free当为“免费”。“首次”与“上线”含义重复。
+【辞】debut〔不及物〕
+［义］（新产品的）面世
+［例］The model is expected to ~ at $19,000.该型号预计将以19000美元的价格问世。
+【源】Encyc. Brit.; NOECD2
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160201 朝
+【事】World number one Djokovic beat Murray in straight sets to winhis sixth Australian Open title.
+［译］陈雪瑶：世界排名第一的德约科维奇连胜三盘击败穆雷，六度摘得澳网公开赛桂冠。
+［译］王娅妮：网坛世界第一乔科维奇直落三盘击败穆雷，斩获第六座澳网公开赛冠军奖杯。
+［评］朱绩崧：三“盘”还是三“局”？网球小分算“局”，用game，大分算“盘”，用set。“三”不见诸原文，乃从网球实际情况得来。挥拍如挥刀，“斩获”倒也不算不搭。
+【辞】straight〔形〕
+［义］连续
+［例］He scored his fourth ~ win. 他取得四连胜。
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160201 暮
+【事】Twenty-seven officials in China have been penalized for thewrongful execution of Hugjiltu 20 years ago.
+［译］陈雪瑶：二十年前呼格吉勒图冤杀案追责，27名中国官员受处分。
+［译］孙欣祺：因涉二十年前错判死刑的呼格吉勒图案，二十七名中国官员遭处分。
+［评］朱绩崧：Hugjiltu，呼格吉勒图，蒙古族人名也，不可用汉语拼音翻译。孙译“错判死刑”不如陈译“冤杀”简洁。数字写阿拉伯字还是汉字，望统一。
+【辞】penalize〔及物〕
+［义］处罚，处…以刑罚，使…受刑
+［例］You will be ~d for wrong spelling. 你拼写不好，要扣分。
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160202 朝
+【事】Toyota would halt production at all car assembly plants in Japanfor 6 days due to a steel shortage.
+［译］金怡：因钢铁短缺，日本所有丰田汽车装配厂将停产六日。
+［译］王梓诚：因日本钢材短缺，丰田汽车命境内装配厂停产六天。
+［评］朱绩崧：steel，钢也；iron，铁也。故译文宜用“钢材”。汉语称“钢铁”，英语则iron and steel。
+【辞】assembly〔名〕
+［义］（机器等的）组装，装配
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160202 朝
+【事】Toyota would halt production at all car assembly plants in Japanfor 6 days due to a steel shortage.
+［译］金 怡：因钢铁短缺，日本所有丰田汽车装配厂将停产六日。
+［译］王梓诚：因日本钢材短缺，丰田汽车命境内装配厂停产六天。
+［评］朱绩崧：steel，钢也；iron，铁也。故译文宜用“钢材”。汉语称“钢铁”，英语则iron and steel。
+【辞】assembly〔名〕
+［义］（机器等的）组装，装配
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160202 暮
+【事】Researchers have found the undersea source of the 1964devastating Alaska tsunami.
+［译］金 怡：科学家确定了1964年阿拉斯加夺命海啸水下源头。
+［译］王梓诚：研究人员找到了1964年阿拉斯加毁灭性海啸的海底元凶。
+［评］朱绩崧：可拆开译，如“1964年，阿拉斯加海啸惨烈。科研人员现已确定其海底源头”。
+【辞】devastating〔形〕
+［义］毁灭性，极具破坏力
+［例］He received ~ injuries in the accident. 他在这次事故中受到多重致命伤害。
+【源】AP
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160203 朝
+【事】Heavy snow in China has stranded tens of thousands of peopleoutside Guangzhou Railway Station.
+［译］孙欣祺：在中国，已有数万人因大雪滞留在广州火车站外。
+［译］王梓诚：大雪让数万人滞留中国广州火车站外。
+［评］朱绩崧：tens of thousands of不可说成thousands of tensof，须从左至右渐大。又，可参考myriads of（西方古典历史中，a myriad为一万）。
+【辞】strand〔及物〕
+［义］使⋯受困，令⋯无法脱身
+［例］Two of the firm's lorries are ~ed in France.那家公司的两辆卡车困在法国。
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160203 暮
+【事】The retail behemoth Amazon plans to open hundreds of physicalbookstores.
+［译］陆文悦：零售巨头亚马逊拟开设逾百家实体书店。
+［译］金 怡：零售巨头亚马逊拟向实体进军，计划开设数百家书店。
+［评］朱绩崧：physical（实体的）与virtual（虚拟的）相对，另一组对比即offline与online。注意behemoth之读音、retail之重音位置。
+【辞】behemoth〔名〕
+［义］庞然大物（尤指大规模、强有力之机构、组织）
+【源】BuzzFeed
+岁次｜孙欣祺恭制＊重光会联袂
+乙未｜英汉大词典编纂处㊣出品
+
+时代の句变 160411 朝
+【事】Kerry's arrival in Hiroshima marked the first-ever visit to theatomic-bombed city by a US secretary of state.
+［译］陈雪瑶：克里成为广岛遭原子弹袭击后首位造访的美国国务卿。
+［译］王娅妮：克里抵达广岛，此举标志着美国国务卿历史性首访此核爆城市。
+［评］朱绩崧：atomic名词为atom，a-即“不（可）”，-tom义为“分割”。故“原子”为“不可分割之物”。
+【辞】Secretary of State〔名词组〕
+［义］（美国）国务卿；（英国）国务大臣；（加拿大）国务秘书
+【源】The Economic Times
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160411 暮
+【事】Ukrainian Prime Minister Yatseniuk tendered his resignation in atelevised broadcast.
+［译］陈雪瑶：乌克兰总理亚采纽克在一档电视节目中宣布辞职。
+［译］王娅妮：乌克兰总理亚采纽克发表电视讲话宣告辞职。
+［评］朱绩崧：陈、王二译各取其半，作“发表电视讲话，宣布辞职”为佳。
+【辞】tender〔及物〕
+［义］（正式）提出／供
+【源】Yahoo! News Digest
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160412 朝
+【事】The World Bank trimmed its 2016 and 2017 economic growthforecasts for developing East Asia.
+［译］金 怡：世界银行调降东亚发展中国家今明两年经济增长预期。
+［译］王梓诚：世界银行下调东亚发展中国家2016和2017年经济增长预估值。
+［评］朱绩崧：此“预报”基于数据，方法科学，故用forecast。
+【辞】trim〔及物〕
+［义］削／缩减，减少
+【源】Reuters
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160412 暮
+【事】Scientists have successfully used DNA to store and retrieveimages.
+［译］金 怡：科学家成功使用DNA存取图像。
+［译］王梓诚：科学家使用DNA技术，成功存储并读取若干图片。
+［评］朱绩崧：王译啰嗦，“若干”毫无必要。金译“使用”作“利用”更佳。
+【辞】retrieve〔及物〕
+［义］重新得到；收／取／领回；捡起
+【源】Digital Trends
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160413 朝
+【事】China's HNA Group made an offer to buy a Swiss-based airlinecatering firm for 1.4bn Swiss francs.
+［译］陆文悦：中国海航集团发出要约，拟以14亿瑞士法郎收购瑞士航空配餐公司。
+［译］潘腾飞：海航拟出资14亿瑞士法郎收购一瑞士航空餐饮公司。
+［评］朱绩崧：陆译“瑞士航空配餐公司”仿佛专名，不如潘译多一“一”字来得妥帖。但陆译“配餐”中一个“配”字，凸显出该公司在航空产业的从属地位。
+【辞】catering〔形〕
+［义］承办酒席，提供饮食及服务
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160413 暮
+【事】Stephen Hawking and Russian billionaire Yuri Milner are teamingup in a $100 million hunt for alien life.
+［译］陆文悦：霍金联手俄亿万富翁尤里·米尔纳，一亿美元搜寻外星生命。
+［译］潘腾飞：霍金与俄亿万富翁尤里·米尔纳合作寻找外星生命，将耗资一亿美元。
+［评］朱绩崧：alien可与extraterrestrial记忆。研究外星生命的学问叫xenology，霍、米二氏皆兼职xenologist也。
+【辞】team up〔动词组〕
+［义］结成一队；协作；配合
+【源】abcnews
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160414 朝
+【事】South Korea's governing Saenuri party may have lost its majorityin parliament.
+［译］孙欣祺：韩国执政党新世界党可能已经在议会中失势。
+［译］茆 霖：韩国执政党新国家党或无法在议会中赢得多数席位。
+［评］朱绩崧：parliament前无冠词，多特指英国国会（又称议会）。此处省略，应是新闻行文求简约耳。
+【辞】majority〔名〕
+［义］多数党／派（地位）
+【源】BBC
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160414 暮
+【事】Kobe Bryant says farewell after 20 years with the LALakers.
+［译］孙欣祺：湖人生涯二十载，科比终脱紫金战袍。
+［译］茆 霖：科比·布莱恩特告别湖人，结束20年职业生涯。
+［评］朱绩崧：fare即travel，farewell字面义即“走好”。习语用Fare thee/you well。可结合bidsb. adieu记忆。
+【辞】farewell〔名〕
+［义］道／告别；辞／践行
+【源】Yahoo! News
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160415 朝
+【事】China cut its currency exchange rate against the dollar by thelargest amount in three months.
+［译］孙予聪：中国调低人民币对美元汇率，降幅为三个月以来最大。
+［译］丁 烨：中国下调人民币对美元汇率，调降幅度创三个月以来新高。
+［评］朱绩崧：amount译作“幅度”没问题。但很少有人会想到“幅度”可译作amount。
+【辞】exchange rate〔名词组〕
+［义］汇率／价
+【源】AFP
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 160415 暮
+【事】The British luxury passenger liner _Titanic_ sank on this day in1912.
+［译］孙予聪：1912年今日，英豪华客轮铁达尼号沉没。
+［译］丁 烨：英国豪华客轮泰坦尼克号于1912年今日沉没。
+［评］朱绩崧：注意区分luxury, luxurious, luxuriant的读音、语义。
+【辞】liner〔名〕
+［义］（旧时在固定航线上航行的豪华）远洋客轮
+【源】Encyc. Brit.
+岁次｜孙欣祺恭制＊重光会联袂
+丙申｜英汉大词典编纂处㊣出品
+
+时代の句变 151221 朝
+【事】Prosecutors in southern Italy have halted a cull of olive treesin Puglia.
+［译］王娅妮：意大利南部普利亚的检察官已下令停止有选择地砍伐当地橄榄树。
+［译］陈雪瑶：意大利南部地区检察官已叫停普利亚的橄榄树选择性砍伐。
+［评］朱绩崧：据原文，检察官固是“意大利南部”的，但不见得是“普利亚”的。故陈译为是。
+【辞】cull〔名〕
+［义］（为控制数量，对野生动植物的）选择性宰杀／砍伐
+［例］the annual seal cull 每年对海豹的选择性宰杀
+【源】BBC；NOECD2、朱绩崧
+孙欣祺敬制｜重光会 © 2015
+
+时代の句变 151221 暮
+【事】At the 2015 Miss Universe pageant, host Steve Harvey announcedthe wrong winner.
+［译］王娅妮：2015世界小姐选美大赛上，主持人史蒂夫·哈维报错冠军名字。
+［译］陈雪瑶：2015环球小姐大赛上，主持人史蒂夫·哈维颁错后冠。
+［评］朱绩崧：陈译不拘原文，可谓妙也。
+【辞】pageant〔名〕
+［义］〈北美〉a beauty contest 选美（比赛）；集合名词：pageantry
+［例］to utilize ~ winners as cultural ambassadors 以选美冠军充文化使者
+【源】BuzzFeed；NOECD2, CNN, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151222 朝
+【事】Iranian hackers penetrated the computers controlling a dam nearNew York.
+［译］王梓诚：伊朗黑客入侵了一水坝的计算机控制系统。该水坝位于纽约附近。
+［译］金 怡：伊朗黑客曾入侵纽约附近一水坝控制系统。
+［评］朱绩崧：二译句序可变，如“控制纽约附近一座水坝的多台电脑（对应the computers）曾遭伊朗黑客（可思考：如何体现hackers是复数）入侵”。
+【辞】penetrate〔及物〕
+［义］（为刺探情报）打／渗入｛敌方阵营｜对立组织｝
+［例］MI5 had been ~d by Russian intelligence.英国军情五处已遭俄罗斯情报机构渗透。
+【源】BBC；NOECD2 & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151222 暮
+【事】A highly venomous sea snake has washed ashore in SouthernCalifornia.
+［译］王梓诚：在南加州，一剧毒海蛇被冲上海岸。
+［译］金　怡：一剧毒海蛇随海浪冲上南加州海滩。
+［评］朱绩崧：此例中，wash形为主动，义为被动。二译中，既云“海蛇”，则“海岸”、“海浪”、“海滩”何须再“海”？
+【辞】venomous〔形〕
+［义］｛动物，尤指蛇｝有毒的，｛器官｝分泌毒液的
+［例］a venomous arrow 涂了蛇毒的箭
+【源】BuzzFeed；NOECD2, MW11, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151223 朝
+【事】Nicolas Cage has agreed to return a rare dinosaur skull to theMongolian government.
+［译］陈雪瑶：尼古拉斯·凯奇同意归还一珍稀恐龙头骨与蒙古政府。
+［译］金　怡：尼古拉斯·凯奇已同意将一稀有恐龙颅骨归还蒙古国政府。
+【辞】skull〔名〕
+［义］头（盖）骨，骷髅／〈沪〉榔头
+［例］a fractured skull 破裂的颅骨
+【源】Huffington Post；NOECD2, OALD8, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151223 暮
+【事】Stumped Israeli archeologists asked Facebook for help toidentify a mysterious object.
+［译］陈雪瑶：以色列考古学家鉴定神秘物件遇难题，转而求助“脸书”。
+［译］孙欣祺：一件神秘物体让以色列考古专家难辨真容，只得求助“脸书”网友。
+［评］朱绩崧：孙译“难辨真容”稍过，但补“网友”得当。二译中，“学家”、“专家”亦可作“人员”、“工作者”。
+【辞】stump〔及物〕
+［义］使…为难／困惑，难住／倒
+［例］Education chiefs were ~ed by some of the exam questions.教育主管们自己都做不来这些考题。
+【源】Yahoo! News；NOECD2, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+［评］张晓斌：“物件”好过“物体”。这毕竟是考古，不是物理。
+［评］朱绩崧：张兄的论也。考古，巨者器物，细者杂件。陈译此处为胜。
+孙欣祺恭制｜重光会 ©️ 2015
+
+时代の句变 151224 朝
+【事】A large, spent Russian rocket plummeted from space into the skyover the Southwest US.
+［译］孙予聪：俄罗斯一巨型火箭寿终，从太空坠入美国西南领空。
+［译］孙欣祺：俄罗斯一大型报废火箭从太空急坠入美国西南部上空。
+［评］朱绩崧：“寿终”太过矣。
+【辞】plummet〔不及物〕
+［义］快速／陡然下落；｛价格、销量｝暴／急跌
+【源】BuzzFeed；NOECD2, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151224 暮
+【事】An unemployed Senegalese man wins €400,000 in Spain’s Christmaslottery.
+［译］孙予聪：塞内加尔籍无业男子中西班牙圣诞节彩票，喜获40万欧元。
+［译］孙欣祺：西班牙圣诞彩票开奖，40万欧元大奖花落一位塞内加尔籍无业男士。
+［评］朱绩崧：“花落”过矣，然“大奖”确需点明。“无业”与“男子”更协调。
+【辞】lottery〔名〕
+［义］彩票销售／抽奖（活动）
+［例］a ~ ticket 彩票
+【源】The Guardian；NOECD2, OALD8, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151225 朝
+【事】A North Korean diplomat has been expelled from South Africa forillegal rhino horn trading.
+［译］茆 霖：朝外交官因非法犀角交易遭南非驱逐。
+［译］丁 烨：一朝鲜外交官因非法犀牛角交易被逐出南非。
+［评］朱绩崧：宜点明“一”名外交官。
+【辞】expel〔及物〕
+［义］赶走，驱逐（⋯出境），放逐
+［例］Foreign journalists are being ~led. 该国／地（区）正在驱逐外国记者。
+【源】Yahoo! News；NOECD2, OALD8, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151225 暮
+【事】Fiat Chrysler Automobiles said it would recall 570,000 SUVs forfire risks.
+［译］茆 霖：因存起火风险，菲亚特称将召回57万辆运动型多用途车。
+［译］丁 烨：菲亚特·克莱斯勒汽车公司称因火灾隐患，将召回57万辆运动型多用途车。
+［评］朱绩崧：汽车“起火”的可能多于“火灾”。
+【辞】recall〔及物〕
+［义］｛制造商｝收／召回｛有缺陷产品｝
+［例］The company has ~ed all the faulty hairdryers.公司回收了全部问题吹风机。
+【源】BuzzFeed；NOECD2, OALD8, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151228 朝
+【事】Scientists create the first ever inkjet-printed image thatchanges when you rotate it.
+［译］王娅妮：科研人员首创新型喷墨打印图像，转动即可产生成像变。
+［译］陈雪瑶：科学家首次喷墨打印出随转动变化的图像。
+［评］朱绩崧：区别rotate与revolve。
+【辞】inkjet printing〔名词组〕
+［义］喷墨打印（技术）
+［例］Inkjet printing recreates a digital image by propelling dropletsof ink onto paper. 喷墨打印技术将墨滴喷洒在纸上，从而再现电子图像。
+【源】Digital Trends；NOECD2, Wikipedia, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151228 暮
+【事】Chinese medicinal herbs are providing a niche market for USfarmers.
+［译］王娅妮：中草药为美国农民开辟了缝隙市场。
+［译］陈雪瑶：中医草药为美国农民带来缝隙市场新商机。
+［评］朱绩崧：niche market因其针对性强，故盈利可观；注意niche读音；注意provide sth. forsb.=provide sb. with sth.。
+【辞】niche market〔名词组〕
+［义］利基／缝隙市场
+【源】Yahoo! News；NOECD2 & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151229 朝
+【事】UK astronaut tweets a light-hearted apology after calling awrong number from the International Space Station.
+［译］王梓诚：英国宇航员在国际空间站打错了电话，为此在推特幽默道歉。
+［译］金怡：英国宇航员从国际空间站拨错电话，发逗乐推特致歉。
+［评］朱绩崧：王译“了”、“为此”多余。金译“从”不如“在”。“推特”建议加双引号。
+【辞】light-hearted〔形〕
+［义］轻松，愉快
+［例］a ~ comedy 轻喜剧
+【源】BBC；OALD8, LDOCE5 & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151229 暮
+【事】Guinea is to be declared free of Ebola by WHO, two years afterthe epidemic began there.
+［译］王梓诚：世卫组织有望宣布几内亚两年前发轫的埃博拉疫情结束。
+［译］金 怡：世界卫生组织宣布几内亚时长两年的埃博拉疫情结束。
+［评］朱绩崧：王译“有望”当改作“将”，“发轫”语体大谬。金译谓语时态出错，大败笔，又“世卫组织”即可，盖原文WHO也。
+【辞】epidemic 〔名〕
+［义］流行／传染病（之传播）
+［例］a flu epidemic 流感疫情
+【源】BBC；NOECD2 & Dr. Jason Chu
+王梓诚恭制｜重光会 © 2015
+
+时代の句变 151230 朝
+【事】IBM and Microsoft are competing to tap the market forforecasting air quality in China.
+［译］陈雪瑶：IBM和微软争相开发中国空气质量预报市场。
+［译］金 怡：中国空气质量预测市场引IBM和微软竞相淘金。
+［评］朱绩崧：就气象而言，“预报”好于“预测”。“淘金”生动。
+【辞】tap〔及物〕
+［义］开发｛市场｝，开采／挖掘｛资源｝
+［例］~ sb.'s expertise 利用某人的专业知识
+【源】Yahoo! News；NOECD2, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151230 暮
+【事】Airbus’s clever new planes are designed to help passengers beatjet lag.
+［译］陈雪瑶：空客新机型设计智能，帮助旅客倒时差。
+［译］金 怡：空客新机设计先进，能助乘客倒时差。
+［评］朱绩崧：clever对应“智能”而非“先进”。“倒时差”似多指到达目的地后，中途则说“消除时差综合征”为宜？
+【辞】jet lag〔名词组〕
+［义］时差，喷气飞行时差综合征（跨时区长时间飞行引起的生理失调症状）
+【源】BGR News; NOECD2, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+
+时代の句变 151231 朝
+【事】Hawaiians will be allowed to submit DNA evidence to prove theirnative ancestry.
+［译］孙予聪：夏威夷政府将允许居民提供DNA样本以证本地血统。
+［译］孙欣祺：夏威夷百姓将可凭DNA证明认祖归宗。
+［评］朱绩崧：聪译“夏威夷政府将允许”，于原文无征，谬。祺译“百姓”不如“居民”，“证明”不如“证据”。be allowedto宜作“获准”。DNA当知其汉译。
+【辞】ancestry〔名〕
+［义］（动植物的）世系，血统，遗传系统；演化
+［例］to have Scottish ~ 祖籍苏格兰
+【源】BuzzFeed; NOECD2, & Dr. Jason Chu
+孙欣祺恭制｜重光会 © 2015
+
+时代の句变 151231 暮
+【事】The East India Company was incorporated by English royal charterthis day in 1600.
+［译］孙予聪：1600年的今天，东印度公司获英国皇家特许状，正式成立。
+［译］孙欣祺：1600年12月31日，东印度公司获颁英国皇家特许状，自此成立。
+【辞】incorporate〔及物〕
+［义］使…成立为公司／组织；立…为城
+【源】Encyclopedia Britannica; NOECD2, & Dr. Jason Chu
+孙欣祺敬制｜重光会 © 2015
