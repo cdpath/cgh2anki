@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-from urllib.request import urlopen, build_opener
+from urllib.request import urlopen
 from urllib.parse import urlencode
 from bs4 import BeautifulSoup
 from manager import Manager
@@ -27,13 +27,10 @@ def get_blog_list(baseurl):
 
 
 def parse_content(blog_url):
-    # html = urlopen(Url)
-    opener = build_opener()
-    opener.addheaders = [('User-agent', 'Mozilla/5.0 (iPhone; CPU iPhone OS 9_1 like Mac OS X) AppleWebKit/601.1.46 (KHTML, like Gecko) Version/9.0 Mobile/13B143 Safari/601.1')]
-    html = opener.open(blog_url)
+    html = urlopen(blog_url)
 
-    bsObj = BeautifulSoup(html, "html.parser")
-    contents = bsObj.findAll("div", {"class": "content b-txt1"}) + bsObj.findAll("div", {"class": "item_hide"})
+    soup = BeautifulSoup(html, "html.parser")
+    contents = soup.findAll("div", {"class": "content b-txt1"}) + soup.findAll("div", {"class": "item_hide"})
     return contents
 
 
@@ -52,7 +49,19 @@ def normalize_punctuation(text):
     text = unicodedata.normalize('NFKC', text)
 
     import re
-    tr = {'【' : '[', '】':']', '〔' : '[', '〕' : ']', '〈' : '(', '〉' : ')', '“' : '「', '”' : '」', '‘' : '「', '’' : '」', '⋯': '...'}
+    tr = {
+        '【': '[',
+        '】': ']',
+        '〔': '[',
+        '〕': ']',
+        '〈': '(',
+        '〉': ')',
+        '“': '「',
+        '”': '」',
+        '‘': '「',
+        '’': '」',
+        '⋯': '...',
+    }
     pat = re.compile(u'|'.join(tr.keys()))
     text = pat.sub(lambda x: tr[x.group()], text)
     return text
@@ -63,9 +72,9 @@ def get_csv(input_file, output_file):
         import re
         pat = re.compile(r'^.*时代の句变.*\d{6}')
         segment = list()
-        with open(input_f) as f:
+        with open(input_f) as in_f:
             while True:
-                line = f.readline()
+                line = in_f.readline()
                 if line:
                     if pat.match(line):
                         yield segment
@@ -80,8 +89,8 @@ def get_csv(input_file, output_file):
         hits = [pat.sub('', i) for i in record if keyword in i]
         return '<br>'.join(hits)
 
-    with open(output_file, 'wt') as f:
-        f_csv = csv.writer(f)
+    with open(output_file, 'wt') as ou_f:
+        f_csv = csv.writer(ou_f)
         f_csv.writerow(('时', '事', '译', '辞', '义', '例', '评'))
         for record in __records(input_file):
             if len(record) > 1:
@@ -99,7 +108,7 @@ def get_csv(input_file, output_file):
 
 @manage_app.command
 def to_read(output_file):
-    """ download blogs """
+    """download blog texts"""
     baseurl = 'http://blog.sina.cn/dpool/blog/newblog/riaapi/mblog/get_articlelist.php'
     get_blog_list(baseurl)
     logger.info("=== Start  ===")
@@ -123,12 +132,13 @@ def to_read(output_file):
 
 @manage_app.command
 def for_anki(input_file, output_file):
-    """ convert to CSV to import to Anki """
+    """convert blog texts to CSV"""
     get_csv(input_file, output_file)
 
 
 @manage_app.command
 def normalize(input_file, output_file):
+    """normalize Chinese punctuation"""
     with open(input_file, 'rt') as in_f, open(output_file, 'wt') as ou_f:
         while True:
             line = in_f.readline()
@@ -153,4 +163,3 @@ if __name__ == '__main__':
     logger.addHandler(ch)
 
     manage_app.main()
-
